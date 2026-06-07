@@ -1,0 +1,23 @@
+{
+  "pdf": "/Users/miikka/Desktop/suba/otherworldscomic0000cyra_1.pdf",
+  "pages": 256,
+  "chapterCandidates": [
+    {
+      "page": 109,
+      "match": "chapter ",
+      "preview": "SOME LUNAR CUSTOMS AND INVENTIONS threads of all kinds, then he turns the needle to the chapter he wishes to hear and at once there issue from it, as from the mouth of a man or from a musical instrume"
+    }
+  ],
+  "chapters": [
+    {
+      "chapterIndex": 1,
+      "startPage": 109,
+      "endPage": 256,
+      "hint": {
+        "page": 109,
+        "match": "chapter ",
+        "preview": "SOME LUNAR CUSTOMS AND INVENTIONS threads of all kinds, then he turns the needle to the chapter he wishes to hear and at once there issue from it, as from the mouth of a man or from a musical instrume"
+      }
+    }
+  ]
+}

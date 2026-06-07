@@ -1,0 +1,15 @@
+{
+  "pages": 256,
+  "candidates": [],
+  "chapters": [
+    {
+      "chapterIndex": 1,
+      "startPage": 1,
+      "endPage": 256,
+      "hint": {
+        "page": 1,
+        "line": "START"
+      }
+    }
+  ]
+}
