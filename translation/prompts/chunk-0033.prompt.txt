@@ -1,0 +1,62 @@
+Translate the following English literary text into fluent modern Simplified Chinese.
+
+Rules:
+- Preserve headings and paragraph breaks.
+- Use natural modern Mandarin, not classical Chinese.
+- Do not summarize, explain, omit, or add commentary.
+- Keep dialogue and quotation marks readable in Chinese.
+- Keep proper names consistent with the glossary.
+- Output only the Chinese translation.
+
+Glossary:
+# Translation Glossary
+
+Use Simplified Chinese and modern literary Mandarin.
+
+- Cyrano de Bergerac: 西拉诺·德·贝热拉克
+- Cyrano: 西拉诺
+- Other Worlds: 异世界
+- The States and Empires of the Moon: 月球诸国与诸帝国
+- The States and Empires of the Sun: 太阳诸国与诸帝国
+- Geoffrey Strachan: 杰弗里·斯特拉坎
+- Campanella: 康帕内拉
+- Descartes: 笛卡尔
+- Gassendi: 伽森狄
+- Kepler: 开普勒
+- Copernicus: 哥白尼
+- Epicurus: 伊壁鸠鲁
+- Pythagoras: 毕达哥拉斯
+- Democritus: 德谟克利特
+- Girolamo Cardano: 吉罗拉莫·卡尔达诺
+- Cardano: 卡尔达诺
+- Prometheus: 普罗米修斯
+- The Moon: 月球
+- The Sun: 太阳
+
+Text:
+‘Does someone desire to learn where the sense of touch has its seat? For my part I think it is spread over all the surfaces of the body, seeing that this can feel with all its parts. I do believe, however, that the closer the organ we feel with is to our heads, the quicker we can make things out. This can be tested by closing our eyes and feeling something with our hands, for we can guess what it is more easily than if we felt it with our foot instead, when we should have some difficulty in recognizing it. This is due to the fact that, our skin being riddled all over with little holes, our nerves, whose substance is no more compact, lose many of these little atoms on the way, through the tiny gaps in their fabric, before they have reached the brain which is their destination. It remains for
+me to speak of smell and of taste.
+
+‘Tell me now, when I taste a fruit, is it not the heat of my mouth that makes it melt? Admit to me that, since there are salts in a pear which split up, when they dissolve, into little bodies of a different shape from those which make up the taste of an apple, they are bound to pierce our palate in a very different fashion. In the same way the wound made by the blade of a pike going through me is not like the blow from a pistol bullet, just as the pain from a pistol bullet is different from the one imprinted by a lozenge of steel.
+
+‘Of smell I have nothing to say, since your philosophers themselves confess it to be produced by a continual emission of little bodies.
+
+‘On this principle I am now going to explain to you the Creation, the harmony and influences of the celestial globes, and the immutable variety of the meteors.’
+
+Some lunar customs and inventions
+
+HE was going to continue, but at this point the old host came in, which made our philosopher think of retiring. Our host was Carrying glass vessels filled with glow-worms to illuminate the room. But as these little insect-fires lose much of their brilliance when they are not freshly gathered, this collection, being ten days old, shed hardly any light at all. Without waiting for the company to be inconvenienced by this, my demon went up to his chamber and came down at once with two balls of fire so brilliant that everyone was astonished he did not burn his fingers.
+
+“These incombustible torches,’ he said, ‘will serve us better than your bunches of worms. They are rays of the sun, which I have purged of their heat, otherwise the corrosive properties of its fire would have damaged your eyes by dazzling them. I have trapped their light and enclosed it in these transparent balls which I have here. This should give you no great cause for amazement since it is just as easy for me, a native of the sun, to bottle its rays, which are the dust of that world, as it is for you to gather up the dust or atoms which are the pulverized earth of this one.’
+
+Our host then dispatched a servant to escort the philosophers, because it was dark, with a dozen globes of worms suspended from his four legs. As for the rest of us (to wit, my preceptor and myself), we went to bed according to the physiognomist’s orders. This time he put me in a chamber of violets and lilies and sent them to tickle me as usual. At nine the following day I saw my demon coming in and he told me
+
+he had come from the palace, where ==aGpac™, one of the
+
+Queen’s ladies-in-waiting, had begged him to go and visit her. She had inquired after me, vowing that she still firmly intended to keep the promise she had given me, namely that she would cheerfully follow me if I would take her with me to the other world.
+
+‘What greatly edified me,’ he continued, ‘was to learn that the principal motive for her journey was to become a Christian. I therefore gave my word to assist her scheme to the extent of my powers and for this purpose to invent a machine capable of holding three or four persons, in which you can travel up there together this very day. I am going to apply myself seriously to the execution of this undertaking and so for your entertainment, while I am not with you, here is a book, which I will leave with you. I brought it back from my native land long ago. It is entitled: The States and Empires of the Sun, together with the History of the Spark. I am giving you this one besides, which I regard much more highly. It is The Great Works of the Philosophers composed by one of the best brains upon the sun. In it he proves that all things are true and states how the truths of all contradictions may be reconciled physically, such as for example that white is black and black is white; that one can be and not be at the same time; that there can be hills without valleys; that nothingness is something and that everything, which is, is not. But take note that he proves all these unheard-of paradoxes without any fallacious or sophistical reasoning.
+
+‘When you are tired of reading, you can take a walk or converse with our host’s son. His wit is quite delightful: what displeases me in him is his impiety. If he should chance to scandalize you or to undermine your faith with any of his arguments, you must not fail to come and put it to me at once and I will resolve the difficulties for you. Anyone else would order you to leave his company, when he desires to philosophize on such matters, but as he is extremely vain I am certain that he would take your flight for defeat and begin to imagine that our beliefs were not founded upon good reasons if you refused to listen to his. Reflect how you may live freely!’
+
+With these words he left me, for in that country they are the valediction with which one takes leave of someone, just as ‘good day’ or ‘your servant, Sir,’ is expressed by this compliment: ‘Love me, sage, for I love you.’ But he was hardly gone before I began to examine my books attentively, as well as their boxes, that is to say their covers, which seemed to me admirable in their richness. One was carved out of a single diamond, which was more brilliant beyond compare than any of ours. The second appeared to be nothing but a monstrous pearl split in two. My demon had translated the books into the language of that world, but since I have none of their print I am simply going to explain what these two volumes were like.

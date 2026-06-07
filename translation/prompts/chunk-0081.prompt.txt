@@ -1,0 +1,53 @@
+Translate the following English literary text into fluent modern Simplified Chinese.
+
+Rules:
+- Preserve headings and paragraph breaks.
+- Use natural modern Mandarin, not classical Chinese.
+- Do not summarize, explain, omit, or add commentary.
+- Keep dialogue and quotation marks readable in Chinese.
+- Keep proper names consistent with the glossary.
+- Output only the Chinese translation.
+
+Glossary:
+# Translation Glossary
+
+Use Simplified Chinese and modern literary Mandarin.
+
+- Cyrano de Bergerac: 西拉诺·德·贝热拉克
+- Cyrano: 西拉诺
+- Other Worlds: 异世界
+- The States and Empires of the Moon: 月球诸国与诸帝国
+- The States and Empires of the Sun: 太阳诸国与诸帝国
+- Geoffrey Strachan: 杰弗里·斯特拉坎
+- Campanella: 康帕内拉
+- Descartes: 笛卡尔
+- Gassendi: 伽森狄
+- Kepler: 开普勒
+- Copernicus: 哥白尼
+- Epicurus: 伊壁鸠鲁
+- Pythagoras: 毕达哥拉斯
+- Democritus: 德谟克利特
+- Girolamo Cardano: 吉罗拉莫·卡尔达诺
+- Cardano: 卡尔达诺
+- Prometheus: 普罗米修斯
+- The Moon: 月球
+- The Sun: 太阳
+
+Text:
+‘It is not the excess of his grief which makes him keep his mouth shut,’ she said, ‘but our laws, which forbid all criminals whose case is sub judice to speak until they are before the judges.’
+
+During this conversation the bird continued to make progress and I was quite amazed to hear Campanella shouting, with a look of rapturous joy on his face: ‘A hearty welcome to you, dearest of my friends! Come gentlemen,’ continued the good man, ‘let us go and meet Monsieur Descartes. Let us go down. There he is, coming now, but three leagues away from here.’
+
+This outburst left me quite perplexed, for I did not understand how he could know about the arrival of a person from whom we had received no news. ‘To be sure,’ I said to him, ‘I suppose you have just seen him in a dream?’
+
+‘If you call a “‘dream”,’ he said, ‘what you can see in your mind as clearly as you see with your eyes by day, when the sun is out, then I admit this.’
+
+‘But is it not day-dreaming,’ I exclaimed, ‘to believe that Monsieur Descartes, whom you have not seen since your departure from the world of the earth, is three leagues from here, simply because you imagined it?’
+
+I was just uttering the last syllable of this, when we saw Descartes arriving. Campanella ran to embrace him at once. They talked together for a long time, but I found it hard to pay attention to the obliging things they said to one another, because I was so consumed with curiosity to learn the secret of Campanella’s divination. This philosopher, who could read my passion in my face, told his friend the story of it and begged him to give him leave to satisfy me. M. Descartes replied with a smile and my learned teacher discoursed as follows:
+
+‘All bodies give off elements, that is to say, corporeal images, which hover in the air. Despite their movement, these images always preserve the shape, the colour, and all the other properties of the object they announce, but as they are very subtle and very refined, they pass through our sense organs without having any effect on them. They travel through to the mind, where they leave an imprint, on account of the sensitivity of its substance, and thus make us see very distant objects which the senses cannot perceive. This is what happens here, where the spirit is not imprisoned in a body made of coarse matter, as it is in your world.
+
+“We will tell you how it occurs, when we have had sufficient leisure to satisfy our eagerness to talk to one another. For you
+
+certainly deserve to be treated with the utmost consideration...3’

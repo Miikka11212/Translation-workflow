@@ -1,0 +1,57 @@
+Translate the following English literary text into fluent modern Simplified Chinese.
+
+Rules:
+- Preserve headings and paragraph breaks.
+- Use natural modern Mandarin, not classical Chinese.
+- Do not summarize, explain, omit, or add commentary.
+- Keep dialogue and quotation marks readable in Chinese.
+- Keep proper names consistent with the glossary.
+- Output only the Chinese translation.
+
+Glossary:
+# Translation Glossary
+
+Use Simplified Chinese and modern literary Mandarin.
+
+- Cyrano de Bergerac: 西拉诺·德·贝热拉克
+- Cyrano: 西拉诺
+- Other Worlds: 异世界
+- The States and Empires of the Moon: 月球诸国与诸帝国
+- The States and Empires of the Sun: 太阳诸国与诸帝国
+- Geoffrey Strachan: 杰弗里·斯特拉坎
+- Campanella: 康帕内拉
+- Descartes: 笛卡尔
+- Gassendi: 伽森狄
+- Kepler: 开普勒
+- Copernicus: 哥白尼
+- Epicurus: 伊壁鸠鲁
+- Pythagoras: 毕达哥拉斯
+- Democritus: 德谟克利特
+- Girolamo Cardano: 吉罗拉莫·卡尔达诺
+- Cardano: 卡尔达诺
+- Prometheus: 普罗米修斯
+- The Moon: 月球
+- The Sun: 太阳
+
+Text:
+‘For tell me, is not this cabbage you mentioned just as much one of God’s creatures as you? Are not God and necessity equally father and mother to both of you? Has not God throughout all eternity had His mind taken up with the question of its birth just as much as with yours? He would even appear to have provided more surely for that of the vegetable than for that of the reasoner, since he has entrusted the generation of a man to the caprices of his father, who can beget him or not as he likes—a hazard to which He did not, however, wish to subject the cabbage. Far from leaving the fertilization of sons to the discretion of their father, He seems to have feared the extinction of the race of cabbages more than that of the human race. He makes them give birth to one another willy nilly, unlike men, who only beget offspring when the fancy takes them and cannot produce more than a score at the most, while cabbages can produce four hundred thousand per head.
+
+‘To say that none the less God loves mankind more than cabbages is simply tickling ourselves to make ourselves laugh. Being incapable of passion, He can neither hate nor love any- one, and if He were capable of love He would have more tenderness for this cabbage you have in your hand, which cannot offend Him, than for this man, whose offences against Him He can already foresee and who would destroy Him if he could. Furthermore, a man cannot be born without crime, for he is a part of the first criminal: but we know very well that the first cabbage did not offend its Creator in the earthly paradise. It may be said that we are made in the image of the Sovereign Being whereas the cabbage is not. But even if this is true, in tarnishing our souls, which are what we resemble Him by, we have destroyed the likeness, since there is nothing more contrary to God than sin. And if our souls are no longer portraits of Him, we do not resemble Him any more with our feet, our hands, our mouths, our foreheads, and our eyes than the cabbage does with its leaves, its flowers, its stalks, its stem, and its head.
+
+“Truly if this poor plant could speak, do you not think it would say when it is being cut: “Man, my dear brother, what have I done to you to deserve death? I only grow in your gardens. You will never find me growing wild in places where I could live in safety. I scorn to be the work of other hands than yours. Hardly am I sown in your garden when to show you my goodwill, I flourish, I stretch out my arms to you, I offer you my children in seed and yet as a reward for my courtesy you have my head cut off!”
+
+“That is the speech this cabbage would make if it could express itself. But what happens? Because it cannot complain, does that mean we have the right to do it all the harm it cannot prevent? If I find a wretch in bonds, may I kill him without committing a crime just because he cannot defend himself? On the contrary, his impotence would make my cruelty worse, for, however poor and deprived of all our advantages this wretched creature may be, it does not deserve death. What! Of all the blessings of existence the only one it enjoys is that of vegetating and we deprive it of this! The sin of massacring a man is not so great—for one day he will live again—as that of cutting a cabbage and taking its life, since it cannot hope for any other. You are destroying the soul of a cabbage when you make it die, whereas by killing a man you merely make his soul change its abode.
+
+‘I will go further: since God, the common Father of all things, cherishes all His works equally, it would surely be reasonable for Him to have shared His benefits equally between us and the plants, so it is only just to consider them as our equals. It is true that we were born first, but in God’s family there is no right of seniority. Therefore if cabbages were given no share in the fief of immortality along with us, they were doubtless endowed with some other gift which made up for its transience by its greatness. This may be a universal intellect, a perfect understanding of the causes of all things; and it may well be why the wise Mechanic did not fashion them organs like ours—which only produce mere reasoning, feeble and often misleading—but others, more ingeniously formed, more powerful and numerous, which serve them in conducting their speculative conversations. Now you may ask me what they have ever communicated to us of these great thoughts. But then what, pray, have the angels ever taught you, any more than these? Just as there is no correspondence, connexion, nor harmony between the imbecile faculties of man and the ones of those divine beings, so any attempt on the part of these intellectual cabbages to make us grasp the occult causes of all the wonders of the world would also be vain: we lack the senses capable of such lofty perception.
+
+‘Moses, the greatest of all philosophers, who drew his understanding of nature from the source of nature itself, pointed out this truth when he spoke of the Tree of Knowledge. He doubtless wanted to teach us, by means of this enigma, that plants are in possession of the perfect philosophy, to the exclusion of ourselves. Remember then, O most arrogant of all animals! that although the cabbage you cut may not utter a word, it is thinking just the same. The unfortunate vegetable has no organs suited to yelling like you; it has none for writhing, nor for weeping. But it has them, none the less, for lamenting the wrong you do to it, and for bringing
+down the vengeance of heaven upon you.
+
+‘And if, in conclusion, you insist on asking me how I know that cabbages have these fine thoughts, I ask you how you know that they do not. How do you know that when one of them closes in the evening it does not say, in imitation of yourself: “I am, Sir Curly Kale, your most humble servant, Garden Cabbage”’?’
+
+7
+
+Dinner with two philosophers: bodies
+great and small
+
+He had come to this point in his speech, when the young lad who had taken our philosopher out brought him back again. ‘What’s this! finished dinner already?’ my demon called to him. He replied that he had, or almost, because the physiognomist had given him permission to have a taste of ours.

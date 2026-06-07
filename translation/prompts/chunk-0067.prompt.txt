@@ -1,0 +1,57 @@
+Translate the following English literary text into fluent modern Simplified Chinese.
+
+Rules:
+- Preserve headings and paragraph breaks.
+- Use natural modern Mandarin, not classical Chinese.
+- Do not summarize, explain, omit, or add commentary.
+- Keep dialogue and quotation marks readable in Chinese.
+- Keep proper names consistent with the glossary.
+- Output only the Chinese translation.
+
+Glossary:
+# Translation Glossary
+
+Use Simplified Chinese and modern literary Mandarin.
+
+- Cyrano de Bergerac: 西拉诺·德·贝热拉克
+- Cyrano: 西拉诺
+- Other Worlds: 异世界
+- The States and Empires of the Moon: 月球诸国与诸帝国
+- The States and Empires of the Sun: 太阳诸国与诸帝国
+- Geoffrey Strachan: 杰弗里·斯特拉坎
+- Campanella: 康帕内拉
+- Descartes: 笛卡尔
+- Gassendi: 伽森狄
+- Kepler: 开普勒
+- Copernicus: 哥白尼
+- Epicurus: 伊壁鸠鲁
+- Pythagoras: 毕达哥拉斯
+- Democritus: 德谟克利特
+- Girolamo Cardano: 吉罗拉莫·卡尔达诺
+- Cardano: 卡尔达诺
+- Prometheus: 普罗米修斯
+- The Moon: 月球
+- The Sun: 太阳
+
+Text:
+A moment later I heard these words: ‘We are in your presence. You are looking at us with your eyes—and yet you do not see us! Consider the oak trees, on which you can feel your gaze resting: it is we who are speaking to you. You may be surprised that we should speak a language used in the world from which you have come, but you must know that our forefathers were natives of it. They dwelt in Epirus, in the Forest of Dodona, where their natural benevolence led them to speak oracles to people in distress who consulted them. For this purpose they had learned Greek, the most universal language there was in those days, so that they might be understood; and because we are descended from them, the gift of prophecy has been handed down from father to son, until it has passed to us.
+
+‘Now you must know that one day a great eagle, to whom our fathers in Dodona were giving shelter, was feeding upon the acorns which their branches offered it, because it had broken one of its claws and could not go hunting. Tired of living in a world where it had suffered so much, it took flight to the sun and made such a successful trip that it finally reached this luminous globe, where we are now. But on its arrival, the heat of the climate made it vomit and it brought up a number of still undigested acorns. These acorns germinated and from them there grew the oak trees which were our ancestors.
+
+‘That is how we came to change our abode. Although you heard us talking in a human language, that does not mean to say that other trees express themselves in the same way. There are none, apart from us oaks descended from the Forest of Dodona, who speak like you. Other plants express themselves in the following manner: you must have noticed the soft and subtle breezes which are always rustling at the edge of woods; these are the breath of their speech and this low murmuring or delicate sound with which they break the sacred silence of their solitude is, to be precise, their language. But although the sounds of different forests may always seem identical, they are nevertheless so various that each species of plant has its own particular one. Thus the birch does not speak like the maple, nor the beech like the cherry.
+
+‘If the stupid people of your world heard me talking as Iam now, they would believe that there was a devil imprisoned under my bark. For, far from supposing that we can think, they do not even imagine we have any feelings. Yet every day they can observe how, at the first blow with which a woodcutter assaults a tree, the axe goes four times deeper into his flesh than at the second. They ought to deduce from this that the first blow must have surprised him and caught him off his guard, since as soon as he was alerted by the pain, he roused himself and summoned his forces to do battle and seemed to turn himself to stone in order to resist the hardness of his enemy’s weapons.
+
+‘But I have no intention to try and make the blind see the light. One individual is the same to me as the whole species and the whole species is to me no more than one individual, provided that individual is not contaminated with the errors of the species. Therefore take heed, for, in speaking to you, I consider I am speaking to the whole human race.
+
+‘In the first place you must know that almost all the music in the concerts given by the birds is composed in praise of trees. But equally, in return for their diligence in celebrating our fine actions, we take upon ourselves that of concealing their love affairs. For do not imagine, when you have so much difficulty in discovering one of their nests, that this is the result of their prudence in hiding them. It is the tree that has himself folded his branches all round the nest, in order to protect his guest’s family against the barbarism of man. For you have only to consider the nests of the ones that are born to the destruction of their fellow birds, such as those of sparrow hawks, hobby hawks, kites, falcons, etc.; or those that only make trouble when they speak, like jays and magpies; or those that delight in frightening us, like wood owls and screech owls. You will notice that the eyrie of one of these birds is always exposed for all to see, because the tree has withdrawn his branches from it, in order to make it an easy prey.
+
+‘But there is no need to go into so many details to prove that trees, whether in body or soul, fulfil all the same functions as you yourselves. There cannot be one among you who has not noticed how in the spring, when the sun titillates our bark with fertile sap, our branches grow longer and we stretch them, laden with fruit, over the bosom of the earth, our beloved. The earth, for her part, cracks open a little, heated by a similar ardour, and as if each one of our branches were a , she draws near to it, in order to consummate her union with it and our branches, transported with pleasure, discharge into her womb the seed which she burns to conceive. She takes nine months to form this embryo, however, before bringing it to the light of day: but the tree, her husband, fearing lest the cold of winter should harm her in her pregnancy, sheds his green robe to cover her, contenting himself, to hide his nakedness a little, with an old cloak of dead leaves.
+
+‘Ah well, you men, you are constantly looking upon such things and yet you never think about them. Far more convincing things have happened before your very eyes without even shaking your obstinacy.’
+
+My attention was firmly concentrated on the words which this arboreal voice addressed to me and I was awaiting the sequel, when suddenly it broke off with a sound like someone too out of breath to speak.
+
+As it seemed quite obstinate in its silence, I conjured it, by all the things I believed might move it most, that it should deign to enlighten someone who had only risked the perils of so great a journey in order to learn.
+
+Then I heard two or three voices making the same entreaties for love of me, and I distinguished one of them saying to it, as if in anger: ‘Very well, since you are having such trouble with your lungs, take a rest. I will tell him the story of the affectionate trees.’

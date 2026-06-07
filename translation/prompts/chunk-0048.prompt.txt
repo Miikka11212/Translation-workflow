@@ -1,0 +1,63 @@
+Translate the following English literary text into fluent modern Simplified Chinese.
+
+Rules:
+- Preserve headings and paragraph breaks.
+- Use natural modern Mandarin, not classical Chinese.
+- Do not summarize, explain, omit, or add commentary.
+- Keep dialogue and quotation marks readable in Chinese.
+- Keep proper names consistent with the glossary.
+- Output only the Chinese translation.
+
+Glossary:
+# Translation Glossary
+
+Use Simplified Chinese and modern literary Mandarin.
+
+- Cyrano de Bergerac: 西拉诺·德·贝热拉克
+- Cyrano: 西拉诺
+- Other Worlds: 异世界
+- The States and Empires of the Moon: 月球诸国与诸帝国
+- The States and Empires of the Sun: 太阳诸国与诸帝国
+- Geoffrey Strachan: 杰弗里·斯特拉坎
+- Campanella: 康帕内拉
+- Descartes: 笛卡尔
+- Gassendi: 伽森狄
+- Kepler: 开普勒
+- Copernicus: 哥白尼
+- Epicurus: 伊壁鸠鲁
+- Pythagoras: 毕达哥拉斯
+- Democritus: 德谟克利特
+- Girolamo Cardano: 吉罗拉莫·卡尔达诺
+- Cardano: 卡尔达诺
+- Prometheus: 普罗米修斯
+- The Moon: 月球
+- The Sun: 太阳
+
+Text:
+‘Colignac was wounded in several places but only very lightly. For the rest, we have come to make an application for you to be housed in the best chamber here. As you love the open air, we have had a small single apartment furnished for you right at the top of the great tower, whose battlements will serve you as a balcony. Your eyes, at least, will be free to wander, though your body holds them fast!’
+
+‘Ah! my dear Dyrcona,’ cried the Count, taking up the thread. ‘How unlucky we were not to have taken you with us when we left Colignac! My heart gave me a presentiment of something fearful by means of a blind feeling of grief, whose cause was unknown to me. But no matter. I have friends. You are innocent, and in any case I know very well how to die honourably. A single thing dismays me. The ruffian on whom I wanted to try the first blows of my revenge (you can easily guess that I refer to my village priest) is no longer in a state to feel them: the wretch has given up the ghost. I will tell you the manner in which he died. He was running along with his servant, trying to drive your mount into his stable, when the horse, whose native sense was perhaps reinforced by faithfulness to its master, began to rear wildly, with such fury and to such good effect that under three kicks this fool’s head caved in and he vacated his benefice.
+
+‘You probably do not understand the causes of this madman’s hatred, but I will acquaint you with them. You must know, to tell you the whole story, that this holy man, a Norman by race and a confidence trickster by profession, who used to officiate at an abandoned chapel which was kept up by money from the pilgrims, had designs upon the benefice of Colignac. Despite all my efforts to maintain the possessor in his rights, this droll fellow blarneyed his judges so successfully that he ended up as our priest.
+
+‘A year later he took me to court as well, on the grounds that I should pay him a tithe. In vain it was demonstrated to him that my land had been free from time immemorial: he would not abandon his lawsuit, which he lost. But in the course of the proceedings, he started so many side issues that more than twenty fresh cases were spawned by the original one, which will now remain on the shelf, thanks to your horse’s hoof turning out to be tougher than Master Jean’s brain.
+
+‘This is all I can conjecture about our pastor’s caprices. But you may marvel at the prudence with which he pursued his madness! I have just been assured that, having got the unhappy scheme for your imprisonment into his head, he had secretly exchanged the benefice of Colignac for another in his own country, to which he intended to retire as soon as you were captured. His servant has even said that he had heard him muttering, on seeing your horse near his stable, that there was something to take him to a place where he would be out of reach.’
+
+After telling me this, Colignac warned me to be wary of any offers or visits which a very powerful person, whom he named, might make me, for it was through this man’s credit that Master Jean had won his case over the claim. This person of quality had intervened in the affair on his behalf, in return for services rendered to his son at college by the good priest who was at that time a sizar.
+
+‘And since it is very hard,’ Colignac continued, ‘to be involved in litigation without bitterness, and without retaining in one’s soul a trace of enmity which is never effaced, although we have been reconciled, he has always secretly sought occasions to cross me. But it does not matter: I have more connections than him in the courts and I have many friends, or in the last resort we can arrange for the intervention of the royal authority.’
+
+After Colignac had said this, they both tried to console me, but these evidences of such a solicitous grief only served to increase my own.
+
+Meanwhile my gaoler had returned to find us and tell us that the room was ready. ‘Let us go and see it,’ replied Cussan, starting off, and we followed him.
+
+I found it very well furnished. ‘I lack nothing,’ I told them, ‘but books.’ Colignac promised to send me all those I listed for him the following day.
+
+When we had taken a good look and had fully appreciated from the height of my tower the moats with sheer sides, which surrounded it, and from all the arrangements of my apart- ment, that to escape would be an enterprise beyond the power of man, my friends looked at one another and then turned their eyes towards me and began to weep. But, as if our grief had all at once softened the wrath of heaven, a sudden joy took possession of my soul, the joy attracted hope and the hope, a secret enlightenment, which so dazzled my brain that with an irrational exultation which seemed ridiculous even to myself, I said to them: ‘Go! Go and wait for me at Colignac. I shall be there in three days. And send me all the mathematical instruments I generally use for my work. Apart from these, you will find a large box containing a number of crystals cut in various fashions: do not forget these—but the quickest way will be to specify the things I need in a memorandum.’
+
+They took charge of the note I gave them, without being able to fathom what my intention was, after which I sent them away.
+
+From the moment of their departure I did nothing but reflect upon the execution of the things which I had planned, and I was still reflecting upon them the following day when everything I had listed in my catalogue was brought to me from them. One of Colignac’s servants told me that his master had not been seen since the previous day and that no one knew what had become of him. I was not disturbed by this news, because it occurred to me that he might possibly have gone to court to solicit for my release. I therefore set to work without anxiety. For eight days I hewed, I planed, I glued, and by the end of it I had constructed the machine which I shall now describe to you.
+
+It was a large, very light box, which closed very tightly. It was six feet high or thereabouts and three feet square. ‘There was a hole in the bottom of the box; on the top of the roof, which also had one in it, I placed a vessel of crystal, which was similarly pierced. This was made in the form of a very capacious globe, with a neck which was finished off evenly and fitted into the aperture I had fashioned in the top of the box.

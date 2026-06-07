@@ -1,0 +1,80 @@
+Translate the following English literary text into fluent modern Simplified Chinese.
+
+Rules:
+- Preserve headings and paragraph breaks.
+- Use natural modern Mandarin, not classical Chinese.
+- Do not summarize, explain, omit, or add commentary.
+- Keep dialogue and quotation marks readable in Chinese.
+- Keep proper names consistent with the glossary.
+- Output only the Chinese translation.
+
+Glossary:
+# Translation Glossary
+
+Use Simplified Chinese and modern literary Mandarin.
+
+- Cyrano de Bergerac: 西拉诺·德·贝热拉克
+- Cyrano: 西拉诺
+- Other Worlds: 异世界
+- The States and Empires of the Moon: 月球诸国与诸帝国
+- The States and Empires of the Sun: 太阳诸国与诸帝国
+- Geoffrey Strachan: 杰弗里·斯特拉坎
+- Campanella: 康帕内拉
+- Descartes: 笛卡尔
+- Gassendi: 伽森狄
+- Kepler: 开普勒
+- Copernicus: 哥白尼
+- Epicurus: 伊壁鸠鲁
+- Pythagoras: 毕达哥拉斯
+- Democritus: 德谟克利特
+- Girolamo Cardano: 吉罗拉莫·卡尔达诺
+- Cardano: 卡尔达诺
+- Prometheus: 普罗米修斯
+- The Moon: 月球
+- The Sun: 太阳
+
+Text:
+Cyrano lived in a fantastic age. The fantastic delights him, whether it be a new theory, an ingenious device, or the folly of a bigot. He thumbs his nose not only at bullying authority, but at all literal-minded dogmatists. His book is full of inconsistencies, even in the narrative occasionally, but this is the point. From them, unified by his lively, throwaway style and his burning enthusiasm for the idea that all things are possible in nature, arises the delight.
+
+* * * I am indebted to the editors of the recent French editions of L’Autre Monde: Frédéric Lachévre; Georges RibemontDessaignes; Claude Mettra and Jean Suyeux; and Willy de Spens, and also to The Sleepwalkers by Arthur Koestler.
+
+‘There is a break in the original text at the end of Chapter 2.
+
+‘The titles of Chapters 15 and 16 are taken from the original text. All other divisions and chapter titles are my own.
+
+THE STATES AND EMPIRES
+OF THE MOON
+
+Journey to the moon
+
+‘THE moon was full, the sky was cloudless, and it had already struck nine. We were returning from Clamard, near Paris, where the younger Monsieur de Cuigy, who is the squire there, had been entertaining myself and several of my friends. Along the road we amused ourselves with the various speculations inspired by this ball of saffron. All our eyes were fixed on the great star. One of our number took it for a garret window in heaven, through which the glory of the blessed could be glimpsed. Another, convinced by the fables of the ancients, thought it possible that Bacchus kept a tavern up there in the heavens and that he had hung up the full moon as a sign. Another assured us that it was the round, copper ironing board on which Diana presses Apollo’s collars. Another that it might be the sun itself, having cast off its rays in the evening, watching through a peep-hole to see what happened on earth in its absence.
+
+‘And as for me,’ I told them, ‘I will gladly add my own contribution to your transports. I am in no way diverted by the ingenious fancies with which you flatter time, to make it pass more quickly, and I believe that the moon is a world like ours, which our world serves as a moon.’
+
+Some of the company treated me to a great outburst of laughter. ‘And that, perhaps,’ I said to them, ‘is just how someone else is being ridiculed at this very moment in the moon for maintaining that this globe here is a world.’
+
+But although I informed them that Pythagoras, Epicurus, Democritus, and, in our own age, Copernicus and Kepler had been of the same opinion, I merely made them laugh more heartily.
+
+Nevertheless this notion, the boldness of which matched the humour I was in, was only fortified by contradiction and lodged so deeply in my mind that for all the rest of the day I remained pregnant with a thousand definitions of the moon of which I could not be delivered. As a result of upholding this fanciful belief with half-serious arguments, I had almost - reached the stage of yielding to it, when there came the miracle—the accident, stroke of fortune, chance (you may well name it vision, fiction, chimera or, if you will, madness)— which afforded me the opportunity that has engaged me upon this account.
+
+Upon my arrival home I went up to my study, where I found a book open on the table, which I had certainly not put there myself. It was that of Girolamo Cardano? and, although I had had no intention of reading from it, my eyes seemed to be drawn to the particular story which this philosopher tells of how, when studying one evening by candlelight, he observed the entry, through closed doors, of two tall old men. After he had put many questions to them, they replied that they were inhabitants of the moon and at the same moment disappeared. This left me in such amazement —as much at seeing a book which had transported itself there all by itself, as at the occasion when it had happened and the page at which it had been opened—that I took the whole chain of incidents to be a revelation sent in order that men should know that the moon is a world.
+
+‘How now,’ I said to myself, ‘here have I been talking about one thing all day, and now does a book, which is perhaps the only one in the world where this matter is so particularly dealt with, fly from my library to my table, become capable of reason to the extent of opening itself at the very place where just such a marvellous adventure is described, pull my eyes towards it as if by force, and then furnish my imagination with the reflections and my will with the intentions which now occur to me?
+
+‘Doubtless,’ I continued, ‘the two ancients who appeared to that great man are the very same who have moved my book and opened it at this page, in order to spare themselves the
+
+* De subtilitate rerum by Girolamo Cardano (1501-76), doctor, mathematician, philosopher, and alchemist.
+
+trouble of making me the speech they had already made to
+Cardano.
+
+‘But’—I added—how can I resolve this doubt without
+going the whole way up there?
+
+‘And why not?’ I answered myself at once. ‘Prometheus went to heaven long ago to steal fire there. Am I less bold than he? And have I any reason not to hope for an equal success?’
+
+After these outbursts, which may perhaps be called attacks of delirium, came the hope that I might successfully accomplish so fine a voyage. In order to make an end of it, I shut myself away in a comparatively isolated country house where, having gratified my daydreams with some practical measures appropriate to my design, this is how I offered myself up to heaven.
+
+I had fastened all about me a quantity of small bottles filled with dew. The sun beat so violently upon them with its rays that the heat which attracted them, just as it does the thickest mists, raised me aloft until at length I found myself above the middle region of the air. But the attraction made me rise too rapidly and, instead of it bringing me nearer to the moon, as I had supposed it would, this now seemed to me more distant than at my departure. I therefore broke several of my phials, until I felt that my weight was overcoming the attraction and that I was descending towards the earth again.
+
+My supposition was correct, for I fell to earth some little time afterwards and, reckoning from the hour at which I had left, it should have been midnight. However, I perceived that the sun was now at its zenith and that it was midday.

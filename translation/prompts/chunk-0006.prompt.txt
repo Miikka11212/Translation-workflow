@@ -1,0 +1,57 @@
+Translate the following English literary text into fluent modern Simplified Chinese.
+
+Rules:
+- Preserve headings and paragraph breaks.
+- Use natural modern Mandarin, not classical Chinese.
+- Do not summarize, explain, omit, or add commentary.
+- Keep dialogue and quotation marks readable in Chinese.
+- Keep proper names consistent with the glossary.
+- Output only the Chinese translation.
+
+Glossary:
+# Translation Glossary
+
+Use Simplified Chinese and modern literary Mandarin.
+
+- Cyrano de Bergerac: 西拉诺·德·贝热拉克
+- Cyrano: 西拉诺
+- Other Worlds: 异世界
+- The States and Empires of the Moon: 月球诸国与诸帝国
+- The States and Empires of the Sun: 太阳诸国与诸帝国
+- Geoffrey Strachan: 杰弗里·斯特拉坎
+- Campanella: 康帕内拉
+- Descartes: 笛卡尔
+- Gassendi: 伽森狄
+- Kepler: 开普勒
+- Copernicus: 哥白尼
+- Epicurus: 伊壁鸠鲁
+- Pythagoras: 毕达哥拉斯
+- Democritus: 德谟克利特
+- Girolamo Cardano: 吉罗拉莫·卡尔达诺
+- Cardano: 卡尔达诺
+- Prometheus: 普罗米修斯
+- The Moon: 月球
+- The Sun: 太阳
+
+Text:
+‘If one supposes this, then I would claim that the earth, being in need of the light, heat, and influence of this great fire, revolves about it in order to receive in all its parts an equal measure of the virtues which conserve it. For it would be as ridiculous to believe that this great luminous body revolved round a speck, which is useless to it, as to imagine when we see a roast lark, that the hearth has been revolved about it in order to cook it. Otherwise, if the sun had to perform this task, it would seem as if the medicine needed the sick man, the strong should yield to the weak, the great serve the small and, instead of a ship sailing along the shores of a province, the province would have to be navigated round the ship. And if you find it difficult to understand how such a heavy mass can move, I pray you tell me if the stars and the heavens, which you would have so solid, are any lighter? Since we are certain of the rotundity of the earth, it is easy for us to deduce its motion from its shape. But why should you suppose the sky to be round, since you cannot know for sure? And if, out of all the possible shapes, it does not happen to possess this one, it is certain that it cannot move.
+
+‘I am not going to reproach you for your eccentrics, your concentrics, and your epicycles, all of which you could only explain very confusedly and from which I have rescued my own system. Let us simply discuss the natural causes of this motion. You are all forced to fall back on intelligences which move and govern your spheres. But I, on the other hand, do not disturb the repose of the Supreme Being, who doubtless created nature all perfect, and who is wise enough to have accomplished the task in such a way that, having made it complete in one respect, He did not leave it defective in another. I, I tell you, find in the earth itself the virtues which make it move. I maintain that the rays and influences of the sun fall upon it as they circulate and make it revolve (just as we make a globe revolve by striking it with our hands); or equally that the vapours continually evaporating from its heart on the side visible to the sun are repelled by the cold of the middle region of the air and fall back upon it, and, of necessity only being able to strike at an angle, thus make it pirouette.
+
+“The explanation of the other two motions is even less complicated. Pray you, consider a little....’
+
+At these words the Viceroy interrupted me: ‘I would prefer,’ he said, ‘to spare you the trouble, since I have read several books by Gassendi on this subject, but on condition that you listen to the reply given me one day by one of our Fathers who was upholding your opinion. “Indeed,” he said, “T am convinced that the earth revolves, not for the reasons alleged by Copernicus, but because the fires of hell, as the Holy Scriptures tell us, are enclosed in the centre of the earth and the damned, seeking to escape the burning flames, clamber up the vault in order to avoid them and thus cause the earth to revolve, as a dog turns a wheel when it runs enclosed within it.” ’
+
+We spent some time praising this notion as a pure fruit of
+
+the good Father’s zeal, and finally the Viceroy told me he was much astonished, seeing how improbable Ptolemy’s system was, that it should have been so generally accepted.
+
+‘Sir,’ I replied to him, ‘the majority of men, who only judge things by their senses, have allowed themselves to be persuaded by their eyes, and just as the man on board a ship which hugs the coastline believes that he is motionless and the shore is moving, so have men, revolving with the earth about the sky, believed that it was the sky itself which revolved about them. Added to this there is the intolerable pride of human beings, who are convinced that nature was only made for them—as if it were likely that the sun, a vast body four hundred and thirty-four times greater than the earth, should only have been set ablaze in order to ripen their medlars and to make their cabbages grow heads!
+
+‘As for me, far from agreeing with their impudence, I believe that the planets are worlds surrounding the sun and the fixed stars are also suns with planets surrounding them; that is to say, worlds which we cannot see from here, on account of their smallness, and because their light, being borrowed, cannot reach us. For how, in good faith, can one imagine these globes of such magnitude to be nothing but great desert countries, while ours, simply because we, a handful of vainglorious ruffians are crawling about on it, has been made to command all the others? What! Just because the sun charts our days and years for us, does that mean to say it was only made to stop us banging our heads against the walls? No, no, if this visible god lights man’s way it is by accident, as the King’s torch accidentally gives light to the passing streetporter.’
+
+‘But,’ he said to me, ‘if, as you affirm, the fixed stars are so many suns, one could conclude from this that the universe is infinite, since it is likely that the peoples of one of these worlds going round a fixed star can themselves observe other fixed stars, farther above them, which we cannot make out from here, and so on, to infinity.’
+
+‘Without a doubt,’ I replied. ‘Just as God could make the soul immortal, so He could make the universe infinite, if it be true that eternity is nothing but an endless duration of time and infinity a limitless stretch of space. Besides, if the universe were not infinite, God Himself would be finite, since He could not exist where there was nothing. In that case, He could not increase the size of the universe without adding something to His own dimensions and beginning to exist where He had not been before. One must therefore believe that, just as we can see Saturn and Jupiter from here, if we were on one or other of them we should discover many worlds which we cannot now perceive, and that the cosmos is constructed in this way to infinity.’
+
+‘Upon my soul!’ he replied to me, ‘it is no use your talking so. I shall never understand this infinity.’

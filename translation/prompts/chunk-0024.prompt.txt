@@ -1,0 +1,61 @@
+Translate the following English literary text into fluent modern Simplified Chinese.
+
+Rules:
+- Preserve headings and paragraph breaks.
+- Use natural modern Mandarin, not classical Chinese.
+- Do not summarize, explain, omit, or add commentary.
+- Keep dialogue and quotation marks readable in Chinese.
+- Keep proper names consistent with the glossary.
+- Output only the Chinese translation.
+
+Glossary:
+# Translation Glossary
+
+Use Simplified Chinese and modern literary Mandarin.
+
+- Cyrano de Bergerac: 西拉诺·德·贝热拉克
+- Cyrano: 西拉诺
+- Other Worlds: 异世界
+- The States and Empires of the Moon: 月球诸国与诸帝国
+- The States and Empires of the Sun: 太阳诸国与诸帝国
+- Geoffrey Strachan: 杰弗里·斯特拉坎
+- Campanella: 康帕内拉
+- Descartes: 笛卡尔
+- Gassendi: 伽森狄
+- Kepler: 开普勒
+- Copernicus: 哥白尼
+- Epicurus: 伊壁鸠鲁
+- Pythagoras: 毕达哥拉斯
+- Democritus: 德谟克利特
+- Girolamo Cardano: 吉罗拉莫·卡尔达诺
+- Cardano: 卡尔达诺
+- Prometheus: 普罗米修斯
+- The Moon: 月球
+- The Sun: 太阳
+
+Text:
+Someone must have stirred up the embers of the controversy about what I was, however, for just when I was looking forward to nothing so much as dying in my cage, they came and fetched me once more to give me a hearing. I was questioned on several points of physics in the presence of a large number of courtiers. My replies, I believe, gave no satisfaction, for the one who presided explained his opinions on the structure of the universe to me at great length. They seemed ingenious to me and if he had not passed on to its origin, which he claimed was ‘eternal’, I would have found his philosophy much more reasonable than ours. But as soon as I heard him upholding a fantasy so contrary to what our faith teaches us, I asked him what answer he had to the authority of Moses, for this great patriarch had expressly said that God created it in six days. The ignoramus merely laughed instead of replying, and I was driven to tell him that since they had come to that, I was beginning to believe that their world was nothing but a moon.
+
+‘But,’ they all said to me, ‘you can see earth here, rivers and seas. What could they all be?’
+
+‘Never mind!’ I retorted. ‘Aristotle assures us that it is only the moon, and if you had said the opposite in the classes where I did my studies, you would have been hissed.’
+
+At this there was a great outburst of laughter. There is no need to ask whether this was due to their ignorance, but at all events they led me back to my cage.
+
+The priests, however, were more outraged than this assembly had been. When they learned that I had dared to say that the moon I came from was a world and that their world was only a moon, they believed that this furnished a good enough pretext for having me condemned to the water, which is their method of exterminating atheists. ‘To this end they went in a body to make their complaint to the King who promised them justice and commanded that I should be put in the dock.
+
+So there I was, uncaged for the third time. The most ancient of them took the floor then and pleaded against me. I do not remember his speech because I was too alarmed to make out the elements of his voice without confusion and also because he used an instrument for declaiming, the sound of which quite deafened me. It was a trumpet which he had deliberately chosen so that the violence of its martial sound might excite a desire for my death in their minds and so that this emotion should prevent their reason from performing its office, as happens in our armies where the hurly-burly of trumpets and drums keeps the soldier from reflecting upon the importance of his life. When he had spoken, I rose to plead my case, but I was spared this by an adventure which will surprise you. Just as I had opened my mouth, a man who had had great difficulty in penetrating the throng came and fell at the King’s feet and dragged himself about on his back in front of him for a considerable time. This behaviour did not surprise me, for I knew that it was the posture they adopted when they wished to speak in public. I simply pocketed my own speech and here is the one we had from him:
+
+‘Just men, hear me! You cannot condemn this man, this ape, this parrot, for having said that the moon is a world whence he came. For if he is a man—even if he has not come from the moon—since all men are free, is he not also free to imagine what he chooses? How’s this? Will you put constraint on him for not sharing your own visions? Of course you can compel him to say that the moon is not a world, but none the less he will not believe what he says, because for him to believe something, certain possibilities must be presented to his imagination, which seem more likely than not. Unless you offer him this likelihood, or it springs to his mind of its own accord, he may well tell you that he is convinced, but for all that he will remain incredulous.
+
+‘I now have to prove to you that he should not be condemned if you place him in the category of the beasts.
+
+‘Supposing he is an animal devoid of reason, would you then be reasonable to accuse him of sinning against it? He has said that the moon was a world, but beasts only act by natural instinct, ergo it is nature speaking and not him. To believe that wise nature, who made the world and the moon, should not know what it is herself, while you—who possess no knowledge which is not derived from her—know better, would indeed be ridiculous.
+
+‘But even if passion led you to renounce your principles and to suppose that nature does not guide the beasts, at least you should blush at the anxieties caused you by the caprices of one of them. Truly, gentlemen, if you encountered a grown man policing an anthill, now cuffing an ant for knocking down its comrade, now imprisoning one for stealing a grain of corn from its neighbour, now bringing another to justice for abandoning its eggs, would you not consider him mad to be busying himself with these things so far beneath him and striving to make creatures submit to reason which have not its use? Then what name, venerable pontiffs, would you give the concern you show about the caprices of this little animal? Just men, I have spoken.’
+
+As soon as he had finished, the whole room resounded with a sort of music of applause, and after their opinions had all been debated for a good quarter of an hour, the King pronounced that I should be regarded henceforward as a man, and as such given my freedom, and that the punishment of being drowned should be altered, in mitigation, to that of making Ignominious Amends (for in that country they have no such thing as ‘Honourable Amends’). In doing this I should publicly retract my claim that the moon was a world, on account of the shock that the novelty of this opinion might give to the souls of the weak.
+
+This decree pronounced, they took me out of the palace; they dressed me with great splendour as a mark of shame; they made me ride on the platform of a magnificent chariot, drawn by four princes who were yoked to it, and here is what they made me announce at every cross-roads in the town:
+
+‘People, I declare unto you that this moon here is not a moon, but a world; and that that world down there is not a world but a moon. Such is what the priests deem it good for you to believe!’

@@ -1,0 +1,59 @@
+Translate the following English literary text into fluent modern Simplified Chinese.
+
+Rules:
+- Preserve headings and paragraph breaks.
+- Use natural modern Mandarin, not classical Chinese.
+- Do not summarize, explain, omit, or add commentary.
+- Keep dialogue and quotation marks readable in Chinese.
+- Keep proper names consistent with the glossary.
+- Output only the Chinese translation.
+
+Glossary:
+# Translation Glossary
+
+Use Simplified Chinese and modern literary Mandarin.
+
+- Cyrano de Bergerac: 西拉诺·德·贝热拉克
+- Cyrano: 西拉诺
+- Other Worlds: 异世界
+- The States and Empires of the Moon: 月球诸国与诸帝国
+- The States and Empires of the Sun: 太阳诸国与诸帝国
+- Geoffrey Strachan: 杰弗里·斯特拉坎
+- Campanella: 康帕内拉
+- Descartes: 笛卡尔
+- Gassendi: 伽森狄
+- Kepler: 开普勒
+- Copernicus: 哥白尼
+- Epicurus: 伊壁鸠鲁
+- Pythagoras: 毕达哥拉斯
+- Democritus: 德谟克利特
+- Girolamo Cardano: 吉罗拉莫·卡尔达诺
+- Cardano: 卡尔达诺
+- Prometheus: 普罗米修斯
+- The Moon: 月球
+- The Sun: 太阳
+
+Text:
+Elijah had reached this point with the instructions the Seraph had given him when a little man came up to join us. ‘Here is that Enoch about whom I was telling you,’ my guide told me in a low voice. As he spoke these words Enoch presented us with a basket filled with some unknown fruits, like pomegranates, which he had just discovered in a secluded grove the same day. I had crammed several of them into my pockets as Elijah instructed me when Enoch asked him who I was.
+
+‘His adventure is one which deserves a longer conversation,’ replied my guide. “This evening when we have retired, he will tell us himself the miraculous details of his voyage.’
+
+As he finished speaking we found ourselves in a kind of hermitage made of palm branches, ingeniously interwoven with myrtles and orange trees. In a small nook I caught sight of piles of a kind of gossamer so white and so fine that it could have been taken for the very essence of snow. I also saw some distaffs scattered here and there and asked my guide what they were used for.
+
+‘For spinning,’ he replied. ‘When the good Enoch wishes to relax from his meditations he sometimes cards this tow, sometimes he spins thread from it and sometimes he weaves cloth which is used to make shifts for the eleven thousand virgins. At some time in your world you must have come across something white floating in the autumn air round about seed time: the country people call it “Our Lady’s Cotton” and it is, in fact, the flock which Enoch combs out from his flax when he is carding it.’
+
+We hardly stayed a moment before taking leave of Enoch, whose cell this hut was. What compelled us to go so soon was the fact that he prays every six hours and it was at least that since he had last done so.
+
+On the way I begged Elijah to finish telling me the story of the assumptions to paradise on which he had embarked, saying that I believed he had reached that of Saint John the Evangelist. “Then since you have not the patience,’ he said, ‘to wait for the Apple of Learning to teach you all these things better than I can, I am willing to inform you of them. You must know that God...’
+
+At this point the devil somehow interfered and I could not prevent myself interrupting him with a quip: ‘I remember now,’ I told him. ‘One day God noticed that this evangelist’s soul had become so disembodied that he could only hold on to it by clenching his teeth. Meanwhile the time when it was foreseen that he would be transported here had almost come. Not having time to prepare a machine for him, God simply had to cause him to be here all of a sudden, without having the leisure to make him come here!’
+
+Throughout this speech Elijah regarded me with looks which could have killed me, if I had been in a state to die of anything else but hunger. ‘Abominable!’ he said, drawing back. ‘You have the impudence to jest about sacred things. But you would not go unpunished if the All-Wise God did not wish to leave you to the nations as a famous example of His mercy. Go from hence, impious man, and publish abroad in this little world and in the other—for you are predestined to return there—the irreconcilable hatred which God bears towards atheists! ’
+
+He had hardly come to the end of this imprecation when he laid hold of me and led me roughly towards the gate. When we had arrived near a great tree whose branches were laden with fruit and bowed down almost to the ground, he said to me: ‘Here is the Tree of Learning, whence you would have derived inconceivable illumination if it had not been for your impiety.’
+
+Before he had finished these words, I pretended to faint from weakness and let myself fall against a branch, from which I adroitly stole an apple. Only a few more strides were needed for me to step outside this delicious park. However, my hunger tormented me so violently that it made me forget I was in the hands of an enraged prophet. I pulled out one of the apples I had crammed into my pocket and plunged my teeth into it. But instead of my taking one of the ones Enoch had given me, my hand fell upon the apple I had plucked from the Tree of Knowledge and from which, unfortunately, I had not removed the rind.
+
+I had scarcely tasted it when a thick cloud enveloped my mind: I no longer saw anyone beside me and I could not discover a single trace of the road I had taken anywhere on this side of the horizon, but for all that, I did not lose the memory of everything that had happened to me. When I have since reflected on this miracle, I have surmised that the rind of the fruit I had bitten into did not altogether stupefy me because my teeth had gone right through it and tasted a little of the juice which lay beneath it; and the energy of this had dissipated the ill effects of the rind. I remained surprised to find myself alone in the middle of a country I did not know at all. In vain I cast my eyes about me and scrutinized the landscape; they could pick out no creature to console them. Finally I resolved to continue walking until fortune brought me face to face either with beasts of some kind or else with death.
+
+She hearkened to me, for at the end of half a mile I encountered two very large animals, one of which stopped in front of me while the other fled nimbly to its lair, at least so I presumed; for some time after that I saw it returning, accompanied by more than seven or eight hundred of the same species, which surrounded me completely. When I could observe them from close to, I discovered that they had bodies and faces like ours. This occurrence reminded me of the tales I had once heard from my nurse about sirens, fauns, and satyrs. From time to time they raised hootings so furious, doubtless caused by their amazement at seeing me, that I almost thought I must have turned into a monster. Finally one of these man-beasts, picked me up by the scruff of my neck as wolves do when they carry off sheep, flung me over his shoulder and took me to their town, where I was even more astonished than before (realizing now that they were in fact men) not to come across a single one who did not walk on all four legs.

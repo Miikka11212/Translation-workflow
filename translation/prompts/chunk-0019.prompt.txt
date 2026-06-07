@@ -1,0 +1,53 @@
+Translate the following English literary text into fluent modern Simplified Chinese.
+
+Rules:
+- Preserve headings and paragraph breaks.
+- Use natural modern Mandarin, not classical Chinese.
+- Do not summarize, explain, omit, or add commentary.
+- Keep dialogue and quotation marks readable in Chinese.
+- Keep proper names consistent with the glossary.
+- Output only the Chinese translation.
+
+Glossary:
+# Translation Glossary
+
+Use Simplified Chinese and modern literary Mandarin.
+
+- Cyrano de Bergerac: 西拉诺·德·贝热拉克
+- Cyrano: 西拉诺
+- Other Worlds: 异世界
+- The States and Empires of the Moon: 月球诸国与诸帝国
+- The States and Empires of the Sun: 太阳诸国与诸帝国
+- Geoffrey Strachan: 杰弗里·斯特拉坎
+- Campanella: 康帕内拉
+- Descartes: 笛卡尔
+- Gassendi: 伽森狄
+- Kepler: 开普勒
+- Copernicus: 哥白尼
+- Epicurus: 伊壁鸠鲁
+- Pythagoras: 毕达哥拉斯
+- Democritus: 德谟克利特
+- Girolamo Cardano: 吉罗拉莫·卡尔达诺
+- Cardano: 卡尔达诺
+- Prometheus: 普罗米修斯
+- The Moon: 月球
+- The Sun: 太阳
+
+Text:
+off, with an express command to make us sleep together, the Spaniard and myself, so that our species should multiply within his realm. The will of the Prince was executed in all particulars, and I was very glad of this because of the pleasure I derived from having someone to talk to during the solitude of my brutification.
+
+One day my male (for they took me to be the female of his species) told me that what had really driven him to flee across the face of the earth and finally to abandon it for the moon, was the fact that he had not been able to find a single country where even the imagination was at liberty. ‘You see,’ he told me, ‘unless you wear a hood, whatever fine things you may say, if they are against the principles of the doctors of the cloth, you are an idiot, a madman, and something worse besides. They wanted to bring me before the Inquisition in my country because I told the pedants to their beards that there are vacuums in nature and that I knew of no substance in the world heavier than any other.’
+
+I asked him what evidence he had to support an opinion
+which was so little accepted.
+
+‘In order to prove the point,’ he replied, ‘one must suppose that there is only one element; for although we may see water, earth, air, and fire in separation from one another, they can never be found in so completely pure a state that they are not still combined together. For example, fire, when you examine it, is not fire, but merely air greatly distended; air is only water greatly dilated; water is only molten earth, and earth itself is nothing else but water greatly contracted. From a serious investigation of matter, therefore, you would discover that it is all one, but that, like an excellent actor, it plays all kinds of roles in this life, in all kinds of disguises. Otherwise you would be forced to admit that there are as many elements as there are kinds of body. And if you ask me why fire burns and water cools, seeing that it is all merely a single substance, I reply to you that this substance behaves sympathetically according to the situation in which it finds itself at the time of its activity. Fire, which is nothing but earth even more rarefied than when it constitutes air, tries to transform into
+itself by sympathy everything it encounters.
+
+‘Thus the heat from coal, being the most refined form of fire, and the best suited to penetrating a body, first slips between the pores in our bodies and then makes us give off sweat because we are being filled with a new substance. ‘This sweat, dilated by the fire, is converted into vapour and becomes air; this air, still further diffused by the heat of the reaction, or by the neighbouring bodies, is called fire, and the earth, abandoned by the cold and humidity which bind all the parts together, falls back to earth. Water, on the other hand, although it only differs in substance from fire in that it is more compact, does not burn us, because, being compact, it seeks to make more compact by sympathy the bodies it encounters. The cold which we feel is nothing else but the effect of our flesh drawing in upon itself, as a result of the proximity of the earth or the water, which makes us imitate them. That is why dropsical people convert all the food they consume into water. That is why bilious people convert into bile all the blood which their livers produce. Thus if we suppose that there is one single element, it is most certain that all bodies, each according to its nature, are equally attracted towards the centre of the earth.
+
+‘Now you will ask me why it is that iron, the metals, earth, and wood fall towards this centre more quickly than a sponge —if it is not because the latter is full of air, which naturally tends upwards. Well that is not the reason at all, and here is how I reply to you. Although a stone falls more quickly than a feather, both have the same inclination towards their journey. But if a cannon ball, for example, found the earth pierced right through, it would hurtle to the centre more swiftly than a bladder filled with air; and the reason is that the mass of metal consists of a lot of earth forced into a small space, while the air is a very small amount of earth occupying a lot of space. All the particles of matter contained in the iron, being fused together as they are, derive increased strength from their unity. Having closed their ranks, they find they are many fighting against few, seeing that a parcel of air equal in size to the cannon ball is not equal in numbers. The air therefore yields to the weight of troops more numerous than its own and equally impetuous, and allows itself to be thrust aside to let them pass.
+
+“Without going into a whole string of arguments to prove this, I will ask you how it comes about, by your faith, that we can be wounded by a pike, a sword, or a dagger, if it is not because steel is a substance in which the particles are closer and more compact than your flesh—the pores and softness of which show that it contains a very little matter spread over a large space—and because the point of the weapon which pierces us consists of an almost incalculable quantity of matter opposed to a very small amount of flesh and forces it to yield to the stronger, just as a squadron in close order easily breaches a battalion which is less closely drawn up and more spread out. For why is glowing steel from the furnace hotter than a burning tree trunk if it is not because there is more fire in the steel, contained in a small space—since there is some attached to all the particles of the metal—than in the stick of wood, since this is very spongy and consequently contains a considerable amount of vacuum—which is nothing but an absence of substance and cannot take on the form of fire?
+
+‘“But then,” you will object to me, “you postulate the existence of a vacuum as if you had proved it, and that is what we are arguing about!” Very well, I will prove it to you, and though this difficulty be the sister of the Gordian knot, I have a strong enough arm to be its Alexander.

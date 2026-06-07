@@ -1,0 +1,70 @@
+Translate the following English literary text into fluent modern Simplified Chinese.
+
+Rules:
+- Preserve headings and paragraph breaks.
+- Use natural modern Mandarin, not classical Chinese.
+- Do not summarize, explain, omit, or add commentary.
+- Keep dialogue and quotation marks readable in Chinese.
+- Keep proper names consistent with the glossary.
+- Output only the Chinese translation.
+
+Glossary:
+# Translation Glossary
+
+Use Simplified Chinese and modern literary Mandarin.
+
+- Cyrano de Bergerac: 西拉诺·德·贝热拉克
+- Cyrano: 西拉诺
+- Other Worlds: 异世界
+- The States and Empires of the Moon: 月球诸国与诸帝国
+- The States and Empires of the Sun: 太阳诸国与诸帝国
+- Geoffrey Strachan: 杰弗里·斯特拉坎
+- Campanella: 康帕内拉
+- Descartes: 笛卡尔
+- Gassendi: 伽森狄
+- Kepler: 开普勒
+- Copernicus: 哥白尼
+- Epicurus: 伊壁鸠鲁
+- Pythagoras: 毕达哥拉斯
+- Democritus: 德谟克利特
+- Girolamo Cardano: 吉罗拉莫·卡尔达诺
+- Cardano: 卡尔达诺
+- Prometheus: 普罗米修斯
+- The Moon: 月球
+- The Sun: 太阳
+
+Text:
+‘The first and most fundamental law for the administration of a republic is equality, but man would never be able to endure this for long. He pursues us in order to devour us. He convinces himself that we were only made for him, and advances, in justification of his claim to superiority, the barbarous fashion in which he massacres us and the small resistance he encounters in overcoming our weakness—yet he will not admit as his masters the eagles, the condors, and the griffins, who can conquer the most robust of his kind.
+
+‘But why should size and the arrangement of limbs indicate a qualitative difference, since among themselves there are both dwarfs and giants to be found?
+
+‘Furthermore, their much vaunted mastery is an imaginary privilege. On the contrary, they are so disposed to servility that for fear of having no one to serve, they sell their liberty to one another. Thus, the young are the slaves of the old, the poor of the rich, the peasants of the gentry, the princes of the monarchs, and even the monarchs are the slaves of the laws they establish. But for all that, these poor serfs are so afraid of lacking masters that, as though to guard against being surprised by liberty from some unexpected quarter, they fabricate gods for themselves all over the place: in the water, in the air, in fire, and under the ground. They will make them out of wood rather than not have any, and I believe they even delude themselves with false hopes of immortality, less because of their horror of ceasing to exist than from their dread of having no one to order them about when they are dead.
+
+‘Such are the fine effects of this “sovereignty” of this “natural mastery” of man over the animals—and over ourselves, for his insolence goes as far as that! And as a consequence of this preposterous “dominion”, he quite gaily arrogates to himself the rights of life and death over us. He sets traps for us. He chains us up. He throws us into prison. He slits our throats. He devours us. And he makes the right to kill those of us left at liberty a privilege of the nobility. He believes that the sun was lit to provide him with illumination for making war on us; that nature allows us to venture across the sky merely so that he can draw good or bad omens from our flight; and that when God put entrails in our bodies, His only intention was to provide a great book in which man could study the science of the future.
+
+‘Well now! Is not such pride quite intolerable? Does anyone with such notions deserve a lesser punishment than to be born a man? None the less, those are not the grounds on which I urge you to condemn this one. Since the wretched beast has not the use of reason, like us, I excuse those errors which result from its lack of intelligence. But, for those which are nothing but the fruits of its will, I demand justice. Namely for the fact that it kills us without being attacked by us; for the fact that it eats us, though it could satisfy its hunger with more seemly food; for the fact that it debauches the good nature of some of our people, like the hawks, the falcons, and the vultures, and teaches them to massacre their own kind, to spill the blood of their fellows and deliver us into its hands.
+
+‘This consideration is by itself so grave that I ask the Court for its extermination by means of the sad death.’
+
+[7
+
+Verdict and sentence
+
+Tue whole Bench shuddered in horror at the mention of so harsh a punishment and in order to have grounds for mitigating it, the King signalled to my counsel to reply.
+
+This was a starling, a great master of jurisprudence, which struck its foot three times on the branch on which it stood and addressed the assembly as follows: ‘It is true, my lords, that moved by pity, I had accepted a brief for this unfortunate beast. But now I am on the point of pleading, my conscience is overcome with remorse, as if a secret voice had forbidden me to perform so detestable an action. And so, my lords, I declare before you and all the court, that, for the sake of my soul’s salvation, I do not wish to contribute in any way to the continued existence of such a monster as man.’
+
+All the crowd clicked their beaks as a token of delight and
+approval at the sincerity of so good a bird.
+
+My magpie presented itself to plead in its place but was ordered to be silent, for the reason that, as it had been reared among men and perhaps infected by their morals, it was to be feared that it might not bring an open mind to my case. ‘The Court of the Birds will not allow an advocate who sympathizes more with one party than the other to be heard, unless he can show that this bias proceeds from the justice of their case.
+
+Seeing that no one came forward to defend me, my judges stretched their wings and flew at once to confer upon the judgement.
+
+The majority of them, as I afterwards learned, strongly favoured my extermination by means of the sad death, but when it was perceived that the King was inclined towards clemency, everyone came round to his opinion. Thus moderated, my judges spared me the sad death and instead deemed it appropriate—in order to make my punishment fit at least one of my crimes and to annihilate me with a penalty which would serve to undeceive me, by flouting man’s pretended mastery over the birds—that I should be abandoned to the wrath of the weakest of them: that is to say, they condemned me to be eaten by the flies.
+
+‘The assembly rose at once and I heard it murmured that they had refrained from going into more detail over the circumstances of my fate on account of the accident which had befallen a bird in the crowd that had just collapsed in a faint as it was about to speak to the King. It was thought that this was caused by the horror it experienced from staring at a man too intently. This is why the order was given for me to be taken away.
+
+Before this my sentence was announced, and as soon as the osprey, which acted as Clerk of the Court, had finished read- ing it to me, I saw that the sky round about me was black with flies, bumble bees, bees, wasps, and fleas, all buzzing with impatience.
+
+I was expecting my eagles to carry me off once more in the usual manner, but in their place I saw a great black ostrich that set me ignominiously astride its own back (for among them this position is the most humiliating one a criminal can be put into and no bird, whatever offence it has committed, can ever be subjected to it).

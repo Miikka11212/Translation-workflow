@@ -1,0 +1,57 @@
+Translate the following English literary text into fluent modern Simplified Chinese.
+
+Rules:
+- Preserve headings and paragraph breaks.
+- Use natural modern Mandarin, not classical Chinese.
+- Do not summarize, explain, omit, or add commentary.
+- Keep dialogue and quotation marks readable in Chinese.
+- Keep proper names consistent with the glossary.
+- Output only the Chinese translation.
+
+Glossary:
+# Translation Glossary
+
+Use Simplified Chinese and modern literary Mandarin.
+
+- Cyrano de Bergerac: 西拉诺·德·贝热拉克
+- Cyrano: 西拉诺
+- Other Worlds: 异世界
+- The States and Empires of the Moon: 月球诸国与诸帝国
+- The States and Empires of the Sun: 太阳诸国与诸帝国
+- Geoffrey Strachan: 杰弗里·斯特拉坎
+- Campanella: 康帕内拉
+- Descartes: 笛卡尔
+- Gassendi: 伽森狄
+- Kepler: 开普勒
+- Copernicus: 哥白尼
+- Epicurus: 伊壁鸠鲁
+- Pythagoras: 毕达哥拉斯
+- Democritus: 德谟克利特
+- Girolamo Cardano: 吉罗拉莫·卡尔达诺
+- Cardano: 卡尔达诺
+- Prometheus: 普罗米修斯
+- The Moon: 月球
+- The Sun: 太阳
+
+Text:
+Alas! How the sound of the icosahedron smashing to pieces rang in my ears like a thunderclap! Such an accident, such a misfortune, and such terror are beyond all description. The mirrors attracted no more air, for there was no longer any vacuum being created. The air no longer became a wind rushing in to fill it. The wind ceased to propel my box upwards. In short, immediately after this wreck, I saw it falling for a very long time through the vast zones of the universe. It recovered its shadowy opacity in the region where it had breathed it out. The energetic virtue of the light ceases to take effect in that locality and so my box avidly resumed its obscure density, which seemed as if it was essential to it, just as spirits have been seen coming in search of their bodies and wandering round their tombs for a hundred years, trying to rejoin them. I suppose that this is how it lost its diaphanousness, for I have since seen it in Poland in the same state as it was in when I climbed into it for the first time. I later discovered that it fell below the equinoctial line in the kingdom of Borneo. A Portuguese merchant bought it from the Islander who found it and it passed from hand to hand until it came into the possession of the Polish engineer who now uses it for flying.
+
+Suspended thus in the wastes of the heavens and already thrown into consternation by the prospect of falling to my death, I lifted up my eyes sadly towards the sun, as I have told you. My vision carried my thoughts there and my gaze, firmly fixed on its globe, marked out a path, whose traces my will could follow in order to carry my body up to it.
+
+This vigorous upsurge of my soul will not be incomprehensible to anyone who considers the most simple effects of our will power. It is common knowledge that when I wish to jump in the air, my will, aroused by my imagination, stirs up the whole microcosm of my body and strives to carry it up towards the goal it has set itself. If it does not always reach it; this is because the principles in nature which are universal prevail over those which are restricted. Since the power of the , will is confined to sentient beings, while the impulse to fall towards the earth’s centre is distributed throughout all matter, my leap is halted just as I am drawing near to my
+
+goal, when my mass has overcome the insolence of my will,
+which had taken it by surprise.
+
+I will pass over what followed during the rest of my journey, for fear of taking as long to relate it as I did to make it. It suffices to say that at the end of twenty-two months I finally made a happy landing upon the broad plains of the daylight.
+
+14
+
+The little people of the sun and
+the love-sick nightingale
+
+Tuis land is so luminous that it resembles snowflakes on fire. ‘There is, however, one rather incredible thing, which I have never been able to make out and that is whether, once my box had fallen, I was mounting or descending towards the sun. Ali I can remember is that when I had arrived there, I walked lightly upon it. I only touched the ground at a single point and often rolled like a ball, finding it no more inconvenient to travel upon my head than on my feet. Although I sometimes had my legs pointing towards the sky and my shoulders against the ground, it felt as natural to be placed in this position as if I had my feet on the ground and my shoulders towards the sky. Whichever part of my body I rested on, whether on my belly, my back, an elbow, or an ear, I felt as if I were standing upright. From this I learned that the sun is a world which has no centre, and that, as I was very far from the sphere of influence of our own, and of all those I had encountered, it was consequently impossible for me to continue to have any weight, since weight is simply the attraction exercised by a centre within its sphere of influence.
+
+The awe I felt in printing my steps upon that luminous countryside gave pause for a while to my burning eagerness to continue my journey. I felt quite ashamed to be walking upon the daylight. My very body was bewildered and sought the support of my eyes. But since this transparent land, through which their vision penetrated, could offer them nothing to rest upon, my instinct got the better of my mind and drove it on and on, in spite of myself, seeking out the depths of a light which was bottomless. However, my reason gradually regained control of my instinct. I planted firm and untrembling footsteps upon the plain and measured my paces so proudly that if men could have seen me from their world, they would have taken me for the great god, who walks upon the clouds.
+
+After travelling, as I believe, for fifteen days, I came to a country of the sun less dazzling than that which I had left. I felt greatly overjoyed and I imagined that this joy must proceed from a secret sympathy which my body still felt for its opacity. However, my awareness of this did not make me desist from the course I was pursuing. For at this time I was like those slumbering old men, who know that sleep is harmful to them and have ordered their servants to wake them from it, but still become very angry when they are aroused. Now, as I gradually reached the darker provinces, my body became opaque and once more contracted the weaknesses which matter—that infirmity—brings with it; I became tired and sleep took hold of me. Yet so much pleasure flowed into my senses from the exquisite laziness with which sleep flatters us, as it approaches, that they succumbed to its delights and obliged my soul to be grateful to the very tyrant which chained up its servants. For sleep, which has for so long been the tyrant that rules half of our days, cannot bear the light, on account of his great age, nor look upon it without fainting, and had been constrained to abandon me on my entry to the more brilliant climes of the sun. He had gone to wait for me on the frontiers of the darker region of which I am speaking, where he caught up with me once more, took me prisoner and closed my eyes, his declared enemies, beneath the dark roof of my eyelids. And fearing lest my other senses, cheating him, even as they had betrayed me, should interfere with his peaceful occupation of the conquered territory, he pinioned each one of them to its bed. All of which is to say, in a couple of words, that I lay down upon the sand ina deep stupor.

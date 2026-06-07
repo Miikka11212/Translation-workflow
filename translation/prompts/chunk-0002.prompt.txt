@@ -1,0 +1,54 @@
+Translate the following English literary text into fluent modern Simplified Chinese.
+
+Rules:
+- Preserve headings and paragraph breaks.
+- Use natural modern Mandarin, not classical Chinese.
+- Do not summarize, explain, omit, or add commentary.
+- Keep dialogue and quotation marks readable in Chinese.
+- Keep proper names consistent with the glossary.
+- Output only the Chinese translation.
+
+Glossary:
+# Translation Glossary
+
+Use Simplified Chinese and modern literary Mandarin.
+
+- Cyrano de Bergerac: 西拉诺·德·贝热拉克
+- Cyrano: 西拉诺
+- Other Worlds: 异世界
+- The States and Empires of the Moon: 月球诸国与诸帝国
+- The States and Empires of the Sun: 太阳诸国与诸帝国
+- Geoffrey Strachan: 杰弗里·斯特拉坎
+- Campanella: 康帕内拉
+- Descartes: 笛卡尔
+- Gassendi: 伽森狄
+- Kepler: 开普勒
+- Copernicus: 哥白尼
+- Epicurus: 伊壁鸠鲁
+- Pythagoras: 毕达哥拉斯
+- Democritus: 德谟克利特
+- Girolamo Cardano: 吉罗拉莫·卡尔达诺
+- Cardano: 卡尔达诺
+- Prometheus: 普罗米修斯
+- The Moon: 月球
+- The Sun: 太阳
+
+Text:
+A number of stories are told about his exploits at this period. Those told by Le Bret (which include routing a band of a hundred hired ruffians in order to protect the poet Ligniéres) do him credit. Others indicate a preposterously vain and ill-tempered disposition and belong to the burlesque legend built up by less loyal friends, such as the poet Charles Dassoucy, with whom at times he quarrelled. It seems certain that Cyrano mixed intelligent conversation and studies with a fairly dissolute way of life, during which he gambled with Tristan L’Hermite, contracted syphilis, which was never properly cured, helped to impoverish his father, broadened his knowledge of current scientific and philosophical ideas, talked well, and wrote his comedy, Le Pédant Joué, from which Moliére was to borrow heavily for one of the most famous scenes in Les Fourberies de Scapin (1671). He began to write the literary letters later collected together as Lettres Diverses, Lettres Satiriques and Lettres Amoureuses, €Xercises in elegance, wit, and invective. He may have travelled at this time to England, Italy, and Poland, where some say he observed experiments with a flying machine, a winged dragon that beat its wings. In 1648 he first appeared in print with a preface to one of Dassoucy’s poems.
+
+About this time, Le Bret tells us, Cyrano refused the offered patronage of the Maréchal de Gassion—because he wished to remain a free man. He was for the moment somewhat less impoverished, as a result of the death of his father, whom he and his brother, Abel, are alleged to have robbed as he lay dying. He now began to work on L’Autre Monde (literally, “The Other World’). In 1648 there had been published a French edition of Bishop Godwin’s The Man in the Moone, the fanciful tale of one Domingo Gonsales, who was carried to the moon on a machine borne by a number of large birds. Once in the moon, he made a study of its utopian institutions. The French edition is prefaced by the remarks: ‘If, reader, you have ever seen either the True History of Lucian, or ‘Thomas More’s Utopia, or Chancellor Bacon’s New Atlantis, I have no doubt that you will class with the same type of writing this story, which is no less ingenious than diverting.’ Cyrano would know these books, as well as Campanella’s rationalist utopia, The City of the Sun, and perhaps Kepler’s fragmentary Somnium, a tale of a trip to the moon. This was envisaged in quite realistic terms, with a light face and a dark face to the moon, and a race of huge reptiles living there. nae own book was to be broader in scope than any of these.
+
+In 1649 he ventured into print again with a ‘mazarinade’, an unbridled attack on Mazarin in the manner of the burlesque poets like Scarron. The following year he changed sides and wrote (either for money, or to spite Scarron and the rest) his letter, Contre les Frondeurs, an attack on the princes of the Fronde. Meanwhile L’Autre Monde (or at any rate the first book of it) was completed. He sent the manuscript of it to his friend, the poet Jean Royer de Prades, who expressed in verse his alarm and his intention of avoiding Cyrano in future:
+
+Car autant qu’une affreuse mort
+Je crains les gens de ‘L’Autre Monde’.
+
+(I fear these people of ‘The Other World’ as greatly as a dreadful death.) The reaction of other friends is unknown. ‘The manuscript remained unpublished, though its private circulation probably added to his reputation both as a writer and as a dangerous /ibertin (i.e. a free-thinker).
+
+In 1652 he overcame any earlier scruples, driven perhaps both by poverty and by the need for respectability, which would permit him to publish, and obtained the patronage of the dull and vain Duc d’Arpajon. His tragedy, La Mort d’Agrippine, was published with a dedication to his new patron and this was followed by a second volume of works, including Le Pédant Joué. L’Autre Monde remained unpublished, but the audience which witnessed the first performance of La Mort d’Agrippine at the Hotel de Bourgogne evidently came prepared to be shocked by the work of a madman or an atheist or both. Bold tirades against the gods (‘which were made by man and did not make man’) may have passed unnoticed but a harmless phrase was taken as an insult to the Eucharist (hostie can mean both victim and the Host) and an uproar ensued. The play was taken off and the duke sought to rid himself of his embarrassing protégé.
+
+But by this time, fate (or as some biographers have had it, the agents of the Holy Office) had intervened and caused a wooden beam to fall on Cyrano’s head as he entered the duke’s house. He was now ill and confined to his room. The duke advised him to go to the country. Feeling betrayed, Cyrano left the duke’s house for good, and was tended by his aunt, Catherine, and his friends at a house in Paris. Here he worked over the manuscripts of L’Autre Monde until they were stolen—or removed by friends in order to save them from destruction at the hands of the pious nuns, who were also in attendance. They later came into the hands of Le Bret, but he, in turn, was robbed of the third book, L’Etincelle, which has never come to light. Cyrano moved to the house of his cousin, Pierre de Cyrano at Sannois, where he died in July 1655, at the age of thirty-six, probably of the malady which had kept him away from the opposite sex for the last ten years of his life. Apparently he made a Christian end.
+
+In 1657 Le Bret published the first book of L’Autre Monde as the Voyage dans la Lune. Himself about to take orders, Le Bret undoubtedly whitewashed his friend in the prefatory account of his life, not merely glossing over the more disreputable aspects of it, but also apologizing for the very idea of presenting the moon as a world. He cites Heraclitus, Gassendi, and others as supporters of the view but praises Cyrano for treating it lightly rather than seriously (this nearly fifty years after Galileo had observed its surface through a telescope and said, ‘it is full of irregularities, uneven, full of hollows and protuberances, just like the surface of the earth itself’), Le Bret also cut out all the obviously blasphemous or bawdy passages. The full version of the first book (the second book remains incomplete) was preserved in a manuscript in either Cyrano’s hand or that of a friend. This was published in 1920.
+
+Bowdlerized by Le Bret, the book achieved some success as a comical history, and was soon joined in print by the second part, L’Histoire des Etats et Empires du Soleil (the source of the manuscript is unknown). Before the end of the century there were several more editions and two English versions. ‘There was a new edition in 1741 and then Cyrano seems to have been forgotten for almost a hundred years.

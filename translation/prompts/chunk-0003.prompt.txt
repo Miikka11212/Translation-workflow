@@ -1,0 +1,49 @@
+Translate the following English literary text into fluent modern Simplified Chinese.
+
+Rules:
+- Preserve headings and paragraph breaks.
+- Use natural modern Mandarin, not classical Chinese.
+- Do not summarize, explain, omit, or add commentary.
+- Keep dialogue and quotation marks readable in Chinese.
+- Keep proper names consistent with the glossary.
+- Output only the Chinese translation.
+
+Glossary:
+# Translation Glossary
+
+Use Simplified Chinese and modern literary Mandarin.
+
+- Cyrano de Bergerac: 西拉诺·德·贝热拉克
+- Cyrano: 西拉诺
+- Other Worlds: 异世界
+- The States and Empires of the Moon: 月球诸国与诸帝国
+- The States and Empires of the Sun: 太阳诸国与诸帝国
+- Geoffrey Strachan: 杰弗里·斯特拉坎
+- Campanella: 康帕内拉
+- Descartes: 笛卡尔
+- Gassendi: 伽森狄
+- Kepler: 开普勒
+- Copernicus: 哥白尼
+- Epicurus: 伊壁鸠鲁
+- Pythagoras: 毕达哥拉斯
+- Democritus: 德谟克利特
+- Girolamo Cardano: 吉罗拉莫·卡尔达诺
+- Cardano: 卡尔达诺
+- Prometheus: 普罗米修斯
+- The Moon: 月球
+- The Sun: 太阳
+
+Text:
+In 1838 Charles Nodier in his Bulletin du Bibliophile praised Cyrano, as did Théophile Gautier in a highly in- 7accurate account in Les Grotesques (1844). Gautier penned a whimsical description of Cyrano’s face, based on the extant portraits. It is vivid and exaggerated. His surprising description of Cyrano’s big aquiline nose as ‘the highest mountain in the world after the Himalayas’ helped, along with some of Dassoucy’s insults, to lay the foundations for Rostand’s creation. Cyrano’s own comments on the subject of large noses appear in L’Autre Monde.
+
+New editions appeared in 1855 and 1858. The general picture of Cyrano remained confused, and the success of Rostand’s play in 1897 confused matters still more. The freethinking martyr to clerical fanatics, who had pursued him beyond the grave by destroying copies of his works whenever they came upon them, hardly fitted in with the grotesque hero nursing a broken heart. And did he come from Gascony or did he not? Rostand cannot be blamed for using legends and superficial local colour in order to write good theatre rather than good history. His borrowings from Cyrano’s own work, however, now seem rather feeble and his portrayal of the man who satirized the tearful amorous swains of precious literature as one of them himself is rather a cheek.
+
+In 1920 Frédéric Lachévre published the full text of L’ Autre Monde, and wrote an account of Cyrano’s life which distinguished critically between fact and fiction. He himself shows a curious distaste for Cyrano as a spendthrift, petulant blasphemer. He was of course anxious to give the emphatic lie to all the legends: Cyrano was not a nobleman; he was not the worthy, martyred free-thinker of innocent nineteenth century myth—any more than Galileo was an uncomplicated Resistance hero who quipped ‘and yet it moves’ as he signed away the Copernican theory. A little of Lachévre’s distaste was perhaps shared by Richard Aldington, who translated the book into English for the first time since 1754 shortly after Lachévre’s edition was published. Aldington praises the liveliness of the book, but one feels he might have preferred Cyrano to have omitted his physics and his travesties of myth and scripture, to have been more logical, more classical, more Swiftian. But he rightly defends Cyrano against the irrelevant charge of plagiarism. Again the nineteenth century had misunderstood Cyrano’s originality: it was not that of the scientist or philosopher. It was that of a poet who listened to their talk and used it for his own ends. The value of this has been perceived more recently.
+
+The revival of interest in Cyrano during the past ten years may perhaps be related to that in a more modern fantastic writer, Alfred Jarry (also a rebellious schoolboy who pilloried his teacher in a play, who mated a passion for physics with a belief in the paramountcy of the imagination to produce ‘pataphysics’, his science of impossible solutions, and who made L’Autre Monde one of the twenty-seven ‘equivalent books’ of his own voyager through space-time, Dr Faustroll). Our age has outgrown the sweetly reasonable straitjacket of classicism and the heroic individualism of the romantics. Cyrano can speak to us directly now as a voice from an age of fragmented culture, like our own, in which there are many authorities demanding subservience but no one Authority; in which the physical world is seen to be governed by huge forces we observe at work but cannot quite fathom; and in which solid matter melts away into infinitesimal particles as we try to define it.
+
+Cyrano de Bergerac was an accomplished writer in at least three standard genres of his time. His letters show elegance, wit, pungent rhetoric, and a feeling for nature. His comedy shows Rabelaisian verve, with its larger-than-life characters and satire on pedantry. It contains many sallies at the expense of the literary rules of classicism, including those of comedy. (I should have riddled this rogue’s belly with holes already, but I was afraid of breaking the rules of comedy by spilling blood upon the stage.’) His tragedy, however, shows considerable formal discipline and Cornelian eloquence. It was only in L’Autre Monde that Cyrano found a genre which gave full scope to his gifts and to the diversity of his experience. He did not invent the genre but rather developed it from an existing one. The Man in the Moone had combined the elements of the utopian tradition, space fiction, and the tall story (Lucian and Rabelais). To these Cyrano added a flavour of Montaigne’s speculation, the burlesque taste for old myths travestied, and satire, both fierce and oblique.
+
+It might have been an indecipherable hotch-potch, like the culture it reflected; a book so full of allusions that only a scholar could relish it. One may indeed study it for its mechanical inventions, for its classical allusions, for its use of other men’s utopian ideas (both right way up and upsidedown), for its expression of Gassendi’s and Descartes’ conflicting theories. Or one can just sit back and enjoy it; for the story of Cyrano’s two voyages with its fourth dimension of speculation and its alienation effect of leg-pull is written for the layman. The author has borrowed left and right and the book contains a number of witty, oblique acknowledgements to people whose ideas he borrows, embellishes, or burlesques: Gassendi, Godwin, Sorel, Campanella. It all forms part of his graceful, inexhaustible conversation piece. It is the work of a man who delights in speculating and cherishes the freedom to speculate and to believe whatever he chooses.
+
+Cyrano, Le Bret relates, noted the diversity of the opinions of the philosophers and therefore scorned any man who took a single one of them as his gospel. Diversity fascinated him. Given his support for the thesis that the moon is a world, one may marvel at the perversity of the fancies that go with it. But the work of a man like Kepler, who helped to usher in the Newtonian revolution, was itself a mixture of astronomical observation and mathematical mysticism. His chores included casting horoscopes for princes. It was a culture which had not yet created the classical compartments. In arguing more than one side to a case, and in alternating between common sense and lunatic logic, Cyrano was writing—amusingly—of what he heard and read round about him. His book is a poem from an age when poetry, physics, metaphysics, and astronomy could all still exist side by side in one book, albeit a fantastic one. In 1687 Newton’s Principia appeared. The mystery of those ‘influences’ exerted by bodies on one another, which so fascinated men’s minds, Cyrano’s included, was formulated as the law of gravity. The sun was no longer a spirit, a god; it became an engine, the heart of the great clockwork universe which Swift was to inhabit. Drawing much from L’Autre Monde, Swift was to give it quite a new emphasis, to write a more forceful, more earth-bound, more perfect book, banking his fires, and suiting it to his age of reason.

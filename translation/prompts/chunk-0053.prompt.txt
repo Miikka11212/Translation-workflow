@@ -1,0 +1,53 @@
+Translate the following English literary text into fluent modern Simplified Chinese.
+
+Rules:
+- Preserve headings and paragraph breaks.
+- Use natural modern Mandarin, not classical Chinese.
+- Do not summarize, explain, omit, or add commentary.
+- Keep dialogue and quotation marks readable in Chinese.
+- Keep proper names consistent with the glossary.
+- Output only the Chinese translation.
+
+Glossary:
+# Translation Glossary
+
+Use Simplified Chinese and modern literary Mandarin.
+
+- Cyrano de Bergerac: 西拉诺·德·贝热拉克
+- Cyrano: 西拉诺
+- Other Worlds: 异世界
+- The States and Empires of the Moon: 月球诸国与诸帝国
+- The States and Empires of the Sun: 太阳诸国与诸帝国
+- Geoffrey Strachan: 杰弗里·斯特拉坎
+- Campanella: 康帕内拉
+- Descartes: 笛卡尔
+- Gassendi: 伽森狄
+- Kepler: 开普勒
+- Copernicus: 哥白尼
+- Epicurus: 伊壁鸠鲁
+- Pythagoras: 毕达哥拉斯
+- Democritus: 德谟克利特
+- Girolamo Cardano: 吉罗拉莫·卡尔达诺
+- Cardano: 卡尔达诺
+- Prometheus: 普罗米修斯
+- The Moon: 月球
+- The Sun: 太阳
+
+Text:
+‘You will certainly ask me from whom I have the story I have given you. You will say that I could not have learned it from people who were not there. Well, it is true that I am the only one who was there and that even I could not bear witness to it, for the reason that it had occurred before I was born. That is also true. But then you must learn that in a region near to the sun, like this one, our minds, being full of fire, are more lucid, more subtle, and more penetrating than those of the other creatures in more distant spheres. And since even in your world there used to be prophets, whose spirits, heated by a strong passion, had presentiments about the future, so in this one, which is much nearer the sun, and in consequence more luminous than yours, it is not impossible for some odour of the past to reach a powerful genius and for his mobile mind to travel backwards as well as forwards and be capable of arriving at the cause via the effects, seeing that it can deduce the effects from the cause.’
+
+He completed his recital in this manner, but after a still more detailed lecture, in which he revealed to me some deeply hidden mysteries, some of which I wish to keep secret and the rest of which have escaped my memory, he told me that it was less than three weeks since a mound of earth, made pregnant by the sun, had given birth to him.
+
+‘Take a look at this tumour!’ He drew my attention to a mysterious swelling in the mud, like a molehill. ‘It is,’ he said, ‘a pimple, or let me rather call it a womb, in which the embryo of one of my brothers has been hidden for nine months. I am waiting here with the intention of offering him my services as a midwife.’
+
+He would have continued, had he not noticed the earth quivering at the edge of this lump of clay. From this and the bigness of the bubo, he judged that the earth was already in labour and that the palpitation was caused by the strain of the birth pangs. He left me at once to run over to it, while I went off to retrieve my cabin.
+
+I climbed back up the mountain down which I had come and reached the summit in a state of considerable weariness. You can imagine how distressed I was to find that my machine was no longer where I had left it. I had begun to lament its loss when I perceived it flitting along, a great distance away. I ran to it as fast as my legs could carry me, making myself quite out of breath. It was certainly a comical sport for anyone to contemplate, this new style of hunting, for sometimes when I almost had my hand upon it, the bowl of glass would undergo a slight rise in temperature. This would draw up the air with more force: the current became stronger and lifted my box above me, making me leap after it, like a cat after a hare it sees hanging from a butcher’s hook. Had my shirt not remained on top of it, to counter the effect of the mirrors, it would have made the journey alone.
+
+But what is the good of refreshing my memory about an adventure I cannot recall without suffering the same anguish as I felt at the time? It is enough for you to know that it bounded, ran, and flew, and that I walked and strode until eventually I saw it fall at the foot of a very high mountain. It could well have led me still further if the shadows of this haughty protuberance of the earth, which blotted out the heavens far in front of itself on the plain, had not spread darkness for half a league all round. For when my cabin entered these shades, its glass had no sooner felt the coolness of them than the vacuum ceased to be produced by it. No more wind blew through the hole and there was consequently no more upthrust to sustain it, so that it fell and would have smashed itself into a thousand smithereens if by lucky chance it had not fallen into a pool, which yielded beneath its weight. I recovered it from the water and put back into shape what was damaged. I then put my arms about it and held it as tightly as I could, while I carried it to the summit of a hill which was situated quite close by. There I unwrapped my shirt from round the vessel, but I could not put it on because my mirrors were beginning to work and I could see my cabin was already frisking to take off. All I had time to do was to climb swiftly into it and shut myself up as before.
+
+The sphere of our world no longer looked to me like anything more than a heavenly body about the size the moon seems to us. As I rose, it shrank even more, becoming first a star, then a speck of light, and finally nothing at all, inasmuch as it was a luminous point as fine as the one which marks the ultimate range of my vision. So in the end it appeared to me to emerge into the general colour of the heavens.
+
+Someone will perhaps express surprise at the fact that sleep should not have overcome me during such a long journey.
+
+But as the only cause of sleep is the mild exhalation given off by food rising from the stomach to the brain, or a need which nature feels, to mend our souls and repair while we are at rest, such of their spirits as have been consumed by work, I had not the least inclination to sleep, since I was not eating and the radiant heat of the sun was restoring my supply of energy much faster than I used it up.

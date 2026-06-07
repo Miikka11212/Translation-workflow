@@ -1,0 +1,63 @@
+Translate the following English literary text into fluent modern Simplified Chinese.
+
+Rules:
+- Preserve headings and paragraph breaks.
+- Use natural modern Mandarin, not classical Chinese.
+- Do not summarize, explain, omit, or add commentary.
+- Keep dialogue and quotation marks readable in Chinese.
+- Keep proper names consistent with the glossary.
+- Output only the Chinese translation.
+
+Glossary:
+# Translation Glossary
+
+Use Simplified Chinese and modern literary Mandarin.
+
+- Cyrano de Bergerac: 西拉诺·德·贝热拉克
+- Cyrano: 西拉诺
+- Other Worlds: 异世界
+- The States and Empires of the Moon: 月球诸国与诸帝国
+- The States and Empires of the Sun: 太阳诸国与诸帝国
+- Geoffrey Strachan: 杰弗里·斯特拉坎
+- Campanella: 康帕内拉
+- Descartes: 笛卡尔
+- Gassendi: 伽森狄
+- Kepler: 开普勒
+- Copernicus: 哥白尼
+- Epicurus: 伊壁鸠鲁
+- Pythagoras: 毕达哥拉斯
+- Democritus: 德谟克利特
+- Girolamo Cardano: 吉罗拉莫·卡尔达诺
+- Cardano: 卡尔达诺
+- Prometheus: 普罗米修斯
+- The Moon: 月球
+- The Sun: 太阳
+
+Text:
+It was a bare country, so open that there was not a single bush as far as the eye could see, and yet, upon my awakening, I found myself beneath a tree by comparison with which the tallest cedars would seem like so many blades of grass. Its trunk was of solid gold, its branches of silver, and its leaves were emeralds, in which were mirrored beneath the brilliant green of their precious surface the images of the fruit which hung about the tree. But judge whether the fruit owed anything to the leaves. Half of each of them was made up of the blazing scarlet of a fat carbuncle and the other would be composed either of a chrysolite or a piece of gilded amber. ‘The flowers in bloom were very broad roses of diamond and the buds were great pear-shaped pearls.
+
+A nightingale, most excellently beautiful with its smooth plumage, perched on the topmost twig, and with its song it seemed to be trying to make one’s eyes admit to one’s ears that it was not unworthy of the throne on which it sat.
+
+For a long time I was left dumbfounded by this splendid spectacle and could not gaze at it enough. But while my whole mind was taken up with the contemplation of an extraordinarily beautiful pomegranate, among the other fruits, the flesh of which was formed by a cluster of several large rubies fused together, I perceived the little crown, which took the place of its head, moving and stretching itself sufficiently to form a neck. Then I saw something white seething on top, which thickened, swelled, advanced, and withdrew its substance in certain places until it finally appeared to be a face on top of a small bust of flesh. This little bust terminated in a sphere, round about the waist; that is to say, it still kept its apple shape down below. However, it stretched itself little by little and when its stalk had turned into two legs, each of its feet divided into five toes.
+
+‘Thus humanized, the pomegranate detached itself from its stem and fell right at my feet with a gentle bump. I freely admit that when I saw this reasonable fruit walking proudly in front of me—this little bit of a dwarf no bigger than my thumb and yet powerful enough to have created itself—I was awestruck.
+
+‘Human animal,’ he said to me (in that original language of which I have spoken to you already), ‘after observing you for some time from up on the branch where I hung, I thought I could read in your face that you were not a native of this world. It is because of this that I have come down to be enlightened as to the truth of the matter.’
+
+When I had satisfied his curiosity about all the subjects on which he questioned me, I said to him: ‘But as for yourself, reveal to me who you are. For what I have just witnessed is so very astounding, that if you do not teach me I must despair of ever knowing the cause of it. What do I see? An entire tree of pure gold, whose leaves are emeralds, whose flowers are diamonds, whose buds are pearls and, amidst all this, fruits which turn into men in the twinkling of an eye! I must confess that to understand such a miracle is quite beyond my power.’
+
+After this outburst I waited for his reply. “You can have no objection,’ he said, ‘since I am the King of the whole nation which makes up this tree, to my summoning it to follow my example.’
+
+When he had spoken these words I observed him withdraw into himself. I do not know if, by winding up the internal mechanism of his will, he set off some movement outside himself which caused what you are about to hear of to happen: but at all events, immediately afterwards all the fruits, all the flowers, all the leaves, all the branches and finally the whole tree disintegrated into little men that saw, felt, and walked and, as if to celebrate their birthday at the very moment of their birth, began to dance all round me.
+
+Only the nightingale, amid all the rest of them, retained its shape and was in no way transformed. It came and perched on the shoulder of our little monarch, where it sang an air so melancholy and so love-sick that the whole assembly, including the prince himself, was moved by the sweet langours and dying falls of its voice, and wept several tears over it. I was then overcome with a curiosity to learn where this bird came from, that gave me such an extraordinary itching of the tongue that I could no longer contain it.
+
+‘Sire,’ I said, addressing the King, ‘if I were not afraid to trouble your Majesty I should ask you why, among so many metamorphoses, the nightingale alone has retained its shape.’
+
+The little prince heard me with a condescension which gave good proof of his natural bounty and, acknowledging my curiosity, he replied to me: ‘The nightingale has not changed its shape, as we have, because it could not: it isa true bird, which is no more than what it appears to you to be. But let us walk towards the opaque regions. I will tell you, as we go along, who I am, and give you the story of the nightingale.’
+
+I had hardly expressed the satisfaction his offer had given me, when he jumped lightly on to one of my shoulders. He raised himself on his little toes to reach my ear with his mouth. One moment he was swinging on my hair and the next he was tormenting himself with the strappado from it.
+
+‘Upon my soul!‘ he said to me. ‘You really must excuse a body who feels out of breath already. Being in a tiny frame, my lungs are constricted, and my voice is so faint, in consequence, that I am obliged to strain myself a good deal in order to be heard. The nightingale himself will see fit to tell you about himself. Let it sing then, if it wishes! At least we shall have the pleasure of hearing its story in music.’
+
+I replied that I had not yet sufficient familiarity with the bird language. It was true that a certain philosopher, whom I had met on my way up to the sun, had indeed given me several general principles for understanding that of the brutes, but these were not sufficient for me to understand the complete vocabulary, nor for me to be touched by all the subtleties, which are to be found in an adventure such as this must be.

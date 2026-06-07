@@ -1,0 +1,87 @@
+Translate the following English literary text into fluent modern Simplified Chinese.
+
+Rules:
+- Preserve headings and paragraph breaks.
+- Use natural modern Mandarin, not classical Chinese.
+- Do not summarize, explain, omit, or add commentary.
+- Keep dialogue and quotation marks readable in Chinese.
+- Keep proper names consistent with the glossary.
+- Output only the Chinese translation.
+
+Glossary:
+# Translation Glossary
+
+Use Simplified Chinese and modern literary Mandarin.
+
+- Cyrano de Bergerac: 西拉诺·德·贝热拉克
+- Cyrano: 西拉诺
+- Other Worlds: 异世界
+- The States and Empires of the Moon: 月球诸国与诸帝国
+- The States and Empires of the Sun: 太阳诸国与诸帝国
+- Geoffrey Strachan: 杰弗里·斯特拉坎
+- Campanella: 康帕内拉
+- Descartes: 笛卡尔
+- Gassendi: 伽森狄
+- Kepler: 开普勒
+- Copernicus: 哥白尼
+- Epicurus: 伊壁鸠鲁
+- Pythagoras: 毕达哥拉斯
+- Democritus: 德谟克利特
+- Girolamo Cardano: 吉罗拉莫·卡尔达诺
+- Cardano: 卡尔达诺
+- Prometheus: 普罗米修斯
+- The Moon: 月球
+- The Sun: 太阳
+
+Text:
+I expected nothing more from my fall than to smash to the ground against some rock; but when I got to the bottom of my fear I was thoroughly astonished to find myself sitting upon a white ostrich, which set off at a gallop as soon as it felt me upon its back.
+
+They took me on a different road from the one by which I came, for I remember that I went through a great forest of myrtles and another of turpentine trees, ending in a vast grove, where King Dove awaited me in the midst of all his court.
+
+As soon as he saw me he made a sign for me to be helped down. At once the two eagles of the guard offered me their feet and carried me to their prince.
+
+I wished to embrace and kiss His Majesty’s little claws out of respect, but he drew back. Before doing so, however, he said to me: ‘And now let me ask you, do you know this bird?’
+
+At these words they showed me a parrot, which began to flutter and flap its wings when it saw me looking at it.
+
+‘Yes,’ I cried to the King, ‘it does seem to me that I have seen him somewhere, but fear and joy have so confused my senses that I cannot yet recall clearly where it was.’
+
+At these words the parrot came and embraced my face with its two wings and said to me: ‘What? Have you forgotten your cousin’s parrot, Caesar, in respect of whom you have so often maintained that birds can think? I was the one just now at your trial who wished to declare my obligation to you after the hearing, but my grief at seeing you in so great a peril made me fall into a faint.’
+
+Its words opened my eyes. Recognizing it, I embraced and
+kissed it and it embraced and kissed me.
+
+‘So,’ I said to it, ‘is it you, my poor Caesar, whose cage I opened to give you back the liberty of which the tyrannous custom of our world had robbed you?’
+
+The King interrupted our caresses and spoke to me thus: ‘Man, among us a good action is never forgotten; that is why, although, being a man, merely because you have been born you deserve to die, the Senate grants you your life. It is fitting thus to acknowledge the lights with which nature illumined your instinct, when she gave you a presentiment of that faculty of reason in us, which you were not capable of knowing yourself. Go, then, in peace, and live happily!’
+
+He gave some orders in a low voice and my white ostrich, led by the two turtle doves, carried me from the assembly.
+
+After galloping with me for about half a day, it left me near a forest, into which I plunged as soon as it had gone. There I began to taste the delights of liberty and of eating the honey that trickled down the bark of the trees.
+
+18
+The trees
+
+I ru1nk I should never have stopped walking—for such was the agreeable diversity of the place that I was continually discovering something more beautiful—if my body could have withstood the effort. But as I finally found I was quite weak from exhaustion, I let myself slip on to the grass.
+
+Stretched out thus in the shadow of these trees, I was just feeling the sweet coolness and the still solitude inviting me to sleep, when a faint sound of confused voices, which I seemed to hear hovering about me, aroused me with a start.
+
+The terrain appeared very flat and was quite clear of undergrowth which might have blocked the view, so I could see for a long way between the forest trees. Yet the murmuring which reached my ears was certainly coming from very close to me. When I listened even more attentively, I quite distinctly heard a succession of words in Greek and from among a number of people conversing I could make out one who was expressing himself as follows:
+
+‘Doctor, one of my relatives, the three-headed elm has just sent me a chaffinch to inform me that he is sick of a withering fever and a bad attack of moss, which has covered him from head to foot. In the name of the friendship that you bear me, I beg you to prescribe something for him.’
+
+I waited for a short time without hearing anything, but after a little while, someone seemed to reply thus: ‘Even if the three-headed elm were no relative of yours and if, instead of you, who are my friend, one of our species who was a complete stranger were to make this request to me, my profession obliges me to help everybody. So send word to the threeheaded elm, that to cure his sickness he needs to absorb as much moisture and as little dry matter as he can; that to this end he should direct the little hairs on his roots into the dampest part of his bed, that he should converse only upon cheerful topics and have himself supplied with music every day by several excellent nightingales. Afterwards he should let you know how he fares with this regimen and then, according to the course his sickness takes, when we have prepared his humours, I will arrange for a stork I know to give him an injection, which will set him fully on the road to recovery.’
+
+After these words I heard not the slightest sound more until a quarter of an hour later a voice came to my ears which I did not seem to have noticed before, and this is how it spoke: ‘Hullo there, Fork-stump! Are you asleep?’
+
+Then I heard another voice, which replied: ‘No, Green
+Bark, why?’
+
+‘Well,’ continued the one that had first broken the silence, ‘I have the feeling we used to experience when those animals which are called men approached us, and I should like to ask you if you feel the same.’
+
+Some time elapsed before the other replied, as if it had wanted to test this discovery with its most secret senses. Then it cried out: ‘By God! You are right! I swear I find my organs so full of the traces of a man that unless I am utterly deceived there is one very close by.’
+
+Then several voices joined in, saying that they definitely
+sensed the presence of a man.
+
+I vainly cast my eyes all about me. I could not discover where these words might be coming from. Finally, after I had somewhat recovered from the horror first inspired by this circumstance, I replied to the voice I thought I heard asking if there was a man there, that there was. ‘But I entreat you,’ I went on at once, ‘whoever you are, speaking to me, tell me where you are.’

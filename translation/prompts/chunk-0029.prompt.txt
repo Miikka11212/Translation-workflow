@@ -1,0 +1,51 @@
+Translate the following English literary text into fluent modern Simplified Chinese.
+
+Rules:
+- Preserve headings and paragraph breaks.
+- Use natural modern Mandarin, not classical Chinese.
+- Do not summarize, explain, omit, or add commentary.
+- Keep dialogue and quotation marks readable in Chinese.
+- Keep proper names consistent with the glossary.
+- Output only the Chinese translation.
+
+Glossary:
+# Translation Glossary
+
+Use Simplified Chinese and modern literary Mandarin.
+
+- Cyrano de Bergerac: 西拉诺·德·贝热拉克
+- Cyrano: 西拉诺
+- Other Worlds: 异世界
+- The States and Empires of the Moon: 月球诸国与诸帝国
+- The States and Empires of the Sun: 太阳诸国与诸帝国
+- Geoffrey Strachan: 杰弗里·斯特拉坎
+- Campanella: 康帕内拉
+- Descartes: 笛卡尔
+- Gassendi: 伽森狄
+- Kepler: 开普勒
+- Copernicus: 哥白尼
+- Epicurus: 伊壁鸠鲁
+- Pythagoras: 毕达哥拉斯
+- Democritus: 德谟克利特
+- Girolamo Cardano: 吉罗拉莫·卡尔达诺
+- Cardano: 卡尔达诺
+- Prometheus: 普罗米修斯
+- The Moon: 月球
+- The Sun: 太阳
+
+Text:
+Our young host did not wait for me to ask him to explain the mystery. ‘I can easily see,’ he said, ‘that this way of life surprises you. But you should know that although you are more negligent with your health in your world, our regimen here is not to be despised.
+
+‘In every house there is a physiognomist, supported at the public expense, who is more or less what would be called a doctor, where you come from, apart from the fact that he only looks after healthy people and only judges the various ways in which we must be treated from the proportion, shape, and symmetry of our limbs, the lineaments of our faces, the colouring of our flesh, the delicacy of our skin, the agility of our bodies, the sound of our voices, and the shade, strength, and hardness of our hair. Did you notice quite a short little man studying you just now? He is our physiognomist here. You may be certain that he varied the odours of your dinner in accordance with his diagnosis of your complexion. Look how far the mattress you were given to lie on is from our beds. Doubtless he judged you to be of a temperament far removed from ours, since he was afraid that the odour which arises from these little taps under our noses might spread across to you, or that yours might waft over to us. This evening you will see him choosing the flowers for your bed with the same circumspection.’
+
+Throughout this discourse I was signalling to my young host for him to try and make the philosophers turn to some chapter of the science which they professed. He was too good a friend not to create the opportunity at once. In view of this, I will not recount to you the speeches and prayers which solicited the following treatise, since the nuance between parody and seriousness was too subtle for it to be possible to imitate it. At all events, reader, the most recently arrived of these learned doctors, after dealing with various matters, continued in this way:
+
+‘,.. [t remains for me to prove that there are infinite worlds within an infinite world. Picture the universe, therefore, as a vast organism. Within this vast organism the stars, which are worlds, are like a further series of vast organisms, each serving inversely as the worlds of lesser populations such as ourselves, our horses, etc. We, in our turn, are also worlds from the point of view of certain organisms incomparably smaller than ourselves, like certain worms, lice, and mites. They are the earths of others, yet more imperceptible. So, just as each single one of us seems to this tiny people to be a great world, perhaps our flesh, our blood, and our minds are nothing but a tissue of little animals, nourishing themselves, lending us their movement, allowing themselves to be driven blindly by our will (which acts as their coachman), carrying us about, and all together producing that activity which we call life.
+
+‘For do you find it hard to believe that a louse should take your body for a world, or that, when one of them travels from one of your ears to the other, his friends should say that he has voyaged to the ends of the earth, or that he has journeyed from pole to pole? Why, doubtless this tiny people take your hair for the forests of their country, your pores full of sweat for springs, your pimples for lakes and ponds, your abscesses for seas, your streaming nose for a flood; and when you comb your hair backwards and forwards they think this is the ebb and flow of the ocean tides.
+
+‘Does not the itch prove my point? The mite which produces it is surely none other than one of these little animals, which has broken away from civil society and set itself up asa tyrant in its own country. If you ask me how such creatures come to be larger than the rest of their imperceptible fellows, I will ask you why elephants are bigger than us and Irishmen bigger than Spaniards. As for your blister and your scab, whose origins are unknown to you, they must either result from the rotting carcasses of enemies slaughtered by these little giants, or else a plague (caused by the lack of foodstuffs upon which the rebels have gorged themselves) has left behind heaps of corpses, or else the tyrant has driven away all his neighbours, whose bodies stopped up the pores in our own, thus making a passage for the phlegm, which then escapes from the bloodstream and becomes corrupted.
+
+‘It may be asked why one mite produces so many others. But this is not difficult to conceive, for just as one revolt produces another, so these little peoples are roused by the bad example of their seditious companions and each aspires to take command, enflaming war, massacre, and famine all around.
+
+‘“But,” you will tell me, “some people are much less subject to the itch than others, although all of them are equally filled with these little animals, since it is they—you say—who make up life.” This is true, but let us also observe that phlegmatic people are less a prey to scratching than choleric people, for the reason that, in accordance with the climate they inhabit, the peoples in a cold body are more lethargic than those heated by the temperature of a homeland which crackles, shifts, and cannot remain in one place. Thus the choleric man is much more delicate than the phlegmatic, because he is animated in many more parts of his body, and as his being is made up of the action of these little beasts he is sensitive in all the places where their herds are stirring. On the other hand the phlegmatic man is not hot enough to make this mobile population active, save in a few places, and is therefore only sensitive in a few places.

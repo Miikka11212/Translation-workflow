@@ -1,0 +1,60 @@
+Translate the following English literary text into fluent modern Simplified Chinese.
+
+Rules:
+- Preserve headings and paragraph breaks.
+- Use natural modern Mandarin, not classical Chinese.
+- Do not summarize, explain, omit, or add commentary.
+- Keep dialogue and quotation marks readable in Chinese.
+- Keep proper names consistent with the glossary.
+- Output only the Chinese translation.
+
+Glossary:
+# Translation Glossary
+
+Use Simplified Chinese and modern literary Mandarin.
+
+- Cyrano de Bergerac: 西拉诺·德·贝热拉克
+- Cyrano: 西拉诺
+- Other Worlds: 异世界
+- The States and Empires of the Moon: 月球诸国与诸帝国
+- The States and Empires of the Sun: 太阳诸国与诸帝国
+- Geoffrey Strachan: 杰弗里·斯特拉坎
+- Campanella: 康帕内拉
+- Descartes: 笛卡尔
+- Gassendi: 伽森狄
+- Kepler: 开普勒
+- Copernicus: 哥白尼
+- Epicurus: 伊壁鸠鲁
+- Pythagoras: 毕达哥拉斯
+- Democritus: 德谟克利特
+- Girolamo Cardano: 吉罗拉莫·卡尔达诺
+- Cardano: 卡尔达诺
+- Prometheus: 普罗米修斯
+- The Moon: 月球
+- The Sun: 太阳
+
+Text:
+‘Oh! whoever you may be,’ I cried, throwing myself down on my knees, ‘the wisest of all the oaks of Dodona, that deigns to instruct me, know that you will not be giving your lesson to an ingrate. For I vow that if ever I return to my native globe I shall publish all the marvels which you nopa me in permitting me to witness.’
+
+As I was finishing this protestation I heard the same voice
+continuing as follows:
+
+‘Look, little man, twelve or fifteen paces to your right and you will see two twin trees of medium size whose roots and branches are interlaced, as they attempt in a thousand ways to become a single tree.’
+
+I directed my gaze towards these amorous plants and observed how the leaves on both of them were faintly trembling with an agitation which seemed as if controlled by their own volition and which gave rise to a murmuring so soft that it hardly impinged on one’s ear. And yet with it one would have said that they were trying to exchange question and answer.
+
+After about enough time had passed for me to observe this double plant, my good friend, the oak, resumed the thread of its speech as follows:
+
+“You can hardly have lived for so long without the famous friendship between Pylades and Orestes having come to your knowledge.
+
+‘I should depict to you all the joys of their sweet passion and I should tell you all the miracles with which these friends astonished their age if I did not fear that so much enlighten- ment might dazzle the eyes of your reason. I will therefore only describe these two young suns in their eclipse.
+
+‘So it will be enough for you to know that one day the noble Orestes, engaged in battle, was seeking out his dear friend Pylades in order to enjoy the pleasure of either conquering or dying at his side. Seeing him surrounded by a hundred arms of steel which were raised against his head, alas, what did he do? He hurled himself in desperation through a forest of pikes, he shouted, he roared, he foamed at the mouth—but how badly I express the horror of that inconsolable man’s agitation! He pulled out his hair, he bit his hands, he tore at his own wounds. But even now, at the end of this description, I am forced to say that his way of expressing his grief died with him. Then, when he thought to make a road with his sword to go and help Pylades, a mountain of men stood in his path. Nevertheless he cut through them and after treading under foot for a long time the bloody trophies of his victory, he gradually drew near to Pylades. But Pylades seemed to him so near to death that he hardly dared to go on warding off the enemy, for fear of surviving the man for whom he lived. To see his eyes already filled with the shadows of death one would have said that he was trying to poison his friend’s murderers with his own looks. Finally Pylades fell lifeless to the ground and his dear friend Orestes who, similarly, felt his own life hovering on the brink of his lips, clung fast to it until he had searched among the dead with a distracted gaze and found Pylades once more. Then, pressing his mouth against his dead friend’s, he seemed to wish to expel his own soul into his friend’s body.
+
+‘The younger of the two heroes died of grief upon the body of his friend and you must know that from the decomposition of their bodies which had doubtless impregnated the earth, there were seen to arise among the already whitened bones of their skeletons two young saplings, whose stems and branches, all intertwined together, seemed in haste to grow only so that they might become still further enlaced. It was recognized that they had taken on a new form without losing the memory of what they had been. For their scented buds leaned over one another and warmed one another with their breath, as if to make one another blossom more swiftly. And what shall I say of the loving exchanges which sustained their life together? Never did the sap, in which their nourishment resides, offer itself to their roots without their sharing it ceremoniously. Never was one of them undernourished without the other being weak for want of food. The two of them drank together at their nurse’s breasts from within, just as you suck at them from without.
+
+‘At length these happy friends produced apples—but miraculous apples, which performed even more miracles than their fathers. No sooner had you eaten apples from the one tree than you became hopelessly in love with whoever had eaten the fruit of the other. And this occurrence took place almost every day, because all the offshoots of Pylades were always to be found near those of Orestes and vice versa. Their fruits were almost twins and could not bear to be parted.
+
+‘Nature had, however, defined the energy of their double essence with such care that when the fruit of one of the trees was eaten by another man, this engendered a mutual friendship. When the same thing occurred to two people of different sexes it gave rise to love, but to a vigorous love which always retained the character of its origin, for although the fruit made its effect proportionate to their strength, softening its virtue in the case of a woman, yet it still retained a certain quality of maleness.
+
+‘It should also be noted that the one of the pair who had eaten the most was the one most loved. This fruit took good care to be both very sweet and very beautiful, since there is nothing as beautiful and as sweet as friendship. Thus it was these two qualities of beauty and goodness, which are rarely met with in the same object, which brought this fruit into fashion. Oh, how many times over, thanks to its miraculous virtue, were the examples of Pylades and Orestes repeated! Since that time we have seen many a Hercules and Theseus, Achilles and Patroclus, Nisus and Euryalus—in short a countless host of those who, thanks to their more than human friendships, dedicated their memory to the temple of eternity. Offshoots were taken to the Peloponnese, and the exercise field where the Thebans trained their youth was ornamented with them. These twin trees were planted in a row and in the season when the fruit hung from their branches, the young men who went to the field each day, tempted by their beauty, did not abstain from eating them. Their hearts generally felt the effects of this at once. They could be seen swearing eternal friendships pell-mell, each one of them becoming half of another, living less in himself than in his friend and the most cowardly of them undertaking for his friend the most daring exploits.

@@ -1,0 +1,488 @@
+[
+  {
+    "chunk": 1,
+    "source": "chunks_en/chunk-0001.txt",
+    "prompt": "prompts/chunk-0001.prompt.txt",
+    "words": 1076
+  },
+  {
+    "chunk": 2,
+    "source": "chunks_en/chunk-0002.txt",
+    "prompt": "prompts/chunk-0002.prompt.txt",
+    "words": 1186
+  },
+  {
+    "chunk": 3,
+    "source": "chunks_en/chunk-0003.txt",
+    "prompt": "prompts/chunk-0003.prompt.txt",
+    "words": 1171
+  },
+  {
+    "chunk": 4,
+    "source": "chunks_en/chunk-0004.txt",
+    "prompt": "prompts/chunk-0004.prompt.txt",
+    "words": 1154
+  },
+  {
+    "chunk": 5,
+    "source": "chunks_en/chunk-0005.txt",
+    "prompt": "prompts/chunk-0005.prompt.txt",
+    "words": 1136
+  },
+  {
+    "chunk": 6,
+    "source": "chunks_en/chunk-0006.txt",
+    "prompt": "prompts/chunk-0006.prompt.txt",
+    "words": 1126
+  },
+  {
+    "chunk": 7,
+    "source": "chunks_en/chunk-0007.txt",
+    "prompt": "prompts/chunk-0007.prompt.txt",
+    "words": 1114
+  },
+  {
+    "chunk": 8,
+    "source": "chunks_en/chunk-0008.txt",
+    "prompt": "prompts/chunk-0008.prompt.txt",
+    "words": 1079
+  },
+  {
+    "chunk": 9,
+    "source": "chunks_en/chunk-0009.txt",
+    "prompt": "prompts/chunk-0009.prompt.txt",
+    "words": 1047
+  },
+  {
+    "chunk": 10,
+    "source": "chunks_en/chunk-0010.txt",
+    "prompt": "prompts/chunk-0010.prompt.txt",
+    "words": 1027
+  },
+  {
+    "chunk": 11,
+    "source": "chunks_en/chunk-0011.txt",
+    "prompt": "prompts/chunk-0011.prompt.txt",
+    "words": 911
+  },
+  {
+    "chunk": 12,
+    "source": "chunks_en/chunk-0012.txt",
+    "prompt": "prompts/chunk-0012.prompt.txt",
+    "words": 1141
+  },
+  {
+    "chunk": 13,
+    "source": "chunks_en/chunk-0013.txt",
+    "prompt": "prompts/chunk-0013.prompt.txt",
+    "words": 1148
+  },
+  {
+    "chunk": 14,
+    "source": "chunks_en/chunk-0014.txt",
+    "prompt": "prompts/chunk-0014.prompt.txt",
+    "words": 1180
+  },
+  {
+    "chunk": 15,
+    "source": "chunks_en/chunk-0015.txt",
+    "prompt": "prompts/chunk-0015.prompt.txt",
+    "words": 996
+  },
+  {
+    "chunk": 16,
+    "source": "chunks_en/chunk-0016.txt",
+    "prompt": "prompts/chunk-0016.prompt.txt",
+    "words": 1162
+  },
+  {
+    "chunk": 17,
+    "source": "chunks_en/chunk-0017.txt",
+    "prompt": "prompts/chunk-0017.prompt.txt",
+    "words": 1173
+  },
+  {
+    "chunk": 18,
+    "source": "chunks_en/chunk-0018.txt",
+    "prompt": "prompts/chunk-0018.prompt.txt",
+    "words": 1181
+  },
+  {
+    "chunk": 19,
+    "source": "chunks_en/chunk-0019.txt",
+    "prompt": "prompts/chunk-0019.prompt.txt",
+    "words": 1119
+  },
+  {
+    "chunk": 20,
+    "source": "chunks_en/chunk-0020.txt",
+    "prompt": "prompts/chunk-0020.prompt.txt",
+    "words": 1192
+  },
+  {
+    "chunk": 21,
+    "source": "chunks_en/chunk-0021.txt",
+    "prompt": "prompts/chunk-0021.prompt.txt",
+    "words": 1188
+  },
+  {
+    "chunk": 22,
+    "source": "chunks_en/chunk-0022.txt",
+    "prompt": "prompts/chunk-0022.prompt.txt",
+    "words": 1190
+  },
+  {
+    "chunk": 23,
+    "source": "chunks_en/chunk-0023.txt",
+    "prompt": "prompts/chunk-0023.prompt.txt",
+    "words": 1043
+  },
+  {
+    "chunk": 24,
+    "source": "chunks_en/chunk-0024.txt",
+    "prompt": "prompts/chunk-0024.prompt.txt",
+    "words": 1181
+  },
+  {
+    "chunk": 25,
+    "source": "chunks_en/chunk-0025.txt",
+    "prompt": "prompts/chunk-0025.prompt.txt",
+    "words": 1151
+  },
+  {
+    "chunk": 26,
+    "source": "chunks_en/chunk-0026.txt",
+    "prompt": "prompts/chunk-0026.prompt.txt",
+    "words": 1131
+  },
+  {
+    "chunk": 27,
+    "source": "chunks_en/chunk-0027.txt",
+    "prompt": "prompts/chunk-0027.prompt.txt",
+    "words": 1182
+  },
+  {
+    "chunk": 28,
+    "source": "chunks_en/chunk-0028.txt",
+    "prompt": "prompts/chunk-0028.prompt.txt",
+    "words": 1149
+  },
+  {
+    "chunk": 29,
+    "source": "chunks_en/chunk-0029.txt",
+    "prompt": "prompts/chunk-0029.prompt.txt",
+    "words": 1007
+  },
+  {
+    "chunk": 30,
+    "source": "chunks_en/chunk-0030.txt",
+    "prompt": "prompts/chunk-0030.prompt.txt",
+    "words": 1128
+  },
+  {
+    "chunk": 31,
+    "source": "chunks_en/chunk-0031.txt",
+    "prompt": "prompts/chunk-0031.prompt.txt",
+    "words": 1069
+  },
+  {
+    "chunk": 32,
+    "source": "chunks_en/chunk-0032.txt",
+    "prompt": "prompts/chunk-0032.prompt.txt",
+    "words": 1134
+  },
+  {
+    "chunk": 33,
+    "source": "chunks_en/chunk-0033.txt",
+    "prompt": "prompts/chunk-0033.prompt.txt",
+    "words": 1175
+  },
+  {
+    "chunk": 34,
+    "source": "chunks_en/chunk-0034.txt",
+    "prompt": "prompts/chunk-0034.prompt.txt",
+    "words": 1193
+  },
+  {
+    "chunk": 35,
+    "source": "chunks_en/chunk-0035.txt",
+    "prompt": "prompts/chunk-0035.prompt.txt",
+    "words": 1176
+  },
+  {
+    "chunk": 36,
+    "source": "chunks_en/chunk-0036.txt",
+    "prompt": "prompts/chunk-0036.prompt.txt",
+    "words": 1166
+  },
+  {
+    "chunk": 37,
+    "source": "chunks_en/chunk-0037.txt",
+    "prompt": "prompts/chunk-0037.prompt.txt",
+    "words": 1184
+  },
+  {
+    "chunk": 38,
+    "source": "chunks_en/chunk-0038.txt",
+    "prompt": "prompts/chunk-0038.prompt.txt",
+    "words": 1144
+  },
+  {
+    "chunk": 39,
+    "source": "chunks_en/chunk-0039.txt",
+    "prompt": "prompts/chunk-0039.prompt.txt",
+    "words": 1200
+  },
+  {
+    "chunk": 40,
+    "source": "chunks_en/chunk-0040.txt",
+    "prompt": "prompts/chunk-0040.prompt.txt",
+    "words": 1169
+  },
+  {
+    "chunk": 41,
+    "source": "chunks_en/chunk-0041.txt",
+    "prompt": "prompts/chunk-0041.prompt.txt",
+    "words": 1119
+  },
+  {
+    "chunk": 42,
+    "source": "chunks_en/chunk-0042.txt",
+    "prompt": "prompts/chunk-0042.prompt.txt",
+    "words": 1160
+  },
+  {
+    "chunk": 43,
+    "source": "chunks_en/chunk-0043.txt",
+    "prompt": "prompts/chunk-0043.prompt.txt",
+    "words": 1157
+  },
+  {
+    "chunk": 44,
+    "source": "chunks_en/chunk-0044.txt",
+    "prompt": "prompts/chunk-0044.prompt.txt",
+    "words": 1180
+  },
+  {
+    "chunk": 45,
+    "source": "chunks_en/chunk-0045.txt",
+    "prompt": "prompts/chunk-0045.prompt.txt",
+    "words": 1130
+  },
+  {
+    "chunk": 46,
+    "source": "chunks_en/chunk-0046.txt",
+    "prompt": "prompts/chunk-0046.prompt.txt",
+    "words": 1178
+  },
+  {
+    "chunk": 47,
+    "source": "chunks_en/chunk-0047.txt",
+    "prompt": "prompts/chunk-0047.prompt.txt",
+    "words": 1131
+  },
+  {
+    "chunk": 48,
+    "source": "chunks_en/chunk-0048.txt",
+    "prompt": "prompts/chunk-0048.prompt.txt",
+    "words": 1198
+  },
+  {
+    "chunk": 49,
+    "source": "chunks_en/chunk-0049.txt",
+    "prompt": "prompts/chunk-0049.prompt.txt",
+    "words": 1141
+  },
+  {
+    "chunk": 50,
+    "source": "chunks_en/chunk-0050.txt",
+    "prompt": "prompts/chunk-0050.prompt.txt",
+    "words": 1067
+  },
+  {
+    "chunk": 51,
+    "source": "chunks_en/chunk-0051.txt",
+    "prompt": "prompts/chunk-0051.prompt.txt",
+    "words": 1150
+  },
+  {
+    "chunk": 52,
+    "source": "chunks_en/chunk-0052.txt",
+    "prompt": "prompts/chunk-0052.prompt.txt",
+    "words": 1152
+  },
+  {
+    "chunk": 53,
+    "source": "chunks_en/chunk-0053.txt",
+    "prompt": "prompts/chunk-0053.prompt.txt",
+    "words": 1021
+  },
+  {
+    "chunk": 54,
+    "source": "chunks_en/chunk-0054.txt",
+    "prompt": "prompts/chunk-0054.prompt.txt",
+    "words": 1088
+  },
+  {
+    "chunk": 55,
+    "source": "chunks_en/chunk-0055.txt",
+    "prompt": "prompts/chunk-0055.prompt.txt",
+    "words": 1195
+  },
+  {
+    "chunk": 56,
+    "source": "chunks_en/chunk-0056.txt",
+    "prompt": "prompts/chunk-0056.prompt.txt",
+    "words": 1131
+  },
+  {
+    "chunk": 57,
+    "source": "chunks_en/chunk-0057.txt",
+    "prompt": "prompts/chunk-0057.prompt.txt",
+    "words": 1152
+  },
+  {
+    "chunk": 58,
+    "source": "chunks_en/chunk-0058.txt",
+    "prompt": "prompts/chunk-0058.prompt.txt",
+    "words": 1171
+  },
+  {
+    "chunk": 59,
+    "source": "chunks_en/chunk-0059.txt",
+    "prompt": "prompts/chunk-0059.prompt.txt",
+    "words": 1111
+  },
+  {
+    "chunk": 60,
+    "source": "chunks_en/chunk-0060.txt",
+    "prompt": "prompts/chunk-0060.prompt.txt",
+    "words": 1189
+  },
+  {
+    "chunk": 61,
+    "source": "chunks_en/chunk-0061.txt",
+    "prompt": "prompts/chunk-0061.prompt.txt",
+    "words": 1165
+  },
+  {
+    "chunk": 62,
+    "source": "chunks_en/chunk-0062.txt",
+    "prompt": "prompts/chunk-0062.prompt.txt",
+    "words": 1169
+  },
+  {
+    "chunk": 63,
+    "source": "chunks_en/chunk-0063.txt",
+    "prompt": "prompts/chunk-0063.prompt.txt",
+    "words": 1120
+  },
+  {
+    "chunk": 64,
+    "source": "chunks_en/chunk-0064.txt",
+    "prompt": "prompts/chunk-0064.prompt.txt",
+    "words": 1194
+  },
+  {
+    "chunk": 65,
+    "source": "chunks_en/chunk-0065.txt",
+    "prompt": "prompts/chunk-0065.prompt.txt",
+    "words": 1154
+  },
+  {
+    "chunk": 66,
+    "source": "chunks_en/chunk-0066.txt",
+    "prompt": "prompts/chunk-0066.prompt.txt",
+    "words": 1157
+  },
+  {
+    "chunk": 67,
+    "source": "chunks_en/chunk-0067.txt",
+    "prompt": "prompts/chunk-0067.prompt.txt",
+    "words": 1145
+  },
+  {
+    "chunk": 68,
+    "source": "chunks_en/chunk-0068.txt",
+    "prompt": "prompts/chunk-0068.prompt.txt",
+    "words": 1172
+  },
+  {
+    "chunk": 69,
+    "source": "chunks_en/chunk-0069.txt",
+    "prompt": "prompts/chunk-0069.prompt.txt",
+    "words": 1123
+  },
+  {
+    "chunk": 70,
+    "source": "chunks_en/chunk-0070.txt",
+    "prompt": "prompts/chunk-0070.prompt.txt",
+    "words": 1171
+  },
+  {
+    "chunk": 71,
+    "source": "chunks_en/chunk-0071.txt",
+    "prompt": "prompts/chunk-0071.prompt.txt",
+    "words": 1129
+  },
+  {
+    "chunk": 72,
+    "source": "chunks_en/chunk-0072.txt",
+    "prompt": "prompts/chunk-0072.prompt.txt",
+    "words": 1155
+  },
+  {
+    "chunk": 73,
+    "source": "chunks_en/chunk-0073.txt",
+    "prompt": "prompts/chunk-0073.prompt.txt",
+    "words": 1185
+  },
+  {
+    "chunk": 74,
+    "source": "chunks_en/chunk-0074.txt",
+    "prompt": "prompts/chunk-0074.prompt.txt",
+    "words": 1024
+  },
+  {
+    "chunk": 75,
+    "source": "chunks_en/chunk-0075.txt",
+    "prompt": "prompts/chunk-0075.prompt.txt",
+    "words": 1101
+  },
+  {
+    "chunk": 76,
+    "source": "chunks_en/chunk-0076.txt",
+    "prompt": "prompts/chunk-0076.prompt.txt",
+    "words": 1183
+  },
+  {
+    "chunk": 77,
+    "source": "chunks_en/chunk-0077.txt",
+    "prompt": "prompts/chunk-0077.prompt.txt",
+    "words": 1157
+  },
+  {
+    "chunk": 78,
+    "source": "chunks_en/chunk-0078.txt",
+    "prompt": "prompts/chunk-0078.prompt.txt",
+    "words": 1086
+  },
+  {
+    "chunk": 79,
+    "source": "chunks_en/chunk-0079.txt",
+    "prompt": "prompts/chunk-0079.prompt.txt",
+    "words": 1200
+  },
+  {
+    "chunk": 80,
+    "source": "chunks_en/chunk-0080.txt",
+    "prompt": "prompts/chunk-0080.prompt.txt",
+    "words": 1190
+  },
+  {
+    "chunk": 81,
+    "source": "chunks_en/chunk-0081.txt",
+    "prompt": "prompts/chunk-0081.prompt.txt",
+    "words": 461
+  }
+]

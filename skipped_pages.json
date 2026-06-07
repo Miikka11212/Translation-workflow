@@ -1,0 +1,66 @@
+[
+  {
+    "pdf_page": 1,
+    "reason": "outside_book_text_range"
+  },
+  {
+    "pdf_page": 2,
+    "reason": "outside_book_text_range"
+  },
+  {
+    "pdf_page": 3,
+    "reason": "outside_book_text_range"
+  },
+  {
+    "pdf_page": 4,
+    "reason": "outside_book_text_range"
+  },
+  {
+    "pdf_page": 5,
+    "reason": "outside_book_text_range"
+  },
+  {
+    "pdf_page": 6,
+    "reason": "outside_book_text_range"
+  },
+  {
+    "pdf_page": 7,
+    "reason": "outside_book_text_range"
+  },
+  {
+    "pdf_page": 8,
+    "reason": "outside_book_text_range"
+  },
+  {
+    "pdf_page": 9,
+    "reason": "outside_book_text_range"
+  },
+  {
+    "pdf_page": 10,
+    "reason": "outside_book_text_range"
+  },
+  {
+    "pdf_page": 22,
+    "reason": "blank_or_scan_noise"
+  },
+  {
+    "pdf_page": 126,
+    "reason": "blank_or_scan_noise"
+  },
+  {
+    "pdf_page": 253,
+    "reason": "outside_book_text_range"
+  },
+  {
+    "pdf_page": 254,
+    "reason": "outside_book_text_range"
+  },
+  {
+    "pdf_page": 255,
+    "reason": "outside_book_text_range"
+  },
+  {
+    "pdf_page": 256,
+    "reason": "outside_book_text_range"
+  }
+]

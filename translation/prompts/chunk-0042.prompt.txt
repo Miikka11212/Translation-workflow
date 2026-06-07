@@ -1,0 +1,57 @@
+Translate the following English literary text into fluent modern Simplified Chinese.
+
+Rules:
+- Preserve headings and paragraph breaks.
+- Use natural modern Mandarin, not classical Chinese.
+- Do not summarize, explain, omit, or add commentary.
+- Keep dialogue and quotation marks readable in Chinese.
+- Keep proper names consistent with the glossary.
+- Output only the Chinese translation.
+
+Glossary:
+# Translation Glossary
+
+Use Simplified Chinese and modern literary Mandarin.
+
+- Cyrano de Bergerac: 西拉诺·德·贝热拉克
+- Cyrano: 西拉诺
+- Other Worlds: 异世界
+- The States and Empires of the Moon: 月球诸国与诸帝国
+- The States and Empires of the Sun: 太阳诸国与诸帝国
+- Geoffrey Strachan: 杰弗里·斯特拉坎
+- Campanella: 康帕内拉
+- Descartes: 笛卡尔
+- Gassendi: 伽森狄
+- Kepler: 开普勒
+- Copernicus: 哥白尼
+- Epicurus: 伊壁鸠鲁
+- Pythagoras: 毕达哥拉斯
+- Democritus: 德谟克利特
+- Girolamo Cardano: 吉罗拉莫·卡尔达诺
+- Cardano: 卡尔达诺
+- Prometheus: 普罗米修斯
+- The Moon: 月球
+- The Sun: 太阳
+
+Text:
+‘As for mine,’ I replied, ‘although it was out of the ordinary, I consider it of no account. I am bilious and melancholic by temperament: that is why I have always dreamed of caverns and fire since the day I was born. In the prime of my youth I used to dream that I had become weightless and was flying off into the clouds to escape a band of assassins that was after me. But when I had made long and strenuous efforts, there would always be some wall, after I had flown over many others, at the foot of which, exhausted by my exertions, I would invariably be caught. Or else, if I imagined I was flying straight upwards, I would spend a very long time swimming with my arms in the sky, but I would still find myself close to the ground and, contrary to all reason, without my seeming to become either tired or heavy, my enemies had only to reach out a hand in order to grasp me by the foot and drag me down to them.
+
+‘I have had scarcely any dreams but ones like that, ever since I have been acquainted with myself, except that last night, after having flown for a long time as usual and having several times given my persecutors the slip, it seemed to me that I finally lost them from view. With my body relieved of all its heaviness, I continued my voyage through a clear and brilliantly illuminated sky as far as a palace where heat and light are produced. I would doubtless have observed many other things there, but with my flying I had been tossing about, which brought me so near to the edge of the bed that I fell on to the floor beside it, with my belly completely bare on the plaster and my eyes wide open.
+
+‘That, gentlemen, is the whole extent of my dream, which I consider to be nothing more than a pure effect of those two qualities which predominate in my temperament. For although this one differs a little from those which I always have, in that I flew up into the heavens without falling back, I attribute this change to my blood, which has circulated more generously than usual, thanks to my enjoyment of yesterday’s pleasures, and penetrated the melancholy, buoying it up and relieving it of that heaviness which used to make me fall back to earth. But the science of dreams is, after all, one which depends largely on guesswork.’
+
+‘In faith,’ Cussan took up, ‘you are right. They are a hotchpotch of everything we have been thinking about when we were awake, a monstrous chimera, an assembly of confused elements, which our fancy—no longer guided by our reason when we are asleep—presents to us in complete disorder. Yet, none the less, we believe that, by twisting them about, we can squeeze the true sense out of them and extract knowledge of the future from dreams, as we can from oracles. For my part, I have never found any other similarity between the two, unless it be that dreams and oracles are both incomprehensible.
+
+‘At any rate you can judge the value of all the others from mine, which was in no way extraordinary. I dreamed that I was very sad and that I kept meeting Dyrcona everywhere calling out to us. But without further racking my brains to find an explanation of the dark enigmas, I will discover their mystical import to you ina couple of words. And this, by God, is that at Colignac we have very bad dreams, and if you agree with me we will go and try to have better ones at Cussan.’
+
+‘Very well, let us go there,’ the Count said to me, ‘since this spoil-sport is so keen to do so.’
+
+We agreed to leave the same day. I begged them to go
+
+ahead, as I should be very glad (seeing I would be staying a month there, as they had just agreed) to arrange for a number of books to be brought over. They fell in with this and immediately after breakfast they put their arses into the saddle. Meanwhile I, heaven help me, made a parcel of the volumes, which I believed would not be in the library at Cussan, and loaded it on to a mule. I set out at about three o’clock, mounted on a good fast horse. I only went at walking pace, however, in order to accompany my little library and to feast my soul at greater leisure upon the delights of the scene. But now I will tell you of an adventure which will surprise you.
+
+After travelling more than four leagues, I found myself in a country which I was convinced I had seen somewhere before. Indeed I taxed my brain, wondering how I came to know this landscape, until the objects in front of me prompted my memory and I recalled that it was the very place I had seen in my dream the previous night. ‘This bizarre occurrence would have occupied my attention for longer than it did, had it not been for a strange apparition, which brought me back to my senses.
+
+A spectre (at least I took it for such) presented itself to me in the middle of the road and seized the bridle of my horse. This phantom was of enormous stature and, to judge by the little that could be seen of its eyes, it had an expression both fierce and mournful. I could not, however, say if it was handsome or ugly, for it was covered from top to toe by a long robe, which had been sewn together from the pages of a book of plain-song, and its face was hidden by a card, on which the In principio had been written.
+
+The phantom then delivered his first words: ‘Satanus Diabolas!’ he cried out in terror, ‘I conjure you by the Great Living God....’ At these words he faltered and continued to repeat the Great Living God, while searching with a frightened expression for his priest to prompt him with the rest. When he saw that, whichever way he looked, his priest was nowhere to be seen, he was seized by such a dreadful trembling that his teeth chattered until half of them fell out, and two-thirds of the musical scales which covered him came off in shreds. He turned back towards me, however, and with a look which was neither mild nor fierce, but in which I could see his spirit wavering and, trying to resolve whether it was more appropriate to grow angry or to soften, he said: ‘So ho, Satanus Diabolas! God’s blood! I conjure you, in the name of God and of my Lord St. John, to let me get on with it. For if you budge nor foot nor paw, the devil take it, I'll rip your guts out!’

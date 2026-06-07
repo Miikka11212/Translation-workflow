@@ -1,0 +1,55 @@
+Translate the following English literary text into fluent modern Simplified Chinese.
+
+Rules:
+- Preserve headings and paragraph breaks.
+- Use natural modern Mandarin, not classical Chinese.
+- Do not summarize, explain, omit, or add commentary.
+- Keep dialogue and quotation marks readable in Chinese.
+- Keep proper names consistent with the glossary.
+- Output only the Chinese translation.
+
+Glossary:
+# Translation Glossary
+
+Use Simplified Chinese and modern literary Mandarin.
+
+- Cyrano de Bergerac: 西拉诺·德·贝热拉克
+- Cyrano: 西拉诺
+- Other Worlds: 异世界
+- The States and Empires of the Moon: 月球诸国与诸帝国
+- The States and Empires of the Sun: 太阳诸国与诸帝国
+- Geoffrey Strachan: 杰弗里·斯特拉坎
+- Campanella: 康帕内拉
+- Descartes: 笛卡尔
+- Gassendi: 伽森狄
+- Kepler: 开普勒
+- Copernicus: 哥白尼
+- Epicurus: 伊壁鸠鲁
+- Pythagoras: 毕达哥拉斯
+- Democritus: 德谟克利特
+- Girolamo Cardano: 吉罗拉莫·卡尔达诺
+- Cardano: 卡尔达诺
+- Prometheus: 普罗米修斯
+- The Moon: 月球
+- The Sun: 太阳
+
+Text:
+‘As soon as I had spoken to the Prince,’ he said, ‘and received the command to bring you to court, I set out to find you, but, having brought you here, I felt that the body I was inhabiting was so enfeebled with weariness that all the organs were refusing to perform their normal functions for me. I therefore inquired the way to the hospital, where I went in and found the body of a young man who had recently given up the ghost as the result of an extremely strange accident, yet an extremely common one in thts country. I drew near to him, pretending that I could make out some movement in him still and protesting to those who were present that he was not dead at all and that the state they feared had robbed him of his life was no more than a simple coma. Thus, without anyone noticing, I brought my mouth close to his and went in through it like a breath of air. Then my old carcass fell to the ground and I got up as if I were the young man and came away to look for you, leaving the bystanders there crying out that it was a miracle.’
+
+At this point they came and summoned us to sit down at table and I followed my guide into a room which was magnificently furnished but in which I could see no preparations for a meal. This complete absence of any victuals, when I was dying of hunger, compelled me to ask him where supper had been laid. I did not listen to his reply, however, for three or four young boys, children of the host, came up to me at this moment and undressed me down to my shirt with great civility. This new ceremony astounded me so much that I did not even dare to ask my fair attendants the reason for it and I do not know how my guide (who was asking me what I would like to begin with) managed to elicit from me the two words: ‘A soup.’ But I had hardly uttered them when I smelt the aroma of as succulent a brew as ever tickled the nostrils of a rich villain. I began to get up from my place to track down this delightful vapour to its source, but my former steed prevented me.
+
+‘Where are you going?’ he said. ‘We shall be going for a walk in a minute but now is the time to eat. Finish your soup and we will send for something else.’
+
+‘But where the devil is the soup?’ I answered him, almost in a rage. ‘Have you made a wager to tease me for the whole of today?’
+
+‘I thought,’ he replied, ‘that in the town you have come from you would have seen your master or somebody else taking his meals. That is why I did not tell you the way they feed themselves here. But since you are still ignorant of this, you must know that here they live solely upon vapours. Their culinary art consists in enclosing in great vessels, especially moulded for the purpose, the exhalation which comes off meats when they are cooking. When several of various kinds and different flavours have been collected, they uncork the vessel in which a particular odour has been gathered to suit the appetites of those who are being served. After that they uncover a second and so on until the company is satisfied. Unless you have already lived in this way you would never believe that the nose, without assistance from the teeth or the gullet, could do the mouth’s job in feeding a man, but I should like to show you by experience that this is so.’
+
+As soon as I had finished speaking, I felt so many agreeable and nourishing vapours entering the room in succession that, in less than ten minutes, I felt myself completely gorged. When we had risen he said: “This is not something which should cause you much surprise, since you cannot have lived so long without observing that in your world cooks, pastrycooks, and roasters, who eat less than people from any other walk of life, are nonetheless much fatter. Where do you think their corpulence comes from, if not from the vapour in which they are incessantly enveloped and which penetrates and nourishes their bodies? In this way the people in this world enjoy much more constant and vigorous good health, because their food produces hardly any excrement, which is the origin of almost all diseases. You were possibly surprised at being undressed before the meal, as this custom is not observed in your country, but here it is the fashion and they follow it so that the body should be more accessible to the vapour.’
+
+‘Sir,’ I returned, ‘what you say is highly probable and I have just verified it myself to some extent, but I must admit that, being unable to debrutalize myself as quickly as this, I should still be glad to feel a solid morsel between my teeth.’
+
+He promised me that I should, but only on the following day, for the reason, he said, that to eat so soon after a meal would give me indigestion. We conversed for some time more and then went up to our rooms to rest. At the top of the stairs a man introduced himself to us and, after staring at us attentively, led me into a chamber where the floor was covered with orange blossom to a depth of three feet, and my demon into another filled with carnations and jasmine. Seeing how surprised I looked at this magnificence, he told me that these were the beds of the country. Finally we lay down, each in our own cell. When I was stretched out upon my flowers I saw by the light of thirty large glow-worms enclosed in a glass (for they use no other kind of candles), the three or four young boys who had undressed me at supper. One of them began to tickle my feet, another my thighs, another my sides, another my arms—and all with so many caresses and with such a delicate touch that in less than a moment I felt myself dozing off.
+
+Next day I saw my demon coming in with the first rays of the sun. ‘Now I want to keep my word to you,’ he told me. “You will breakfast more solidly than you supped yesterday.’
+
+At these words I got up and he led me by the hand behind the garden of the hostelry, where one of the host’s children was waiting with a weapon in his hand almost like one of our guns. He asked my guide if I wanted a dozen larks, because barbary apes (he took me for one) feed upon this meat. Hardly had I replied that I did when the hunter fired a shot and twenty or thirty larks fell at our feet, ready roasted.

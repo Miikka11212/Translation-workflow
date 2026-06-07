@@ -1,0 +1,65 @@
+Translate the following English literary text into fluent modern Simplified Chinese.
+
+Rules:
+- Preserve headings and paragraph breaks.
+- Use natural modern Mandarin, not classical Chinese.
+- Do not summarize, explain, omit, or add commentary.
+- Keep dialogue and quotation marks readable in Chinese.
+- Keep proper names consistent with the glossary.
+- Output only the Chinese translation.
+
+Glossary:
+# Translation Glossary
+
+Use Simplified Chinese and modern literary Mandarin.
+
+- Cyrano de Bergerac: 西拉诺·德·贝热拉克
+- Cyrano: 西拉诺
+- Other Worlds: 异世界
+- The States and Empires of the Moon: 月球诸国与诸帝国
+- The States and Empires of the Sun: 太阳诸国与诸帝国
+- Geoffrey Strachan: 杰弗里·斯特拉坎
+- Campanella: 康帕内拉
+- Descartes: 笛卡尔
+- Gassendi: 伽森狄
+- Kepler: 开普勒
+- Copernicus: 哥白尼
+- Epicurus: 伊壁鸠鲁
+- Pythagoras: 毕达哥拉斯
+- Democritus: 德谟克利特
+- Girolamo Cardano: 吉罗拉莫·卡尔达诺
+- Cardano: 卡尔达诺
+- Prometheus: 普罗米修斯
+- The Moon: 月球
+- The Sun: 太阳
+
+Text:
+He interrupted me and continued: “It is not merely that it is necessary to the expression of all that the spirit conceives: without it one cannot be universally understood. As this idiom is the instinct or voice of nature, it is perforce intelligible to all that lives under nature’s control. That is why, if you had command of it, you could communicate your ideas and hold forth upon them to the beasts and they could tell
+
+you theirs, because it is nature’s own medium of communication with all the animals.
+
+‘You should no longer be surprised at the ease with which you can grasp the sense of a tongue that has never sounded in your ears before. When I speak, your soul recognizes in each one of my words that truth for which it blindly gropes, and though your reason does not understand it, you have natural instincts which cannot fail to do so.’
+
+‘Aha! Then it is, without a doubt,’ I exclaimed, ‘the energetic idiom by means of which our first father once conversed with and was understood by the animals. He was given dominion over all species and they obeyed him, because he commanded them in a language they knew. This is also why (the original language being lost) they do not now come when we call them, as they used to, because they no longer understand us.’
+
+The little man did not appear to wish to answer me and, taking up the thread of his own discourse once more, he would have continued—if I had not once more interrupted him. I asked him what world it was whose air we were breathing, if it was greatly populated, and what kind of government kept order there.
+
+‘I am going,’ he replied, ‘to unfold secrets to you, which are quite unknown in the clime you come from.
+
+‘Take a good look at the earth we are walking on. Until a short while ago it was an undigested and formless mass, a chaos of confused matter, a sticky black impurity expelled by the sun. After the vigour of the sun’s rays beating down upon it had blended, compressed, and made compact the clouds of countless atoms, when, I say, the most dissimilar bodies in this globe had been separated and the most similar united, in the course of a long and powerful coction, its overheated body sweated so much that it caused a flood, which covered it for more than forty days. For the great quantity of water required all this space of time to run away down the slopes to the lowest regions of our globe.
+
+‘From these amalgamated torrents of moisture was formed
+
+the sea, whose salt still bears witness to the fact that it must be a collection of sweat, for all sweat is salty.
+
+‘After the waters had subsided, the earth was left covered with rich, fertile mud. When the sun shone on this, a kind of blister arose, containing a seed which could not germinate on account of the cold. It then received another coction, which improved and perfected the mixture more precisely and produced an embryo which was not only able to vegetate but also capable of feeling. But because the waters (which had stagnated for so long on top of the slime) had chilled it too much, this pimple did not burst. So the sun baked it once more, and after a third coction this womb was heated up so much that the cold no longer impeded its delivery. It opened and gave birth to a man, who retained in his liver (which is the seat of the vegetative soul and the place of the first coction) the power of growth; in his heart (which is the seat of action and the place of the second coction) the power of movement; and in the brain (which is the seat of the intellect and the place of the third coction) the power to think. Otherwise why should we be longer in our mothers’ bellies than all the rest of the animals, if not because our embryo needs three separate coctions to form the three separate faculties of our soul and those of the beasts only two to form their two powers?
+
+‘I am well aware that the horse is only completed within ten, twelve, or fourteen months in the belly of the mare. But it has a constitution so opposed to that which makes us men that it never begins its life (note this! ) except in the months which are quite antipathetic to our own, when we remain in the womb—defying the natural course of things. Thus it is no wonder that the period of time nature needs to deliver a mare should be different from one taken to bring a woman to bed with child.
+
+‘“Yes, but all the same,” I can hear someone saying, “the horse remains in its mother’s belly longer than us and consequently it receives there more perfect or more numerous coctions! ”
+
+‘I reply that this does not follow. I do not seek support from the observations made by many learned men on the energy numbers, from which they prove that, since all matter is in motion, certain creatures are completed in a certain number of days, which are destroyed in another. I do not fortify myself with the proofs they adduce, having explained the cause of all these motions, to the effect that the number nine is the most perfect of all. I simply content myself with replying that the seed of a man is hotter, so that the sun, working on it, brings to perfection more organs in nine months than it sketches in a year in that of the foal. For it cannot be doubted that a horse is much colder than a man, since this beast only dies of the swelling of the spleen and other diseases which proceed from melancholy.
+
+‘“None the less,” you will say to me, “in our world one does not see anyone hatched out of mud and produced in this fashion.”
+
+‘I can well believe it; your world is too hot nowadays. When the sun draws up a germ from the earth, it does not have to overcome that cold humidity, or rather that fixed period for a completed stage which forces it to go through several coctions. It produces a plant straight away. Or, if there are two coctions, since there will not be time for the second to be perfectly completed, it only engenders an insect. I have also noticed that the apes, which resemble us in carrying their young for almost nine months, tend to be so like us that many naturalists have not distinguished between our two species and the reason is that their seed, being of a more or less similar constitution to ours, has almost time during this period to complete all three coctions.

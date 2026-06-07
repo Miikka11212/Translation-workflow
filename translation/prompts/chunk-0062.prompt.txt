@@ -1,0 +1,75 @@
+Translate the following English literary text into fluent modern Simplified Chinese.
+
+Rules:
+- Preserve headings and paragraph breaks.
+- Use natural modern Mandarin, not classical Chinese.
+- Do not summarize, explain, omit, or add commentary.
+- Keep dialogue and quotation marks readable in Chinese.
+- Keep proper names consistent with the glossary.
+- Output only the Chinese translation.
+
+Glossary:
+# Translation Glossary
+
+Use Simplified Chinese and modern literary Mandarin.
+
+- Cyrano de Bergerac: 西拉诺·德·贝热拉克
+- Cyrano: 西拉诺
+- Other Worlds: 异世界
+- The States and Empires of the Moon: 月球诸国与诸帝国
+- The States and Empires of the Sun: 太阳诸国与诸帝国
+- Geoffrey Strachan: 杰弗里·斯特拉坎
+- Campanella: 康帕内拉
+- Descartes: 笛卡尔
+- Gassendi: 伽森狄
+- Kepler: 开普勒
+- Copernicus: 哥白尼
+- Epicurus: 伊壁鸠鲁
+- Pythagoras: 毕达哥拉斯
+- Democritus: 德谟克利特
+- Girolamo Cardano: 吉罗拉莫·卡尔达诺
+- Cardano: 卡尔达诺
+- Prometheus: 普罗米修斯
+- The Moon: 月球
+- The Sun: 太阳
+
+Text:
+I was left under the impression that the threat of bad weather had provoked this, until the Attorney General came and told me, by order of the Court, that I should not be judged all that day. A criminal case was never settled when the sky was not serene, because they were afraid that the bad atmospheric conditions might have some effect upon the sound constitution of the judges’ minds and that the mood of depression which overcomes birds when it rains might influence the course of the trial, indeed, that the Court might vent its ill humour upon the accused. That is why the judgement of my case was put off until the weather improved. I was therefore taken back to prison and I remember that my charitable magpie hardly deserted me all the way. It flew at my side continually and I believe it would not have left me at all, if its companions had not approached us.
+
+At last I arrived at my prison, where I was fed during my captivity on nothing but ‘the King’s bread,’ this being their name for some four dozen worms and as many maggots, which they brought for me to eat every seven hours.
+
+I was expecting to appear in court again on the following day and everybody thought the same, but after five or six days one of my guards told me that all this time had been taken to dispense justice to a community of goldfinches who had implored it against one of their companions. I asked this guard what crime the wretch was accused of.
+
+‘Of the crime,’ replied the guard, ‘of the most terrible crime with which a bird’s name can be sullied. He is accused —would you ever believe it? He is accused—But, Gods! the very thought of it makes the feathers on my head stand on end. In short, he is accused of not having deserved a friend for the past six years! That is why he has been condemned to be a King—and the King of a different species from his own.
+
+‘If his subjects had been of his own kind, he could at least have feasted his eyes and his longing upon their pleasures: but as the delights of one species have no connection with those of another, he must endure all the weariness and drink all the bitterness of kingship, without being able to enjoy any of its sweetness.
+
+‘He was sent off this morning, surrounded by a great many doctors, to watch that he does not take poison on the way.’
+
+Although my guard was a great chatterbox by nature, it did not dare to talk to me alone for any longer, for fear of being suspected of intelligence.
+
+Towards the end of the week I was brought before my
+judges again.
+
+They perched me upon the fork of a little tree without any leaves. The birds of the long robe, advocates, counsellors, and magistrates alike, roosted in tiers, each according to its status, in the upper part of a great cedar tree. As for the rest, who were only present at the assembly out of curiosity, they sat here, there, and everywhere, until all the seats were taken, or rather until all the branches of the cedar were covered with feet.
+
+The magpie, which I had always observed to be full of compassion for me, came to perch on my tree, where it pretended to be amusing itself pecking at the moss and said to me: “You have really no idea how much I feel for your misfortune, for although I am not unaware that, of all living creatures, a man is a pest of which every well-policed state should be rid, yet when I remember how I was raised among them from the cradle, how I learned their language so perfectly that I have almost forgotten my own, and how [ate from their hands soft cheeses, so excellent that I cannot think of them without my eyes and my mouth watering, I feel a sympathy for you which prevents me from siding with the party which is in the right.’
+
+It was just finishing these words when we were interrupted by the arrival of an eagle, which came and sat among the branches of a tree quite close to mine. I would have got up in order to kneel in front of it, believing it to be the King, if my magpie had not kept me in my place with its claw.
+
+‘Did you think, then,’ it said, ‘that that great eagle was our sovereign? That is a notion invented by you men, who, because you allow yourselves to be commanded by the biggest, strongest and cruellest of your fellows, have got the stupid idea (judging all things by yourselves) that the eagle must be our leader.
+
+‘But our policy is quite different, for we choose none but the weakest, the most gentle and the most pacific to be our King and, in addition, we change him once every six months. We choose him weak, so that the least one of us who might be wronged by him could take his revenge. We choose him gentle, so that he should not hate nor be hated by anybody, and we desire him to be of a peaceful disposition, in order to avoid war, the source of all injustice.
+
+‘Each week he holds the States General, where everyone with a complaint against him is received. If but three birds are found dissatisfied with his rule, he is dispossessed and a fresh election is held.
+
+“Throughout the day of the States General our King is placed on the summit of a great yew tree at the edge of a lake, with his feet and wings bound. All the birds pass in front of him, one after another, and if one of them knows him guilty of a capital crime, he can throw him into the water. But he must at once justify his action, otherwise he is condemned to the sad death.’
+
+I could not help interrupting to ask it what it meant by this ‘sad death’ and it explained this to me as follows:
+
+“When a felon’s crime is judged so monstrous that mere death is insufficient to expiate it, we try to find one which encompasses the agony of several and we go about it in this manner.
+
+“Those of us with the most melancholy and funereal voices are sent to the guilty party, who is laid on a bier of sad cypress. ‘There these mournful musicians gather round and through his ears they fill his soul with songs so lugubrious and tragic that the bitterness of his grief upsets the functioning of his organs and oppresses his heart. He pines away visibly and dies, choked with sadness.
+
+‘But such a spectacle rarely occurs, for as our kings are very good-natured, they never drive anyone to run the risk of so
+cruel a death, in order to take revenge.

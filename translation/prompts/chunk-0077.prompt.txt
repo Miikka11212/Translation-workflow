@@ -1,0 +1,60 @@
+Translate the following English literary text into fluent modern Simplified Chinese.
+
+Rules:
+- Preserve headings and paragraph breaks.
+- Use natural modern Mandarin, not classical Chinese.
+- Do not summarize, explain, omit, or add commentary.
+- Keep dialogue and quotation marks readable in Chinese.
+- Keep proper names consistent with the glossary.
+- Output only the Chinese translation.
+
+Glossary:
+# Translation Glossary
+
+Use Simplified Chinese and modern literary Mandarin.
+
+- Cyrano de Bergerac: 西拉诺·德·贝热拉克
+- Cyrano: 西拉诺
+- Other Worlds: 异世界
+- The States and Empires of the Moon: 月球诸国与诸帝国
+- The States and Empires of the Sun: 太阳诸国与诸帝国
+- Geoffrey Strachan: 杰弗里·斯特拉坎
+- Campanella: 康帕内拉
+- Descartes: 笛卡尔
+- Gassendi: 伽森狄
+- Kepler: 开普勒
+- Copernicus: 哥白尼
+- Epicurus: 伊壁鸠鲁
+- Pythagoras: 毕达哥拉斯
+- Democritus: 德谟克利特
+- Girolamo Cardano: 吉罗拉莫·卡尔达诺
+- Cardano: 卡尔达诺
+- Prometheus: 普罗米修斯
+- The Moon: 月球
+- The Sun: 太阳
+
+Text:
+The river of Imagination flows more softly. Its liquor is light and brilliant and everywhere flashing. If one looks at this water it seems like a torrent of liquid sparks, which follow no fixed order as they flit past. But, having considered it more attentively, I noticed that the fluid travelling along its bed was pure potable gold and its foam was oil of talc. The fishes it supports are remoras, sirens, and salamanders. And instead of gravel one finds in its bed those stones that Pliny speaks of which make one heavy when one touches them one side and light when one touches the other. I also noticed there some of those others, from which Gyges had a ring made, that render one invisible. But above all there are a great number of philosopher’s stones shining in the sand there. Along the banks were a multitude of fruit trees, particularly those which Mohammed found in paradise. The branches swarmed with phoenixes, and I observed seedlings of that apple tree from which Discord plucked the fruit she threw at the feet of the three goddesses. Cuttings had been grafted on to them from the garden of the Hesperides.
+
+Each of these broad rivers divides into an infinite number of channels which merge into one another. I noticed that when a wide stream from Memory approached a smaller one from Imagination it immediately extinguished the latter, but if, on the other hand, the stream from Imagination was bigger, it dried up that of Memory. So as these three rivers, both in their main channels and in their tributaries, always run close beside one another, wherever Memory is strong Imagination is reduced and the latter swells as the former abates.
+
+Nearby, with incredible slowness, flows the river of Judgement. Its channel is deep. Its liquid seems cold. And when one sprinkles it over something it dries it instead of wetting it. Hellebore grows in its mud, with roots that extend in long filaments and cleanse the water at its mouth. Serpents dwell there and upon the soft grass which carpets its banks a million elephants take their rest. Like its two sisters it distributes its waters throughout an infinity of tiny channels. It grows in stature as it travels and although it is ever returning upon its tracks it gains ground continually.
+
+All the sun is watered by the moisture of these three rivers. It soaks up the fiery atoms of those that die in this great world. But that is something which deserves to be treated more fully.
+
+The lives of the creatures on the sun are very long and do not come to an end except by a natural death, which only happens after seven or eight thousand years, when the arrangement of their matter is disordered by the continuous mental excesses to which their fiery temperament inclines them. For as soon as nature senses that it would take more time to repair the ruins of a body than it would to make a new one, the body tends to fall apart, so that from day to day one sees the creature not rotting, but disintegrating into particles resembling red embers.
+
+Death hardly ever comes in any other way. Once the creature has expired, or, to be more precise, has been extinguished, the little igneous bodies of which its substance for- merly consisted join the general stuff of this blazing world until they chance to be watered by the moisture of the three rivers. Their fluidity makes them mobile and in their haste to exercise the faculties of which this water has given them an obscure knowledge, they fuse into long chains. By forming a stream of luminous specks, they sharpen themselves into rays and scatter to the spheres round the sun. There they are not so much absorbed, but rather strive to arrange their matter as much as they can into the shapes suited to the exercise of all the functions, for which the water of the three rivers, the five springs and the lake has given them an instinct. That is why they allow themselves to be drawn into plants, in order to grow; plants allow themselves to be chewed up by animals in order to feel; and animals allow men to eat them, so that they can nourish the three faculties of memory, imagination, and judgement, of which the rivers of the sun had given them a foretaste.
+
+Now, depending on whether atoms have been more or less soaked in the moisture of these three rivers, they bring to the animals greater or lesser powers of memory, imagination, or judgement; and depending on how much of the liquor of the five springs and the little lake they have absorbed, they will elaborate more—or less perfect senses for them and produce minds which are more—or less wide awake.
+
+That is roughly what we observed, concerning the nature of these three rivers. One encounters little tributaries of them, scattered here and there, but the principal channels go straight to the end of their course in the Province of the Philosophers. Thus we could return to the high road without going farther from the water than the distance needed to climb up on to the causeway. We were still able to see the three great rivers flowing beside us, and as for the five springs, we could survey their whole length as they wound through the meadows. This road is very pleasant, though lonely. One breathes a free and pure air there, which nourishes the mind and makes it keep the passions under control.
+
+A strange agony, a ticklish dispute, and
+a happy meeting
+
+AFTER five or six days on the road we were feasting our eyes upon the rich and varied aspects of the landscape, when the sound of a languishing voice, like that of a sick man groaning, came to our ears. We approached the spot from whence we judged it to be coming, and on the banks of the River of Imagination we found an old man who had fallen upside down, uttering loud cries. Tears of pity came to my eyes at this and my compassion for the unfortunate wretch led me to ask what the matter was.
+
+‘This man,’ Campanella replied, turning towards me, ‘is a philosopher suffering the death agony. We all die more than once and, as we are only parts of this universe, we change our shape in order to go and take up life elsewhere—which is not a bad thing, since it is a way to perfect one’s being and to arrive at an infinite amount of knowledge. His disease is the one which causes the death of almost all great men.’
+
+His words made me consider the sick man again with more attention and from my first glance I observed that he had a head as large as a barrel, which was broken open in several places.

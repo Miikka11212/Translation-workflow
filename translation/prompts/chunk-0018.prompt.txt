@@ -1,0 +1,71 @@
+Translate the following English literary text into fluent modern Simplified Chinese.
+
+Rules:
+- Preserve headings and paragraph breaks.
+- Use natural modern Mandarin, not classical Chinese.
+- Do not summarize, explain, omit, or add commentary.
+- Keep dialogue and quotation marks readable in Chinese.
+- Keep proper names consistent with the glossary.
+- Output only the Chinese translation.
+
+Glossary:
+# Translation Glossary
+
+Use Simplified Chinese and modern literary Mandarin.
+
+- Cyrano de Bergerac: 西拉诺·德·贝热拉克
+- Cyrano: 西拉诺
+- Other Worlds: 异世界
+- The States and Empires of the Moon: 月球诸国与诸帝国
+- The States and Empires of the Sun: 太阳诸国与诸帝国
+- Geoffrey Strachan: 杰弗里·斯特拉坎
+- Campanella: 康帕内拉
+- Descartes: 笛卡尔
+- Gassendi: 伽森狄
+- Kepler: 开普勒
+- Copernicus: 哥白尼
+- Epicurus: 伊壁鸠鲁
+- Pythagoras: 毕达哥拉斯
+- Democritus: 德谟克利特
+- Girolamo Cardano: 吉罗拉莫·卡尔达诺
+- Cardano: 卡尔达诺
+- Prometheus: 普罗米修斯
+- The Moon: 月球
+- The Sun: 太阳
+
+Text:
+‘This,’ I thought to myself, ‘is what they mean by that proverb in our world about a land where the larks fall ready roasted.’ Doubtless someone had returned from here.
+
+‘All you have to do is eat,’ said my demon. “They are diligent enough here to mix a certain compound with their powder and shot which kills, plucks, roasts, and seasons the game.’
+
+I gathered up and ate several of them, as he told me to, and truly I have never tasted anything so delicious in all my life.
+
+After this breakfast we made ourselves ready to leave, and with a thousand grimaces such as they employ when they want to display affection, the host took a paper from my demon. I asked him if it was a bond for the amount the bill came to. He retorted that it was not, that the account was now settled and that it was some verses.
+
+‘How do you mean, verses?’ I rejoined. ‘Are the innkeepers here connoisseurs of rhymes, then?’
+
+‘It is,’ he said, ‘the currency of the country, and the expenses we have just incurred here finally added up to a stanza of six lines, which is what I have given him. I was not afraid of running short, for even if we feasted here for a week, we should not be able to run through a sonnet and I have four of them on me, as well as two epigrams, two odes, and an eclogue.’
+
+“Well to be sure,’ I said to myself, ‘this is just the currency which Sorel makes Hortensius use in Francion, I remember. Doubtless this is where he got it from: but who the devil could have told him about it? It must have been his mother, for I have heard tell that she was a lunatic.’
+
+‘And would to God,’ I said aloud, ‘that it were the same in our world! I can think of many honest poets there who are starving to death and who would live like fighting cocks if innkeepers were paid in this coin.’
+
+I asked him if these verses continued to be legal tender provided one copied them out again. He replied that they did not and went on: ‘When some have been composed, the author brings them to the Court of the Mint, where the Jury of Poets of the Realm hold their sessions. There these Officers of Versification put the pieces to the test and if they are judged to be of good alloy, they are taxed not according to their weight but according to their wit, that is to say a sonnet is not always worth one sonnet: it depends upon the merit of the piece. ‘’hus when someone starves to death it is never anyone
+
+but a blockhead and witty people always live off the fat of
+the land.’
+
+While I was lost in rapturous admiration for the judicious government of that country, he continued in this manner: “There are, in addition, other people who run their houses in a very different way. When you leave their premises they ask for an acquittance for the other world equivalent to the costs and when you have given it to them they make an entry in a great ledger, which they call God’s Account Book, more or less on these lines: “Item, the value of so many lines of verse, delivered on such and such a day to so and so, which God must reimburse from the first available credit on receipt of acquittance.” Then when they feel in danger of dying, they have these ledgers chopped into pieces and swallow them, because they believe that unless they were digested in this way, God would not be able to read them, and it would profit them nothing.’
+
+4
+The little Spaniard
+
+Tuis conversation did not hinder our progress, that is with my carrier on all fours beneath me and myself astride his back. I will not go into any further detail about the adventures that delayed us on our journey, which we at length completed in the town where the King has his residence. As soon as I arrived there, they conducted me to the palace, where the great ones received me with more restrained amazement than the common people had shown when I passed through the streets. But the great ones reached the conclusion that I was doubtless the female of the Queen’s ‘little animal’, as had the common people. That was how my guide interpreted it to me, although he could not understand the enigma himself, not knowing what this little animal of the Queen’s could be. But we were soon enlightened, for some time after the King had examined me, he commanded that it should be brought; and half an hour later, in the midst of a troop of monkeys, all dressed in ruffles and breeches, I saw a little man coming in, almost completely like myself, for he walked on two legs. As soon as he caught sight of me, he greeted me with a ‘Criado de vou estra merced!’} J returned his salutation in more or less similar terms. But alas! they had no sooner seen us talking together than they found their prejudice confirmed and indeed this conjecture could scarcely produce any other result, for even the one among those present whose opinion favoured us the most protested that our conversation was a grunting which the joy of being reunited made us give voice to by natural instinct.
+
+The little man informed me that he was a European, a native of old Castille: he had found a means of having himself borne aloft by birds to the world of the moon, where we now found ourselves. He had fallen into the hands of the Queen, who had taken him for a monkey, for the reason that in this country they happen to dress up monkeys in the Spanish fashion and having found him clothed in this style, she had not doubted that he belonged to the same species.
+
+‘It must be admitted,’ I replied, ‘that after trying all kinds of costume on them, they could not find any more ridiculous, and that is the only reason why they fit them out in this fashion, since they keep these animals solely for their amusement.’
+
+“That,’ he rejoined, ‘is to deny the dignity of our nation, on behalf of which the universe produces men, uniquely in order to provide us with slaves, the only one for whom nature could create objects of mirth.’ He then begged me to tell him how I had come to dare risk an ascent to the moon with the machine I had described to him. I replied that it was because he had already taken the birds, upon which I had been thinking of riding. He smiled at this joke and about a quarter of an hour later the King ordered the keepers of the monkeys to take us
+
+‘Le. ‘your servant, sir.’ Domingo Gonsales, a Spaniard, was the hero of The Man in the Moone by Francis Godwin.

@@ -1,0 +1,66 @@
+Translate the following English literary text into fluent modern Simplified Chinese.
+
+Rules:
+- Preserve headings and paragraph breaks.
+- Use natural modern Mandarin, not classical Chinese.
+- Do not summarize, explain, omit, or add commentary.
+- Keep dialogue and quotation marks readable in Chinese.
+- Keep proper names consistent with the glossary.
+- Output only the Chinese translation.
+
+Glossary:
+# Translation Glossary
+
+Use Simplified Chinese and modern literary Mandarin.
+
+- Cyrano de Bergerac: 西拉诺·德·贝热拉克
+- Cyrano: 西拉诺
+- Other Worlds: 异世界
+- The States and Empires of the Moon: 月球诸国与诸帝国
+- The States and Empires of the Sun: 太阳诸国与诸帝国
+- Geoffrey Strachan: 杰弗里·斯特拉坎
+- Campanella: 康帕内拉
+- Descartes: 笛卡尔
+- Gassendi: 伽森狄
+- Kepler: 开普勒
+- Copernicus: 哥白尼
+- Epicurus: 伊壁鸠鲁
+- Pythagoras: 毕达哥拉斯
+- Democritus: 德谟克利特
+- Girolamo Cardano: 吉罗拉莫·卡尔达诺
+- Cardano: 卡尔达诺
+- Prometheus: 普罗米修斯
+- The Moon: 月球
+- The Sun: 太阳
+
+Text:
+‘I will not amuse myself,’ I said to him, ‘by reciting to you the clear proofs, by means of which the philosophers have established this, for I should have to repeat all that reasonable men have ever written. I will only ask you what inconvenience you find in believing it, and I am certain you cannot offer me a single pretext. Since it is impossible to derive anything but benefit from the belief, why do you not convince yourself? For if there is a God, apart from the fact that in not believing this you will be wrong, you will have disobeyed the precept which commands us to believe in Him. While now, even if there is none, you are still no better off than us.’
+
+‘Indeed I am better off than you,’ he replied, ‘for if there is none, you and I are evenly matched: but if on the contrary there is one, it will be impossible for me to have offended something which I did not believe existed at all, since in order to sin, one must either know it or wish it. Do you not see that a man, however lacking in wisdom, is not going to be offended by a mere street-porter insulting him, if the porter did not intend to, if he mistook him for someone else, or if it was the drink inside him making him talk? How much less should God, in His omnipotence, be angry with us for not acknowledging Him, since it is He who has denied us the means to know Him.
+
+‘But by your faith, my little animal, if a belief in God were so necessary to us, in short, if eternity were at stake, would not God himself have flooded this truth with light, making it as clear to us as the sun, which hides from no one? For to pretend that He wanted to play hide-and-seek with men, as children do, saying: ““Peep-bo, here I am!”’, now masking and now unmasking Himself, disguising Himself from some, only to manifest Himself to others, is to create for oneself a god who is either stupid or malicious. For if the force of my genius makes me recognize Him, the credit is all His, since he could easily have given me the soul and faculties of an imbecile, which would have kept me from knowing Him. And if, on the contrary, He had given me a mind incapable of understanding Him, that would not have been my fault either, but His,
+
+since He could quite well have given me one lively enough for
+me to understand Him.’
+
+These ridiculous and diabolical opinions gave me a fit of shuddering which went right through my body. Then I began to study this man with a little more attention and I was quite aghast to observe that there was something terrible about his face which I had not noticed before. His eyes were small and deep set, his complexion dark, his mouth large, his chin hairy, his nails black. ‘Oh God!’ I said to myself at once. “This wretch is damned, once his life comes to an end. He may even be the Antichrist they talk about so much in our world.’
+
+I did not wish to reveal my thoughts to him, however, on account of the respect I had for his intelligence, and indeed the favourable aspects with which nature had looked upon his cradle had made me conceive some friendship for him. But I could not contain myself sufficiently not to let fly some imprecations, threatening him with a bad end.
+
+Outbidding my wrath, he shouted: ‘Yes, by the death...’
+
+I do not know what he contemplated saying to me, for at this moment there was a knock at our chamber door and I saw a great black man coming in, hairy all over. He came up to us, seized the blasphemer by bodily force, and carried him off up the chimney.
+
+The compassion I felt for the fate of this unfortunate man made me fling my arms about him, in order to tear him from the claws of the Ethiopian, but he was so powerful that he carried both of us away and in a moment we were both in the clouds. It was no longer love for my neighbour that obliged me to cling to him tightly, but fear of falling. After plunging through the heavens for more days than I can tell, without knowing what would become of me, I perceived that I was drawing near to our world. I could already distinguish Asia from Europe and Europe from Africa. Then, as I came lower, and I could not even see beyond Italy, I knew in my heart that this devil was doubtless taking my host to hell, body and soul, and bringing him by way of our earth for the reason that hell lies at its centre. However, this consideration, together with all that had befallen me since the devil had become our chariot, was driven right out of my mind by the terror now inspired in me by the sight of a mountain in flames, almost near enough to touch. The spectacle of this fiery object made me cry out: ‘Jesu Maria!’
+
+Hardly had I uttered the last syllable, when I found myself stretched out on the heather at the top of a small hill, with two or three shepherds round me, reciting litanies and addressing me in Italian.
+
+‘Oh!’ I cried. ‘God be praised! At last I have found Christians in the world of the moon. Pray tell me, my friends, what province of your world am I in now?’
+
+‘In Italy,’ they replied.
+
+‘How?’ I broke in. ‘Is there also an Italy in the world of the moon?’ For I had as yet given the incident so little thought that I had not noticed that they were speaking to me in Italian and I was answering them in the same language.
+
+When, accordingly, I was completely disabused and nothing else stood in the way of my realizing that I had returned to this world, I allowed myself to be led where the peasants chose to take me. But before I had got as far as the gates of , all the dogs in the town came and flung themselves upon me and if fear had not driven me into a house, where I put up a barricade between myself and them, I would undoubtedly have been devoured.
+
+Within a quarter of an hour, as I rested in this dwelling, there was such a sabbath to be heard all round that I believe all the dogs in the kingdom had joined in. From mastiff to lap-dog, one could see them there, howling with a fury so appalling that they might have been celebrating the memory of their first Adam.

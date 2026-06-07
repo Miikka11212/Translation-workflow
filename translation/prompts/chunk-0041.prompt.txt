@@ -1,0 +1,59 @@
+Translate the following English literary text into fluent modern Simplified Chinese.
+
+Rules:
+- Preserve headings and paragraph breaks.
+- Use natural modern Mandarin, not classical Chinese.
+- Do not summarize, explain, omit, or add commentary.
+- Keep dialogue and quotation marks readable in Chinese.
+- Keep proper names consistent with the glossary.
+- Output only the Chinese translation.
+
+Glossary:
+# Translation Glossary
+
+Use Simplified Chinese and modern literary Mandarin.
+
+- Cyrano de Bergerac: 西拉诺·德·贝热拉克
+- Cyrano: 西拉诺
+- Other Worlds: 异世界
+- The States and Empires of the Moon: 月球诸国与诸帝国
+- The States and Empires of the Sun: 太阳诸国与诸帝国
+- Geoffrey Strachan: 杰弗里·斯特拉坎
+- Campanella: 康帕内拉
+- Descartes: 笛卡尔
+- Gassendi: 伽森狄
+- Kepler: 开普勒
+- Copernicus: 哥白尼
+- Epicurus: 伊壁鸠鲁
+- Pythagoras: 毕达哥拉斯
+- Democritus: 德谟克利特
+- Girolamo Cardano: 吉罗拉莫·卡尔达诺
+- Cardano: 卡尔达诺
+- Prometheus: 普罗米修斯
+- The Moon: 月球
+- The Sun: 太阳
+
+Text:
+To the detriment of my peace of mind, however, my reputation spread through all the neighbouring villages and even the towns of the province. Attracted by this rumour, everybody found a pretext for coming to see the squire in order to have a look at the sorcerer. When I came out from the castle, not merely the children and women but even the men stared at me as if I were the Beast, and chief among them was the Curé of Colignac, who, from ignorance or malice, was secretly my greatest enemy. Though apparently a simple man, whose lowly and ingenuous spirit was infinitely charming in its ingenuousness, he was in fact extremely mischievous. He was vindictive to the point of madness, more backbiting than a Norman and such a trickster that a love of chicanery was his ruling passion. He had a lawsuit of long standing with his squire, whom he hated all the more because he had found him firm in resisting his attacks. He feared his resentment and at one time he had wanted to change his benefice in order to escape it. But he now gave out to the contrary, having either really altered his intention or else simply put it off in order to take revenge upon Colignac, in my person, while he remained on his lands. His frequent journeys to ‘Toulouse gave some ground for suspicion that the latter was the case.
+
+There he told a thousand ridiculous tales of my enchantments and the voice of this malicious man combined with those of simple and ignorant people there to bring my name into execration. No one there spoke of me as anything but a new Agrippa de Nettesheim and we learned that someone had informed against me, at the instigation of the Curé, who had been the tutor of his children. We had notice of this through several people who were allies of Colignac and the Marquis, and although it caused us some astonishment and mirth to see a whole district in such an ugly mood, I was nevertheless secretly frightened when I considered more closely what the troublesome consequences of this folly might be. It was doubtless my Good Genius that inspired this terror in me, illuminating my reason with all these lights, so that I might see the precipice over which I was to fall, and, not content with advising me thus tacitly, he also sought to express himself for my own good more explicitly.
+
+One of the most delightful days we had had at Colignac was followed by one of the most unpleasant nights that ever was and I got up at dawn. In order to dissipate the anxieties and clouds which still fogged my mind I had gone into the garden where the greenery, the flowers and fruits, and the works of art and of nature were enchanting to both eye and soul. I at once perceived the Marquis there, pacing alone down a broad walk, which divided the flower garden in two. His step was slow and his face pensive. I was very surprised to see him up so early against his custom and this made me hasten up to him and ask him the reason. He replied that he had been disturbed by several troublesome dreams which had driven him out into the daylight earlier than usual, in order to cure a malady which had been caused by the darkness. I confessed to him that a similar distress had kept me from sleeping and I was going to tell him about it in detail. But I was just opening my mouth when, round the corner of a hedge which ran to meet our path, we caught sight of Colignac, walking along with great strides.
+
+As soon as he saw us he called out from where he was: “You see a man who has just escaped from the most terrible visions —a spectacle enough to turn my wits! I scarcely gave myself time to put on my doublet before coming down to tell you about it, but you were neither of you in your rooms any more. That is why I ran into the garden, suspecting that you must be out here.’
+
+The unfortunate gentleman was, in fact, almost completely out of breath. As soon as he had recovered, we urged him to unburden himself. For such things, though they may often be extremely trivial, can nevertheless be very oppressive.
+
+“That is my intention,’ he replied. ‘But first let us be seated.’
+
+An arbour of jasmine conveniently offered us seats in the cool. We withdrew there and when we had each made ourselves comfortable, Colignac continued thus: ‘You must know that I dozed off two or three times during the night and each time found myself in a considerable predicament. Then, in the nap I took during the twilight before dawn, I dreamed that my dear guest here was between the Marquis and myself and that we were holding him in a tight embrace, when a great black monster, consisting of nothing but heads, suddenly came and snatched him away. I think it was even going to throw him into a lighted bonfire near by, for it was already holding him over the flames, but a girl resembling the muse known as Euterpe threw herself at the knees of a lady, begging her to save him (this lady had the bearing and characteristics which our painters employ to represent nature). Hardly had she heard the prayers of her handmaiden when she cried out in amazement: “Alas! he is one of my friends! ”
+
+‘At once she put a kind of blow-pipe to her lips and blew through the tube so hard under my dear guest’s feet that she made him rise up to heaven and saved him from the savagery of the monster with a hundred heads. I seem to have called after him for a verylong time, begging him not depart without me, until an infinite number of little round angels, who said they were children of the Dawn, carried me off to the same country towards which he appeared to be flying. There they showed me things which I will not relate to you because I hold them to be too ridiculous.’
+
+We begged him not to refrain from telling us.
+
+‘I imagined,’ he continued, ‘that I was in the sun and that the sun was a world. And I would still not be disabused, had it not been for the neighing of my barbary horse, which woke me up and made me perceive that I was in bed.’
+
+When the Marquis saw that Colignac had finished, he said:
+
+‘And you, Monsieur Dyrcona, what was yours?’

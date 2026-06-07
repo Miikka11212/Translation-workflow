@@ -1,0 +1,67 @@
+Translate the following English literary text into fluent modern Simplified Chinese.
+
+Rules:
+- Preserve headings and paragraph breaks.
+- Use natural modern Mandarin, not classical Chinese.
+- Do not summarize, explain, omit, or add commentary.
+- Keep dialogue and quotation marks readable in Chinese.
+- Keep proper names consistent with the glossary.
+- Output only the Chinese translation.
+
+Glossary:
+# Translation Glossary
+
+Use Simplified Chinese and modern literary Mandarin.
+
+- Cyrano de Bergerac: 西拉诺·德·贝热拉克
+- Cyrano: 西拉诺
+- Other Worlds: 异世界
+- The States and Empires of the Moon: 月球诸国与诸帝国
+- The States and Empires of the Sun: 太阳诸国与诸帝国
+- Geoffrey Strachan: 杰弗里·斯特拉坎
+- Campanella: 康帕内拉
+- Descartes: 笛卡尔
+- Gassendi: 伽森狄
+- Kepler: 开普勒
+- Copernicus: 哥白尼
+- Epicurus: 伊壁鸠鲁
+- Pythagoras: 毕达哥拉斯
+- Democritus: 德谟克利特
+- Girolamo Cardano: 吉罗拉莫·卡尔达诺
+- Cardano: 卡尔达诺
+- Prometheus: 普罗米修斯
+- The Moon: 月球
+- The Sun: 太阳
+
+Text:
+‘And apart from this, just take a look at how they have their heads turned towards heaven! It is the paucity of God’s gifts to them which makes them stand in this way. Their suppliant attitude shows that they are complaining to heaven about their Maker and begging leave to be fitted out with what is left over from us. We, on the other hand, carry our heads bowed down in contemplation of the good things of which we are the masters, for in our happy condition there is nothing in heaven for us to gaze at with envy.’
+
+Every day I heard the priests spinning these yarns or similar ones near my lodgings. By this means they finally gained such a hold over people’s minds on the subject that it was decreed that, at the very most, I must not rank as more than a parrot without feathers; for they could point out to their converts the fact that I had only two legs—no more than any bird has. I was consequently put into a cage by express order of the Supreme Council.
+
+The Queen’s fowler took the trouble to visit me there every day and whistle the language to me, as we do here to starlings, and I was indeed happy in that I did not go short of food. Moreover, in the midst of the trivialities with which the onlookers assailed my ears, I learned to speak like them, so that when I was sufficiently practised in the idiom to express the greater part of my notions, I gave some account of the best of them. The neatness of my epigrams and the esteem in which my wit was held had already become the sole topic of conversation in company. Things went so far that the Council was obliged to publish a decree prohibiting the belief that I was endowed with reason. All persons of every quality and degree were expressly commanded to believe that whatever witty accomplishments might be mine, my behaviour was purely instinctive.
+
+However, the question of defining what I was divided the town into two factions. The party which supported my interest was growing from day to day and, in spite of the anathema and excommunication with which the prophets tried to frighten the people, my partisans finally demanded an assembly of the Estates in order to resolve this stumblingblock to religion. They took a long time to agree on the choice of who should give their opinions, but the judges pacified the opposition by balancing the numbers of interested parties and the latterordered that I should be brought into the assem- bly, as was done. There I was treated as severly as it is possible to imagine. The examiners questioned me, among other things, on the subject of philosophy. I explained to them, in complete good faith, what my tutor had once taught me about it, but they had little trouble in refuting what I said with many likely and convincing arguments. Finding myself totally defeated in debate, I cited the principles of Aristotle as a last resort, but these served me no better than sophisms, for they revealed the falseness of them to me in a couple of words.
+
+“This Aristotle,’ they told me, ‘whose science you make so much of, doubtless made his principles fit his philosophy, instead of fitting his philosophy to basic principles. But even then he was under an obligation to prove they were at least more reasonable than those of the other sects, which he could not do. And that is why the good Lord will not find fault with us if we bid him adieu.’
+
+When they finally saw that all I could jabber was that they were no more learned than Aristotle and that I had been forbidden to argue with anyone who denied his principles, they all unanimously concluded that I was not a man but possibly some type of ostrich, seeing that like these birds I carried my head erect, walked upon two legs, and indeed, apart from a trifling amount of down, wholly resembled them. They therefore ordered the fowler to take me back to my cage.
+
+I spent my time there pleasantly enough, for now I had mastered their language correctly, all the Court delighted to make me chatter. Among others, the Queen’s ladies-inwaiting would always thrust some titbit into my basket. ‘The most good-natured of them all conceived some fondness for me and she was so transported with joy when I revealed to her in secret the mysteries of our religion, particularly when I told her about our bells and our holy relics, that she protested to me with tears in her eyes that if ever I found myself in a position to fly back to our world, she would follow me with all her heart.
+
+Early one morning I woke up with a start to see her beating
+
+a tattoo on the bars of my cage. “Take heart,’ she said to me, ‘Yesterday in the Council they decided to declare war on
+
+King —=s—=,—. Amid the confusion of preparations, while
+
+our monarch and his subjects are away, I hope to find an
+occasion to rescue you.’
+
+‘Did you say war?’ I interrupted her. ‘Do quarrels arise between the princes of this world here, as they do between those of ours? Why then, tell me, I beg you, about their manner of fighting.’
+
+‘When the umpires,’ she went on, ‘elected according to the liking of the two sides, have designated the amount of time to be allowed for arming and marching, the number of combatants and the day and place for the battle, and all so fairly that there is not a single man more in one army than in the other, the crippled soldiers are all drawn up into a company on the one hand, and when the fighting begins the field officers are careful to expose them to cripples. Giants, on the other hand, are pitted against colossi, fencers against nimble swordsmen, valiant men against brave, weak against feeble, indisposed against sick, robust against strong and if anyone ventures to strike a man who is not his allotted enemy, unless he can prove that he did it by mistake, he is condemned a coward. After the battle is over they count the wounded, the dead and the prisoners—for as to deserters there are none. If the losses prove to be equal on either side, they draw lots for which shall be declared victorious.
+
+‘But though a kingdom may defeat its enemy in a fair fight it has gained almost nothing, for there are other armies, small in numbers, composed of scholars and men of wit, upon whose disputations the triumph or subjection of states entirely depends.
+
+‘One scholar is opposed to another scholar, one wit to another, one wise man to another. Moreover, a triumph won by a state in this manner counts the same as three conquests by brute force. After the proclamation of the victory the whole assembly is broken up and the winning side choose as
+their King either the enemy’s or their own.’

@@ -1,0 +1,76 @@
+Translate the following English literary text into fluent modern Simplified Chinese.
+
+Rules:
+- Preserve headings and paragraph breaks.
+- Use natural modern Mandarin, not classical Chinese.
+- Do not summarize, explain, omit, or add commentary.
+- Keep dialogue and quotation marks readable in Chinese.
+- Keep proper names consistent with the glossary.
+- Output only the Chinese translation.
+
+Glossary:
+# Translation Glossary
+
+Use Simplified Chinese and modern literary Mandarin.
+
+- Cyrano de Bergerac: 西拉诺·德·贝热拉克
+- Cyrano: 西拉诺
+- Other Worlds: 异世界
+- The States and Empires of the Moon: 月球诸国与诸帝国
+- The States and Empires of the Sun: 太阳诸国与诸帝国
+- Geoffrey Strachan: 杰弗里·斯特拉坎
+- Campanella: 康帕内拉
+- Descartes: 笛卡尔
+- Gassendi: 伽森狄
+- Kepler: 开普勒
+- Copernicus: 哥白尼
+- Epicurus: 伊壁鸠鲁
+- Pythagoras: 毕达哥拉斯
+- Democritus: 德谟克利特
+- Girolamo Cardano: 吉罗拉莫·卡尔达诺
+- Cardano: 卡尔达诺
+- Prometheus: 普罗米修斯
+- The Moon: 月球
+- The Sun: 太阳
+
+Text:
+‘People in our world are mystified to know the origin of those chilly winds from the north which always bring frost with them. But if our compatriots knew, as we do, that the remoras live in that climate, they would understand, like us, that these winds come from their breath, when they try to blow back the warmth of the approaching sun.
+
+‘The stygian water with which great Alexander was poisoned, for the cold of it froze his bowels, was the piss of one of these animals. In short, the remora so pre-eminently contains all the principles of coldness that, when it passes under a ship, the ship is seized with cold and left quite benumbed by it, to the point of not being able to move from the spot. It is for this reason that half of those who have sailed north to discover the Pole have never returned, because it is a miracle if the remoras, which abound in those seas, do not stop their ships. So much for the ice animal.
+
+‘But as for the fire beasts, they dwell in the ground under mountains of flaming lava like Etna, Vesuvius, and the Red Cape. The knobs which you see on the throat of this one, which are caused by the inflammation of its liver, are...’
+
+But then we fell silent, in order to pay attention to this
+famous duel.
+
+The salamander was attacking with great fury, but the remora was putting up an impenetrable defence. Each time they collided with one another there was a thunderclap, such as occurs in the worlds round there when a hot cloud encounters a cold one, which produces a similar noise.
+
+With every glance of rage the salamander flashed at its enemy, its eyes gave out a red light, which seemed to set the air on fire, and as it flew it sweated boiling oil and pissed nitric acid.
+
+The remora, for its part, was fat, heavy, and square, displaying a body all scaly with icicles. Its large eyes appeared like two crystal plates and their gaze transmitted a light so chilling that I felt a wintry shiver run through every limb of my body they alighted on. If I thought to put up my hand in front of me, my hand became numb with cold from it. Even the air round about it, stricken with its rigour, thickened into snow; the ground hardened beneath its feet and I could recognize the tracks the beast had made from the chilblains that greeted me when I walked upon them.
+
+At the beginning of the fight the salamander had made the remora sweat with the intense heat of its first onslaught, but at length this sweat froze and coated the whole plain with a thin layer of ice so slippery that the salamander could not reach the remora without falling over. It became clear to us, the philosopher and me, that from falling and getting up so many times it had exhausted itself, for the thunderclaps produced by the shock of it striking its enemy, which had formerly been so frightful, were now no more than the dull sound of those muffled thuds which mark the end of a storm —and this dull sound, deadened little by little, degenerated into a hissing, like that of a red-hot iron plunged into cold water.
+
+When the remora realized from the weakening of the
+
+blows, which now scarcely shook it, that the battle was drawing to a finish, it reared itself up on a corner of its cube and let itself fall with all its weight upon the stomach of the salamander, to such good effect that the heart of the poor salamander, where what remained of its fire was concentrated, burst with such a terrible explosion that I know of nothing comparable to it in nature.
+
+Thus died the fire beast beneath the sluggish resistance of
+the ice animal.
+
+Some time after the remora had disappeared, we approached the battlefield and the old man, after first smearing his hands with some of the earth on which it had walked, to protect them from burns, grasped the carcass of the salamander.
+
+‘With the body of this animal,’ he said, ‘I shall not need to make a fire in my kitchen, for if I hang it from the pot hook it will roast and boil everything I put in the hearth. As for its eyes, I shall preserve them carefully. If they were cleansed of the shadows of death you would take them for two little suns. The ancients in our world were well aware of how to put them to use. These are what they called “ardent lamps” and they were only hung up in the grand tombs of illustrious men.
+
+‘Our moderns have come across them when ransacking some of these famous tombs, but thanks to their ignorant curiosity they have destroyed them, for, in trying to come at the fire, which they saw shining behind the membranes, they have broken them.’
+
+The old man was walking all the time and I followed him, attentive to the marvels he related to me. And in connexion with the battle, I must not forget to mention the conversation we had concerning the ice animal.
+
+‘I do not believe,’ he told me, ‘that you will ever have seen a remora before, since these fish rarely rise to the surface of the water and, in addition, they hardly ever leave the Arctic Ocean. But without doubt you have seen certain animals which can, in some measure, be said to be of the same species. I told you just now that as one nears the Pole, this sea is quite full of remoras, which cast their spawn upon the mud, just like the other fish. You must know that this seed, which is an essence drawn from the whole of their mass, is so preeminently imbued with all its coldness that if a ship is driven over it and contracts one or several worms from it, which turn into birds, their blood will be quite devoid of warmth, and although they have wings they will be counted among the fish. So the Sovereign Pontiff, who knows their origin, does not forbid the eating of them during Lent. These are what you call Barnacle Geese.’
+
+20
+A walk with Campanella
+
+I CONTINUED walking with no other plan than that of following him. I was so delighted to have found a man, that I dared not take my eyes off him, for fear of losing him.
+
+‘Young mortal,’ he said to me, ‘—for I can easily see that you have not yet, like me, paid the fee which we all owe to nature—as soon as I set eyes on you, I saw in your face that indefinable something that makes us want to know people. If I am not mistaken about the circumstances of the conformation of your body, you must be a Frenchman and a native of Paris. That city is the place where, after dragging my shame throughout Europe, I brought it to an end.

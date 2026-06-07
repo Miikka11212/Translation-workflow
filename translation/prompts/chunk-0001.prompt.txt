@@ -1,0 +1,87 @@
+Translate the following English literary text into fluent modern Simplified Chinese.
+
+Rules:
+- Preserve headings and paragraph breaks.
+- Use natural modern Mandarin, not classical Chinese.
+- Do not summarize, explain, omit, or add commentary.
+- Keep dialogue and quotation marks readable in Chinese.
+- Keep proper names consistent with the glossary.
+- Output only the Chinese translation.
+
+Glossary:
+# Translation Glossary
+
+Use Simplified Chinese and modern literary Mandarin.
+
+- Cyrano de Bergerac: 西拉诺·德·贝热拉克
+- Cyrano: 西拉诺
+- Other Worlds: 异世界
+- The States and Empires of the Moon: 月球诸国与诸帝国
+- The States and Empires of the Sun: 太阳诸国与诸帝国
+- Geoffrey Strachan: 杰弗里·斯特拉坎
+- Campanella: 康帕内拉
+- Descartes: 笛卡尔
+- Gassendi: 伽森狄
+- Kepler: 开普勒
+- Copernicus: 哥白尼
+- Epicurus: 伊壁鸠鲁
+- Pythagoras: 毕达哥拉斯
+- Democritus: 德谟克利特
+- Girolamo Cardano: 吉罗拉莫·卡尔达诺
+- Cardano: 卡尔达诺
+- Prometheus: 普罗米修斯
+- The Moon: 月球
+- The Sun: 太阳
+
+Text:
+CONTENTS
+
+INTRODUCTION
+THE STATES AND EMPIRES OF THE MOON
+
+1 Journey to the moon
+2 The earthly paradise
+3 The friendly demon
+4 The little Spaniard
+5 On trial
+6 Dinner with two philosophers: youth, age, and vegetables
+7 Dinner with two philosophers: bodies great and small
+8 Some lunar customs and inventions
+9 The fate of an unbeliever
+
+THE STATES AND EMPIRES OF THE SUN
+10 The traveller's return
+11 In and out of prison
+12 Into space again
+13 A small world and the end of a hazardous journey
+14 The little people of the sun and the love-sick nightingale 
+15 The story of the birds
+
+CONTENTS
+
+16 Indictment of an animal accused of being aman, delivered before the assembledchambers of the Parliament of the Birds
+17 Verdict and sentence
+18 The trees
+19 A conflict of opposites
+20 A walk with Campanella
+21 A strange agony, a ticklish dispute, and a happy meeting
+
+INTRODUCTION
+
+by Geoffrey Strachan
+
+Let us create vessels and sails adjusted to the heavenly ether and there will be plenty of people unafraid of the empty wastes. Kepler 1610
+
+The proposition that the sun is the centre of the world and does not move from its place is absurd and false philosophically and formally heretical, because it is expressly contrary to Holy Scripture. The Holy Office 1633
+
+VISITORS to the town of Bergerac on the Dordogne can buy picture postcards which show a man in a plumed hat with a bulbous upturned nose. The caption reads: ‘Cyrano de Bergerac, legendary hero’. In such ways the seventeenth century poet’s name remains divorced from historical reality; the man who three hundred years ago portrayed the hazards of space flight still has to compete for its use with the soft_ centred hero of a late nineteenth-century box office smash hit.
+
+In the two books of L’Autre Monde (also known as the Histoire Comique), written about 1650, the real Cyrano made himself the hero of two voyages in space, first to the moon and next to the sun. The exploits of men in space are almost daily news to us now. Here is Cosmonaut Leonov on 18 March 1965 venturing out of his spacecraft: ‘if the lifeline connecting him with the spacecraft had snapped, he might have continued in orbit as a human satellite for about two weeks, eventually burning up as he re-entered the earth’s atmosphere’ (The Guardian). Such predicaments are actual, yet turning to Cyrano’s book, one can still feel a thrill as he hurtles towards the sun in his own frail machine, “following Phaeton’s example in the midst of a chariot race which I cannot abandon and in which, if I make one false move, all nature together cannot save me’. He is not the first fictional space traveller and his successors are legion, but it is interesting to find that his descriptions of voyages to other worlds, in his various flying machines, seem to stand up to competition with the real thing in the first decade which has been able to make the comparison, and during which four separate editions of his book have been published in France.
+
+It is time for Cyrano, who has been here before, in person perhaps, and certainly in print, to venture across the channel once more and reclaim his name from Rostand’s self-pitying grotesque.
+
+Little is known for certain about the life of Savinien Cyrano de Bergerac. Even the reports of his friends contribute as much to legend as to history—he emerges too sober or too intemperate. He was born Savinien Cyrano in Paris in 1619, the son of an avocat au Parlement de Paris, named Abel de Cyrano. Three years later, the family moved to their estate near Paris, part of which was the small fief of Bergerac. Savinien was educated first by a country priest, whose punishments made him resentful and rebellious. At the age of thirteen, he was sent by his father to the Collége de Beauvais in Paris, but not before he had met at school his lifelong friend and future literary executor, Henri Le Bret. At the Collége de Beauvais, the young Savinien studied his classics and fell foul of the principal, Jean Grangier, a classical scholar of some standing, but apparently himself of a quarrelsome disposition and a fierce disciplinarian. His various weaknesses, real and imaginary, were later outrageously burlesqued in Cyrano’s comedy, Le Pédant Joué. In 1636 Abel sold his property at Bergerac and the family moved to Paris once more, but Savinien was to adopt the name of Bergerac and to use it throughout his life in various forms: Alexandre de Cyrano Bergerac, de Bergerac Cyrano, Hercule de Bergerac and the more familiar Cyrano de Bergerac.
+
+At about eighteen, he left the Collége de Beauvais, having doubtless acquired a considerable humanist culture, as well as a deep dislike of arbitrary authority. He mixed with the literary bohemian world of the period, which included such people as Francois Tristan L’Hermite, the playwright. He frequented taverns and indulged in gambling, a pastime his father’s fortunes could ill afford. He probably also read widely and voraciously. Henri Le Bret remained his friend and adviser and something of a mediator between Cyrano and his father. It was on Le Bret’s suggestion that he enlisted with M. de Carbon de Casteljaloux’ company of guards, his admission being facilitated by the noble and Gascon ring of his new name, for both qualifications were required in this company. He was apparently soon involved in many duels and acquitted himself well. He is said to have fought only as a second (the normal custom for seconds then) and never in his own quarrels. He received a musket shot through the body at the siege of Mouzon in Champagne in the bitter winter of 1639, and the following year he was again wounded, this time at Arras and in the throat. Soon after this he abandoned his military career, with a weakened constitution but having won considerable respect from his brother officers.
+
+In 1641 he returned to a life of study at the Collége de Lisieux, perhaps earning his keep as an usher. He attended the classes of Gassendi, the Epicurean philosopher, mathematician and free-thinker, newly arrived in Paris. His pupils included brilliant young men of Cyrano’s generation like Moliére and Jacques Rohault, the disciple of Descartes, who was to remain a close friend of Cyrano and to guide him in his study of physics.

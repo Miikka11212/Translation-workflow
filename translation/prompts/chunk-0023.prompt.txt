@@ -1,0 +1,61 @@
+Translate the following English literary text into fluent modern Simplified Chinese.
+
+Rules:
+- Preserve headings and paragraph breaks.
+- Use natural modern Mandarin, not classical Chinese.
+- Do not summarize, explain, omit, or add commentary.
+- Keep dialogue and quotation marks readable in Chinese.
+- Keep proper names consistent with the glossary.
+- Output only the Chinese translation.
+
+Glossary:
+# Translation Glossary
+
+Use Simplified Chinese and modern literary Mandarin.
+
+- Cyrano de Bergerac: 西拉诺·德·贝热拉克
+- Cyrano: 西拉诺
+- Other Worlds: 异世界
+- The States and Empires of the Moon: 月球诸国与诸帝国
+- The States and Empires of the Sun: 太阳诸国与诸帝国
+- Geoffrey Strachan: 杰弗里·斯特拉坎
+- Campanella: 康帕内拉
+- Descartes: 笛卡尔
+- Gassendi: 伽森狄
+- Kepler: 开普勒
+- Copernicus: 哥白尼
+- Epicurus: 伊壁鸠鲁
+- Pythagoras: 毕达哥拉斯
+- Democritus: 德谟克利特
+- Girolamo Cardano: 吉罗拉莫·卡尔达诺
+- Cardano: 卡尔达诺
+- Prometheus: 普罗米修斯
+- The Moon: 月球
+- The Sun: 太阳
+
+Text:
+I could not help laughing at this scrupulous way of fighting battles and, as an example of a more effective policy, I cited the general practice in our own Europe, where a monarch takes care not to neglect any advantage which will secure a victory. This is how she replied.
+
+“Tell me,’ she said to me, ‘do not your princes excuse their resort to arms on the ground that might is right?’
+
+‘Quite so,’ I answered her, ‘but also by the justice of their
+cause.’
+
+‘In that case,’ she continued, ‘why do they not select umpires who are above suspicion to negotiate an agreement between them. And if it emerges that each has as much right on his side as the other, let them stay as they were or play a hand of piquet for the town or province under dispute. For while the heads of four million better men than they are being broken on their behalf, they merely sit at home and jeer at the slaughter of these idiots! But it is wrong of me to find fault with the valour of your brave subject peoples in this way: they are quite right to die for their country. It is an important matter, for it is a question of whether to be the vassal of a king who wears a ruff or of one who wears a lace collar.’
+
+‘But as for you,’ I countered, ‘why all this circumstance in your manner of fighting? Is it not enough for the armies to have the same number of men?’
+
+‘You have little judgement,’ she replied. ‘By your faith, if you had conquered your enemy in the field in single combat, would you consider you had vanquished him in a fair fight if you were in armour and he were not; if he had only a dagger and you a sword; in short if he were one-armed and you had two arms? For despite all the fairness you are always recommending to your gladiators, they are never evenly matched. One will be tall, the other short; one will be skilled, the other will never have wielded a sword before; one will be robust, the other a weakling. And even if these discrepancies are evened out and they are each as skilful and as strong as the other, they would still not be equals, for one of the two may have more courage than the other. So this impulsive man, shielded by the fact that he disregards the danger, that he has a fiery temper, more blood and a firmer heart, with all these qualities which make for courage—and are they not just as good as a sword, a weapon his enemy does not possess?— rouses himself to charge recklessly at, to frighten and to take the life of a poor man who foresees the danger, whose natural warmth is choked with phlegm, and whose heart is too dilated to summon up the spirits needed to dissipate that icy chill known as poltroonery. Thus you praise a man for killing his enemy when the advantage was on his side, and in praising him for his daring you are in fact praising him for a sin against nature, since his daring spurs him on towards his own destruction.
+
+‘On this subject, by the way, I can tell you that a remonstrance was made to the Council of War some years ago, urging them to bring a more circumspect and conscientious ruling into battles. And the philosopher who gave this opinion spoke as follows:
+
+‘“You imagine, gentlemen, that you have properly evened out the handicaps between two adversaries when you have chosen them both tall, both skilful, and both full of courage; but that is still not enough, since the winner must finally triumph through cunning, strength, or good luck. If he does it through cunning, it means he must have struck his enemy in a place where he did not expect it, or more quickly than seemed likely; or, pretending to take him on one side, he assailed him from the other. But to do all that is to be subtle, it is to deceive, it is to betray—and the renown of a truly noble man should not be founded upon deception and betrayal.
+
+‘“If he triumphs through strength, do you consider his enemy vanquished merely because he has been overpowered ? No, of course not, any more than you would say that a man has lost a victory when he has been crushed by a falling mountain, because he was not strong enough to get the better of it! It is likewise true that this man has not been defeated, because at the given moment he was not in a position to be
+able to resist the violence of his adversary.
+
+‘“And if it is by good luck that our man brings his enemy to the ground, why then it is fortune and not he who ought to be crowned; he has contributed nothing. In short, the loser is no more to blame than the dice thrower who sees his seventeen points beaten by eighteen.”
+
+“They admitted to him that he was right, but that it was not humanly possible to regulate this, saying that it was better to submit to a small inconvenience than to leave oneself exposed to a hundred others of greater significance.’
+
+This time she conversed with me no further, because she was afraid of being found alone with me so early in the morning. It is not that immodesty is a crime in that country, on the contrary, apart from convicted criminals, every man has the right to possess every woman, and a woman, similarly, can take a man to court if he refuses her. But she did not dare to visit me often in public, she told me, because at the last sacrifice the priests had preached that it was chiefly women who were spreading the story that I was a man, using this pretext to conceal the abominable lust which consumed them to have intercourse with the beasts and shamelessly to commit with me sins against nature. This was the reason why I was left for a long time without seeing her or any of her sex.

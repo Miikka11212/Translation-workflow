@@ -1,0 +1,75 @@
+Translate the following English literary text into fluent modern Simplified Chinese.
+
+Rules:
+- Preserve headings and paragraph breaks.
+- Use natural modern Mandarin, not classical Chinese.
+- Do not summarize, explain, omit, or add commentary.
+- Keep dialogue and quotation marks readable in Chinese.
+- Keep proper names consistent with the glossary.
+- Output only the Chinese translation.
+
+Glossary:
+# Translation Glossary
+
+Use Simplified Chinese and modern literary Mandarin.
+
+- Cyrano de Bergerac: 西拉诺·德·贝热拉克
+- Cyrano: 西拉诺
+- Other Worlds: 异世界
+- The States and Empires of the Moon: 月球诸国与诸帝国
+- The States and Empires of the Sun: 太阳诸国与诸帝国
+- Geoffrey Strachan: 杰弗里·斯特拉坎
+- Campanella: 康帕内拉
+- Descartes: 笛卡尔
+- Gassendi: 伽森狄
+- Kepler: 开普勒
+- Copernicus: 哥白尼
+- Epicurus: 伊壁鸠鲁
+- Pythagoras: 毕达哥拉斯
+- Democritus: 德谟克利特
+- Girolamo Cardano: 吉罗拉莫·卡尔达诺
+- Cardano: 卡尔达诺
+- Prometheus: 普罗米修斯
+- The Moon: 月球
+- The Sun: 太阳
+
+Text:
+‘For her part, the Nymph of Peace, who makes her abode in the middle of the lake, receives her guests with open arms, puts them to rest in her bed and nurses them so tenderly that she even takes the trouble of rocking them to sleep herself. Some time after mingling thus in this broad ring of water, they can be seen at the other end, separating into five streams once again and resuming, when they emerge, the names they abandoned on entering. The ones most eager to leave, which tug at their companions to be on their way, are Hearing and Touch. As for the three others, they wait for these two to wake them up and Taste, in particular, always dawdles behind the rest.’
+
+The dark hollow of a cave arched over the Lake of Sleep. A quantity of tortoises walked with slow steps along the banks and a thousand poppy flowers were reflected in the water and communicated to it the power to make one doze. One even sees dormice coming from fifty leagues away to drink there, and the purling of the water is so bewitching that it seems to be lapping against the pebbles in rhythm and trying to compose a lullaby.
+
+The wise Campanella doubtless foresaw that I would feel some of its effects and therefore advised me to double my pace. I would have obeyed him, but the charms of those waters had already befogged my brain so much that I was barely able to hear these last words: ‘Sleep then! Sleep! I will leave you. For the dreams one has here are so perfect that you will some day be very glad to remember the one you are about to enjoy. I shall amuse myself, however, by inspecting the curiosities of the place and then I shall come and rejoin you.’
+
+I think that is all he said—or else the fumes of sleep had already put me in a state past hearing him.
+
+I was in the middle of the most erudite and diverting dream in the world when my philosopher came and woke me up. I will tell it to you at a point where this will not break the thread of my narrative, for it is very important for you to know about it, so that you can understand how freely the minds of the inhabitants of the sun operate, while sleep holds their senses captive. I believe, myself, that this lake gives off an air which has the property of entirely purifying the mind of the encumbrance of the senses, for nothing enters your thoughts which does not seem to perfect and instruct you. This is what fills me with the greatest respect in the world for those philosophers who are called ‘dreamers’ and are ridiculed by our ignoramuses.
+
+So I opened my eyes with a start and seemed to hear him saying: ‘Mortal! You have slept long enough! Get up if you desire to see marvels such as could never be imagined in your world. Since I left you about an hour ago, so as not to disturb your slumbers, I have been walking continuously along the banks of the five springs which flow out of the Lake of Sleep. You can imagine with what attention I have observed them all. They bear the names of the five senses and they flow very close together.
+
+‘Sight resembles a forked pipe filled with powdered diamonds and with little mirrors which receive and reflect the image of all that presents itself to them. Its course flows round the kingdom of the lynxes.
+
+‘Hearing is equally double. It twists and turns like a labyrinth and one hears reverberating in the hollow depths of its bed an echo of every sound which is heard near by. Unless I
+
+am much mistaken it was foxes I saw there, washing out their
+ears.
+
+‘Smell is like the other two and divides into two little channels which flow under a single vault. It extracts from everything it encounters something invisible from which it composes a thousand kinds of scents, which take the place of its water. On the banks of this stream one finds many dogs sharpening their noses.
+
+‘Taste flows in spurts which generally only occur three or four times a day. It is further necessary for a great sluice gate of coral to be raised and beneath that one a number of little ones, which are made of ivory. Its liquid resembles saliva.
+
+‘But as for the fifth, that of Touch, it is so broad and deep that it surrounds all its sisters to the point of lying full length in their beds, and its thick humour spreads at large over lawns all green with mimosa pudica.
+
+‘You must know that I was almost petrified with awe as I admired the mysterious detours of all these streams, and I walked until I found myself at the mouth, where they flow into the three rivers. But follow me: you will understand the arrangement of all these things much better when you see them.’
+
+I was aroused by what seemed such a firm promise. I offered him my arm and we followed the path he had taken along the dykes, which contain the streams, each in its channel.
+
+At the end of two hundred yards something came into view that glittered like a lake. The wise Campanella had no sooner seen this than he said to me: ‘At last, my son, we are nearing our destination: I see the three rivers distinctly.’
+
+At this news I felt overcome with such enthusiasm that I thought I had become an eagle. I flew rather than walked, and ran about everywhere with such avid curiosity that in less than an hour my guide and I had observed what you are about to hear.
+
+Three great rivers water the shining plains of this blazing world. The first and broadest is called Memory; the second, narrower, but deeper, is called Imagination; the third,
+smaller than the others, is called Judgement.
+
+All day long on the banks of Memory one hears an importunate chattering of jays, parrots, magpies, starlings, linnets, finches, and all those species that twitter what they have learned by heart. At night they say nothing, for then they are busy drinking up the thick vapour of these watery regions. But their dyspeptic stomachs find this so hard to digest that in the morning one sees it all spilling out of their beaks again, in as pure a state as when it was in the river.
+
+The water of this river appears glutinous and makes a great deal of noise as it flows. The echoes which are set up in its caves repeat a word more than a thousand times over. It begets certain monsters whose faces bear a kind of resemblance to those of women, and one also sees another wilder type there, which are blockheaded, with horns, and look more or less like our pedants. These spend all their time yammering, but only repeat what they hear each other say.

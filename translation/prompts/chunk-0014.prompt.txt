@@ -1,0 +1,68 @@
+Translate the following English literary text into fluent modern Simplified Chinese.
+
+Rules:
+- Preserve headings and paragraph breaks.
+- Use natural modern Mandarin, not classical Chinese.
+- Do not summarize, explain, omit, or add commentary.
+- Keep dialogue and quotation marks readable in Chinese.
+- Keep proper names consistent with the glossary.
+- Output only the Chinese translation.
+
+Glossary:
+# Translation Glossary
+
+Use Simplified Chinese and modern literary Mandarin.
+
+- Cyrano de Bergerac: 西拉诺·德·贝热拉克
+- Cyrano: 西拉诺
+- Other Worlds: 异世界
+- The States and Empires of the Moon: 月球诸国与诸帝国
+- The States and Empires of the Sun: 太阳诸国与诸帝国
+- Geoffrey Strachan: 杰弗里·斯特拉坎
+- Campanella: 康帕内拉
+- Descartes: 笛卡尔
+- Gassendi: 伽森狄
+- Kepler: 开普勒
+- Copernicus: 哥白尼
+- Epicurus: 伊壁鸠鲁
+- Pythagoras: 毕达哥拉斯
+- Democritus: 德谟克利特
+- Girolamo Cardano: 吉罗拉莫·卡尔达诺
+- Cardano: 卡尔达诺
+- Prometheus: 普罗米修斯
+- The Moon: 月球
+- The Sun: 太阳
+
+Text:
+When this people saw that I was so small (for the majority of them are eighteen feet long) and that my body was only supported on two legs, they could not believe that I was a man. For they held that since nature has given man two legs and two arms like the beasts, he should use them as they do. And in fact, pondering upon it since, I have reflected that this body position was by no means fantastic. I recalled that while children are still schooled by nature alone, they walk on four legs and only get up on to two as a result of attentions of their nurses, who stand them in little chariots and attach straps to them, to stop them falling back on all fours, which is the only posture in which bodies ‘shaped like ours are naturally inclined to come to rest.
+
+3
+The friendly demon
+
+Tey then said (according to the interpretation which was later given to me) that I was without a doubt the female of the Queen’s little animal. So in this or some other capacity I was taken straight to the Town Hall, where I observed that, judging from the murmurs and gesticulations of the people and the magistrates, they were discussing what I could be. When they had conferred together for a long time, a certain citizen who kept rare beasts begged the aldermen to commit me to his care until the Queen should send for me to be brought to live with my male. No objection was made and the mountebank took me to his house where he taught me to act like a puppet, turn somersaults and make faces. And after dinner he collected a certain price at the door from those who wanted to see me.
+
+But heaven was softened by my wretchedness and angered to see the temple of its Master profaned and one day brought it to pass that when I was attached to the end of a rope, with which the charlatan was making me prance to divert the gaping mob, one of the spectators, after considering me very attentively, asked me in Greek who I was. I was greatly astonished to hear someone in that country speaking as men do in our world. He questioned me for some time. I answered his questions and then told him the whole story of the adventure and the outcome of my voyage. He comforted me, and I remember him saying to me: ‘Well, my son, now at last you are tasting the distress which is caused by the follies of your own world. There is a common herd here, as there is there, which cannot tolerate the thought of anything to which it is not accustomed. But you must realize that you are only being given some of your own medicine, for if anyone from this earth went up to yours and had the effrontery to call himself a man, your learned doctors would have him stifled as a monster or an ape possessed of the devil.’
+
+He then promised me that he would notify the court of my misfortune and added that as soon as he had heard the news going round about me, he had come to see me and recognized me as a man from the world whence I said I came. My country was the moon and I was from Gaul, for he had once travelled there and had lived in Greece where he was known as the Demon of Socrates. Following the death of this philosopher he had governed and instructed Epaminondas at Thebes. Then he had gone to live among the Romans where justice had attached him to the cause of Cato the Younger and, after his death, he had given his services to Brutus. Since all these great men had left nothing in their place in that world but the ghosts of their virtues, he and his companions had withdrawn to temples and lonely places.
+
+‘At last,’ he added, ‘the people of your earth became so stupid and gross that I and my companions lost all the pleasure we had formerly taken in instructing them. You cannot have failed to hear us spoken of, for they called us Oracles, Nymphs, Genii, Fairies, Household Gods, Lemures, Larvae, Lamias, Naiads, Incubi, Shades, Manes, Spectres, and Phantoms. We abandoned your world during the reign of Augustus, shortly after I had appeared to Drusus, son of Livia, who was invading Germany and had forbidden him to go any further.
+
+‘I have recently returned from there for the second time, for a hundred years ago I was commissioned to make another journey there. I travelled about Europe a great deal and conversed with people you may possibly have known. Among others, I appeared to Girolamo Cardano,’ one day as he was studying; I taught him a number of things and in recompense he promised me that he would bear witness to posterity from whom he learned the miracles he intended to set down. I saw Doctor Agrippa de Nettesheim,? Abbot Johannes of ‘Trittenheim,’ Doctor Faustus,t La Brosse,> and César de Nostradamus® there and a certain cabal of young men, known to the common herd under the name of “‘Rosicrucians’, whom I instructed in a number of sleights of hand and secrets
+
+*Cardano claimed that much of his work was dictated by a
+familiar demon from Venus.
+
+* Henri-Corneille Agrippa de Nettesheim (1486-1535), doctor and occult philosopher, reputed to have a black dog as a familiar.
+
+* 1462-1516: as Abbot at Spanheim his erudition and study of magical practices earned him a reputation as a sorcerer.
+
+_ *Sorcerer and charlatan, already a legendary figure in Germany in his own lifetime (c.1480-c.15,40). His familiar spirit was Mephistopheles.
+
+* A man of this name was hanged as a sorcerer under Louis XIII. But Guy de La Brosse was a doctor, natural scientist,and bohemian of the early seventeenth century who followed a kind of pagan cult of nature.
+
+* Early seventeenth century adventurer who claimed to have a familiar spirit called Sophocles.
+
+of nature which will doubtless have made them pass for great
+magicians among the people!
+
+‘I also knew Campanella.’ It was I who advised him, when he was at the Inquisition in Rome, to copy with his own face and body the habitual attitudes and expressions of those whose minds he wished to know, so as to excite in himself, by imitating them, the thoughts which the same behaviour had evoked in his adversaries—for if he knew them from the inside he would be able to deal with them better. And it was at my request that he began a book which we called De Sensu Rerum. I was similarly acquainted with La Mothe Le Vayer® and Gassendi in France. The latter is as much a philosopher in his writing as the former is in his life. I have known a number of other people whom your century treats as divine, but I have found nothing in them save much hot air and much arrogance.

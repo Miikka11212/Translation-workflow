@@ -1,0 +1,54 @@
+Translate the following English literary text into fluent modern Simplified Chinese.
+
+Rules:
+- Preserve headings and paragraph breaks.
+- Use natural modern Mandarin, not classical Chinese.
+- Do not summarize, explain, omit, or add commentary.
+- Keep dialogue and quotation marks readable in Chinese.
+- Keep proper names consistent with the glossary.
+- Output only the Chinese translation.
+
+Glossary:
+# Translation Glossary
+
+Use Simplified Chinese and modern literary Mandarin.
+
+- Cyrano de Bergerac: 西拉诺·德·贝热拉克
+- Cyrano: 西拉诺
+- Other Worlds: 异世界
+- The States and Empires of the Moon: 月球诸国与诸帝国
+- The States and Empires of the Sun: 太阳诸国与诸帝国
+- Geoffrey Strachan: 杰弗里·斯特拉坎
+- Campanella: 康帕内拉
+- Descartes: 笛卡尔
+- Gassendi: 伽森狄
+- Kepler: 开普勒
+- Copernicus: 哥白尼
+- Epicurus: 伊壁鸠鲁
+- Pythagoras: 毕达哥拉斯
+- Democritus: 德谟克利特
+- Girolamo Cardano: 吉罗拉莫·卡尔达诺
+- Cardano: 卡尔达诺
+- Prometheus: 普罗米修斯
+- The Moon: 月球
+- The Sun: 太阳
+
+Text:
+‘Once one supposes this, it inevitably follows that our imagination, encountering no resistance in the matter of which we are composed, can arrange it at will, and, having become the complete master of our bodies, manceuvres them, by moving all their particles, into the arrangements necessary to constitute the objects it has pictured in miniature. Thus each one of us imagined the place and the part of this precious tree into which he would change. By this effort of imagination, we excited in our substance the movements necessary to produce them and so changed ourselves into them. ‘Thus my eagle, when his eyes were blinded, had only to imagine himself to be an eagle with good sight in order to restore them; for all our transformations come from movement.
+
+“That is why, when we were transmuted from leaves, flowers, and fruits into men, you saw us dancing for some time afterwards, because we had not yet recovered from the momentum which we had to give our matter, to turn ourselves into men. In this we are like bells, which, though they have stopped ringing, still murmur for some time afterwards, softly repeating the sound produced by the clapper when it strikes them. It is also why you saw us dancing before making this great man, because, in order to produce him, we had to give ourselves all the general and specific movements necessary for his construction. Thus, as this motion gradually drew our bodies together and absorbed them into one another, each one of us, in each part of the whole, provided with his own individual movement the particular movement it ought to have. You men cannot do such things on account of the heaviness of your substance and the frigidity of your imagination.’
+
+He continued his exposition and supported it with examples so familiar and so concrete, that I was eventually disabused of a great number of the ill-proven opinions with which our stubborn doctors of science blinker the feebleminded. I then began to understand how, in fact, the imagination of these solar peoples, being warmer, perforce, on account of the climate, their bodies being lighter for the same reason, and their personalities more volatile (since their world exerts no central pull, as ours does, to wrench their bodies away from the movements inspired by their imagination), I conceived, I say, how this imagination, without the aid of any miracle, could bring about all the ‘miracles’ it had just performed.
+
+I was ultimately convinced by a thousand examples of almost comparable events, to which the peoples of our globe give credence. Cippus, King of Italy, watched bulls fighting. He had horns on the brain all night and next found his fore- head had sprouted a pair. Gallus Vitius taxed his mind and strove so hard to grasp the essence of madness, that the effort of his imagination gave his body the actions which constitute madness and he became mad. King Codrus was consumptive but concentrated his eyes and thoughts upon the freshness of a young face. The bloom of youth which radiated from the young lad induced in him the action of imagining he had the health of a young man and he began to mend. And finally, many pregnant women have been brought to bed of monsters after having children already formed in their wombs. ‘The fancies that come to them were not powerful enough to give them the shape of monsters themselves, but they were enough to mould the substance of the foetus, which was much more hot and malleable than their own, into the pattern necessary for the production of such monsters. I was even persuaded that if, when the famous hypochondriac of antiquity imagined himself to be a pitcher, his substance (which was too compact and heavy) could have followed the flight of his fancy, his body would have become a perfect pitcher; and everyone would have seen that he really was a pitcher, the way he saw himself.
+
+A host of other examples satisfied and convinced me and I no longer doubted any of the marvels which the spirit-man had recounted to me. He asked me if I did not desire anything more of him but I thanked him with all my heart. And in conclusion he had the further goodness to advise me that, since I was an inhabitant of the earth, I should follow the nightingale to the opaque regions of the sun, because they conformed more to the pleasures for which human nature has an appetite.
+
+He had hardly finished this speech when his mouth opened very wide and I saw the king of these little animals emerging from the depths of his gullet in the form of a nightingale. The great man collapsed at once and at the same time all his limbs flew off bit by bit in the shape of eagles. The self-created nightingale perched upon the head of the most handsome of them and from there he sang an admirable tune, with which I take it he was bidding me good-bye. ~
+
+The true nightingale also took flight, but not in their direction. Nor did it soar so high, so that I did not lose sight of it. We travelled at about the same speed, for as I had no plan to visit one country rather than another, I was glad enough to go with it; all the more because, the opaque regions of the birds being in conformity with my constitution, I hoped to find adventures there which would likewise suit my temperament. I travelled in this hope for at least three weeks, with every kind of delight, as far as my ears were concerned, for the nightingale did not leave me in want of music. When it was tired it came and rested on my shoulder, and when I stopped it waited for me. In the end I arrived in the country of the kingdom of this little minstrel, which then took no further trouble to accompany me.
+
+Having lost it from view, I looked for it and called to it, but at length I grew so weary from my vain pursuit of it that I resolved to take a rest. For this purpose I stretched myself out upon a lawn of soft grass which carpeted the roots of a lofty crag. This rock was covered with many young trees, green and leafy, whose shade charmed my exhausted senses in the most agreeable way in the world and obliged me to abandon them to sleep, in order to restore my strength in the shelter of this cool and tranquil place.
+
+>
+The story of the birds

@@ -1,0 +1,1454 @@
+[
+  {
+    "source": "menu1.txt",
+    "pdf_start_page": 1,
+    "pdf_end_page": 1,
+    "chars": 582
+  },
+  {
+    "source": "menu2.txt",
+    "pdf_start_page": 2,
+    "pdf_end_page": 2,
+    "chars": 279
+  },
+  {
+    "source": "clean_pages/page-0001.txt",
+    "pdf_start_page": 3,
+    "pdf_end_page": 3,
+    "chars": 1839
+  },
+  {
+    "source": "clean_pages/page-0002.txt",
+    "pdf_start_page": 4,
+    "pdf_end_page": 4,
+    "chars": 2056
+  },
+  {
+    "source": "clean_pages/page-0003.txt",
+    "pdf_start_page": 5,
+    "pdf_end_page": 5,
+    "chars": 2147
+  },
+  {
+    "source": "clean_pages/page-0004.txt",
+    "pdf_start_page": 6,
+    "pdf_end_page": 6,
+    "chars": 2114
+  },
+  {
+    "source": "clean_pages/page-0005.txt",
+    "pdf_start_page": 7,
+    "pdf_end_page": 7,
+    "chars": 2000
+  },
+  {
+    "source": "clean_pages/page-0006.txt",
+    "pdf_start_page": 8,
+    "pdf_end_page": 8,
+    "chars": 2095
+  },
+  {
+    "source": "clean_pages/page-0007.txt",
+    "pdf_start_page": 9,
+    "pdf_end_page": 9,
+    "chars": 2157
+  },
+  {
+    "source": "clean_pages/page-0008.txt",
+    "pdf_start_page": 10,
+    "pdf_end_page": 10,
+    "chars": 2098
+  },
+  {
+    "source": "clean_pages/page-0009.txt",
+    "pdf_start_page": 11,
+    "pdf_end_page": 11,
+    "chars": 2215
+  },
+  {
+    "source": "clean_pages/page-0010.txt",
+    "pdf_start_page": 12,
+    "pdf_end_page": 12,
+    "chars": 1357
+  },
+  {
+    "source": "clean_pages/page-0011.txt",
+    "pdf_start_page": 13,
+    "pdf_end_page": 13,
+    "chars": 35
+  },
+  {
+    "source": "clean_pages/page-0012.txt",
+    "pdf_start_page": 14,
+    "pdf_end_page": 14,
+    "chars": 1821
+  },
+  {
+    "source": "clean_pages/page-0013.txt",
+    "pdf_start_page": 15,
+    "pdf_end_page": 15,
+    "chars": 2075
+  },
+  {
+    "source": "clean_pages/page-0014.txt",
+    "pdf_start_page": 16,
+    "pdf_end_page": 16,
+    "chars": 2082
+  },
+  {
+    "source": "clean_pages/page-0015.txt",
+    "pdf_start_page": 17,
+    "pdf_end_page": 17,
+    "chars": 2078
+  },
+  {
+    "source": "clean_pages/page-0016.txt",
+    "pdf_start_page": 18,
+    "pdf_end_page": 18,
+    "chars": 2116
+  },
+  {
+    "source": "clean_pages/page-0017.txt",
+    "pdf_start_page": 19,
+    "pdf_end_page": 19,
+    "chars": 2205
+  },
+  {
+    "source": "clean_pages/page-0018.txt",
+    "pdf_start_page": 20,
+    "pdf_end_page": 20,
+    "chars": 2156
+  },
+  {
+    "source": "clean_pages/page-0019.txt",
+    "pdf_start_page": 21,
+    "pdf_end_page": 21,
+    "chars": 2127
+  },
+  {
+    "source": "clean_pages/page-0020.txt",
+    "pdf_start_page": 22,
+    "pdf_end_page": 22,
+    "chars": 2196
+  },
+  {
+    "source": "clean_pages/page-0021.txt",
+    "pdf_start_page": 23,
+    "pdf_end_page": 23,
+    "chars": 2103
+  },
+  {
+    "source": "clean_pages/page-0022.txt",
+    "pdf_start_page": 24,
+    "pdf_end_page": 24,
+    "chars": 2220
+  },
+  {
+    "source": "clean_pages/page-0023.txt",
+    "pdf_start_page": 25,
+    "pdf_end_page": 25,
+    "chars": 2180
+  },
+  {
+    "source": "clean_pages/page-0024.txt",
+    "pdf_start_page": 26,
+    "pdf_end_page": 26,
+    "chars": 1779
+  },
+  {
+    "source": "clean_pages/page-0025.txt",
+    "pdf_start_page": 27,
+    "pdf_end_page": 27,
+    "chars": 2170
+  },
+  {
+    "source": "clean_pages/page-0026.txt",
+    "pdf_start_page": 28,
+    "pdf_end_page": 28,
+    "chars": 2233
+  },
+  {
+    "source": "clean_pages/page-0027.txt",
+    "pdf_start_page": 29,
+    "pdf_end_page": 29,
+    "chars": 2114
+  },
+  {
+    "source": "clean_pages/page-0028.txt",
+    "pdf_start_page": 30,
+    "pdf_end_page": 30,
+    "chars": 2168
+  },
+  {
+    "source": "clean_pages/page-0029.txt",
+    "pdf_start_page": 31,
+    "pdf_end_page": 31,
+    "chars": 2151
+  },
+  {
+    "source": "clean_pages/page-0030.txt",
+    "pdf_start_page": 32,
+    "pdf_end_page": 32,
+    "chars": 2179
+  },
+  {
+    "source": "clean_pages/page-0031.txt",
+    "pdf_start_page": 33,
+    "pdf_end_page": 33,
+    "chars": 2185
+  },
+  {
+    "source": "clean_pages/page-0032.txt",
+    "pdf_start_page": 34,
+    "pdf_end_page": 34,
+    "chars": 2178
+  },
+  {
+    "source": "clean_pages/page-0033.txt",
+    "pdf_start_page": 35,
+    "pdf_end_page": 35,
+    "chars": 2125
+  },
+  {
+    "source": "clean_pages/page-0034.txt",
+    "pdf_start_page": 36,
+    "pdf_end_page": 36,
+    "chars": 2135
+  },
+  {
+    "source": "clean_pages/page-0035.txt",
+    "pdf_start_page": 37,
+    "pdf_end_page": 37,
+    "chars": 2014
+  },
+  {
+    "source": "clean_pages/page-0036.txt",
+    "pdf_start_page": 38,
+    "pdf_end_page": 38,
+    "chars": 2038
+  },
+  {
+    "source": "clean_pages/page-0037.txt",
+    "pdf_start_page": 39,
+    "pdf_end_page": 39,
+    "chars": 2016
+  },
+  {
+    "source": "clean_pages/page-0038.txt",
+    "pdf_start_page": 40,
+    "pdf_end_page": 40,
+    "chars": 2178
+  },
+  {
+    "source": "clean_pages/page-0039.txt",
+    "pdf_start_page": 41,
+    "pdf_end_page": 41,
+    "chars": 1822
+  },
+  {
+    "source": "clean_pages/page-0040.txt",
+    "pdf_start_page": 42,
+    "pdf_end_page": 42,
+    "chars": 2035
+  },
+  {
+    "source": "clean_pages/page-0041.txt",
+    "pdf_start_page": 43,
+    "pdf_end_page": 43,
+    "chars": 2064
+  },
+  {
+    "source": "clean_pages/page-0042.txt",
+    "pdf_start_page": 44,
+    "pdf_end_page": 44,
+    "chars": 2063
+  },
+  {
+    "source": "clean_pages/page-0043.txt",
+    "pdf_start_page": 45,
+    "pdf_end_page": 45,
+    "chars": 2165
+  },
+  {
+    "source": "clean_pages/page-0044.txt",
+    "pdf_start_page": 46,
+    "pdf_end_page": 46,
+    "chars": 2155
+  },
+  {
+    "source": "clean_pages/page-0045.txt",
+    "pdf_start_page": 47,
+    "pdf_end_page": 47,
+    "chars": 2090
+  },
+  {
+    "source": "clean_pages/page-0046.txt",
+    "pdf_start_page": 48,
+    "pdf_end_page": 48,
+    "chars": 2114
+  },
+  {
+    "source": "clean_pages/page-0047.txt",
+    "pdf_start_page": 49,
+    "pdf_end_page": 49,
+    "chars": 2005
+  },
+  {
+    "source": "clean_pages/page-0048.txt",
+    "pdf_start_page": 50,
+    "pdf_end_page": 50,
+    "chars": 2113
+  },
+  {
+    "source": "clean_pages/page-0049.txt",
+    "pdf_start_page": 51,
+    "pdf_end_page": 51,
+    "chars": 2166
+  },
+  {
+    "source": "clean_pages/page-0050.txt",
+    "pdf_start_page": 52,
+    "pdf_end_page": 52,
+    "chars": 2157
+  },
+  {
+    "source": "clean_pages/page-0051.txt",
+    "pdf_start_page": 53,
+    "pdf_end_page": 53,
+    "chars": 2035
+  },
+  {
+    "source": "clean_pages/page-0052.txt",
+    "pdf_start_page": 54,
+    "pdf_end_page": 54,
+    "chars": 1786
+  },
+  {
+    "source": "clean_pages/page-0053.txt",
+    "pdf_start_page": 55,
+    "pdf_end_page": 55,
+    "chars": 2118
+  },
+  {
+    "source": "clean_pages/page-0054.txt",
+    "pdf_start_page": 56,
+    "pdf_end_page": 56,
+    "chars": 2176
+  },
+  {
+    "source": "clean_pages/page-0055.txt",
+    "pdf_start_page": 57,
+    "pdf_end_page": 57,
+    "chars": 2225
+  },
+  {
+    "source": "clean_pages/page-0056.txt",
+    "pdf_start_page": 58,
+    "pdf_end_page": 58,
+    "chars": 2190
+  },
+  {
+    "source": "clean_pages/page-0057.txt",
+    "pdf_start_page": 59,
+    "pdf_end_page": 59,
+    "chars": 2115
+  },
+  {
+    "source": "clean_pages/page-0058.txt",
+    "pdf_start_page": 60,
+    "pdf_end_page": 60,
+    "chars": 2072
+  },
+  {
+    "source": "clean_pages/page-0059.txt",
+    "pdf_start_page": 61,
+    "pdf_end_page": 61,
+    "chars": 2148
+  },
+  {
+    "source": "clean_pages/page-0060.txt",
+    "pdf_start_page": 62,
+    "pdf_end_page": 62,
+    "chars": 2230
+  },
+  {
+    "source": "clean_pages/page-0061.txt",
+    "pdf_start_page": 63,
+    "pdf_end_page": 63,
+    "chars": 1828
+  },
+  {
+    "source": "clean_pages/page-0062.txt",
+    "pdf_start_page": 64,
+    "pdf_end_page": 64,
+    "chars": 2167
+  },
+  {
+    "source": "clean_pages/page-0063.txt",
+    "pdf_start_page": 65,
+    "pdf_end_page": 65,
+    "chars": 2112
+  },
+  {
+    "source": "clean_pages/page-0064.txt",
+    "pdf_start_page": 66,
+    "pdf_end_page": 66,
+    "chars": 2093
+  },
+  {
+    "source": "clean_pages/page-0065.txt",
+    "pdf_start_page": 67,
+    "pdf_end_page": 67,
+    "chars": 1947
+  },
+  {
+    "source": "clean_pages/page-0066.txt",
+    "pdf_start_page": 68,
+    "pdf_end_page": 68,
+    "chars": 2111
+  },
+  {
+    "source": "clean_pages/page-0067.txt",
+    "pdf_start_page": 69,
+    "pdf_end_page": 69,
+    "chars": 2121
+  },
+  {
+    "source": "clean_pages/page-0068.txt",
+    "pdf_start_page": 70,
+    "pdf_end_page": 70,
+    "chars": 2162
+  },
+  {
+    "source": "clean_pages/page-0069.txt",
+    "pdf_start_page": 71,
+    "pdf_end_page": 71,
+    "chars": 2062
+  },
+  {
+    "source": "clean_pages/page-0070.txt",
+    "pdf_start_page": 72,
+    "pdf_end_page": 72,
+    "chars": 2132
+  },
+  {
+    "source": "clean_pages/page-0071.txt",
+    "pdf_start_page": 73,
+    "pdf_end_page": 73,
+    "chars": 1995
+  },
+  {
+    "source": "clean_pages/page-0072.txt",
+    "pdf_start_page": 74,
+    "pdf_end_page": 74,
+    "chars": 1761
+  },
+  {
+    "source": "clean_pages/page-0073.txt",
+    "pdf_start_page": 75,
+    "pdf_end_page": 75,
+    "chars": 2152
+  },
+  {
+    "source": "clean_pages/page-0074.txt",
+    "pdf_start_page": 76,
+    "pdf_end_page": 76,
+    "chars": 2115
+  },
+  {
+    "source": "clean_pages/page-0075.txt",
+    "pdf_start_page": 77,
+    "pdf_end_page": 77,
+    "chars": 2218
+  },
+  {
+    "source": "clean_pages/page-0076.txt",
+    "pdf_start_page": 78,
+    "pdf_end_page": 78,
+    "chars": 2180
+  },
+  {
+    "source": "clean_pages/page-0077.txt",
+    "pdf_start_page": 79,
+    "pdf_end_page": 79,
+    "chars": 2226
+  },
+  {
+    "source": "clean_pages/page-0078.txt",
+    "pdf_start_page": 80,
+    "pdf_end_page": 80,
+    "chars": 2150
+  },
+  {
+    "source": "clean_pages/page-0079.txt",
+    "pdf_start_page": 81,
+    "pdf_end_page": 81,
+    "chars": 2124
+  },
+  {
+    "source": "clean_pages/page-0080.txt",
+    "pdf_start_page": 82,
+    "pdf_end_page": 82,
+    "chars": 2103
+  },
+  {
+    "source": "clean_pages/page-0081.txt",
+    "pdf_start_page": 83,
+    "pdf_end_page": 83,
+    "chars": 2156
+  },
+  {
+    "source": "clean_pages/page-0082.txt",
+    "pdf_start_page": 84,
+    "pdf_end_page": 84,
+    "chars": 2121
+  },
+  {
+    "source": "clean_pages/page-0083.txt",
+    "pdf_start_page": 85,
+    "pdf_end_page": 85,
+    "chars": 1697
+  },
+  {
+    "source": "clean_pages/page-0084.txt",
+    "pdf_start_page": 86,
+    "pdf_end_page": 86,
+    "chars": 2183
+  },
+  {
+    "source": "clean_pages/page-0085.txt",
+    "pdf_start_page": 87,
+    "pdf_end_page": 87,
+    "chars": 2123
+  },
+  {
+    "source": "clean_pages/page-0086.txt",
+    "pdf_start_page": 88,
+    "pdf_end_page": 88,
+    "chars": 2126
+  },
+  {
+    "source": "clean_pages/page-0087.txt",
+    "pdf_start_page": 89,
+    "pdf_end_page": 89,
+    "chars": 1979
+  },
+  {
+    "source": "clean_pages/page-0088.txt",
+    "pdf_start_page": 90,
+    "pdf_end_page": 90,
+    "chars": 2171
+  },
+  {
+    "source": "clean_pages/page-0089.txt",
+    "pdf_start_page": 91,
+    "pdf_end_page": 91,
+    "chars": 2126
+  },
+  {
+    "source": "clean_pages/page-0090.txt",
+    "pdf_start_page": 92,
+    "pdf_end_page": 92,
+    "chars": 2220
+  },
+  {
+    "source": "clean_pages/page-0091.txt",
+    "pdf_start_page": 93,
+    "pdf_end_page": 93,
+    "chars": 1923
+  },
+  {
+    "source": "clean_pages/page-0092.txt",
+    "pdf_start_page": 94,
+    "pdf_end_page": 94,
+    "chars": 2124
+  },
+  {
+    "source": "clean_pages/page-0093.txt",
+    "pdf_start_page": 95,
+    "pdf_end_page": 95,
+    "chars": 2162
+  },
+  {
+    "source": "clean_pages/page-0094.txt",
+    "pdf_start_page": 96,
+    "pdf_end_page": 96,
+    "chars": 2231
+  },
+  {
+    "source": "clean_pages/page-0095.txt",
+    "pdf_start_page": 97,
+    "pdf_end_page": 97,
+    "chars": 1788
+  },
+  {
+    "source": "clean_pages/page-0096.txt",
+    "pdf_start_page": 98,
+    "pdf_end_page": 98,
+    "chars": 2028
+  },
+  {
+    "source": "clean_pages/page-0097.txt",
+    "pdf_start_page": 99,
+    "pdf_end_page": 99,
+    "chars": 2120
+  },
+  {
+    "source": "clean_pages/page-0098.txt",
+    "pdf_start_page": 100,
+    "pdf_end_page": 100,
+    "chars": 2008
+  },
+  {
+    "source": "clean_pages/page-0099.txt",
+    "pdf_start_page": 101,
+    "pdf_end_page": 101,
+    "chars": 2189
+  },
+  {
+    "source": "clean_pages/page-0100.txt",
+    "pdf_start_page": 102,
+    "pdf_end_page": 102,
+    "chars": 2150
+  },
+  {
+    "source": "clean_pages/page-0101.txt",
+    "pdf_start_page": 103,
+    "pdf_end_page": 103,
+    "chars": 2067
+  },
+  {
+    "source": "clean_pages/page-0102.txt",
+    "pdf_start_page": 104,
+    "pdf_end_page": 104,
+    "chars": 1713
+  },
+  {
+    "source": "clean_pages/page-0103.txt",
+    "pdf_start_page": 105,
+    "pdf_end_page": 105,
+    "chars": 2143
+  },
+  {
+    "source": "clean_pages/page-0104.txt",
+    "pdf_start_page": 106,
+    "pdf_end_page": 106,
+    "chars": 2159
+  },
+  {
+    "source": "clean_pages/page-0105.txt",
+    "pdf_start_page": 107,
+    "pdf_end_page": 107,
+    "chars": 2064
+  },
+  {
+    "source": "clean_pages/page-0106.txt",
+    "pdf_start_page": 108,
+    "pdf_end_page": 108,
+    "chars": 2174
+  },
+  {
+    "source": "clean_pages/page-0107.txt",
+    "pdf_start_page": 109,
+    "pdf_end_page": 109,
+    "chars": 2202
+  },
+  {
+    "source": "clean_pages/page-0108.txt",
+    "pdf_start_page": 110,
+    "pdf_end_page": 110,
+    "chars": 2098
+  },
+  {
+    "source": "clean_pages/page-0109.txt",
+    "pdf_start_page": 111,
+    "pdf_end_page": 111,
+    "chars": 2089
+  },
+  {
+    "source": "clean_pages/page-0110.txt",
+    "pdf_start_page": 112,
+    "pdf_end_page": 112,
+    "chars": 2135
+  },
+  {
+    "source": "clean_pages/page-0111.txt",
+    "pdf_start_page": 113,
+    "pdf_end_page": 113,
+    "chars": 2133
+  },
+  {
+    "source": "clean_pages/page-0112.txt",
+    "pdf_start_page": 114,
+    "pdf_end_page": 114,
+    "chars": 2011
+  },
+  {
+    "source": "clean_pages/page-0113.txt",
+    "pdf_start_page": 115,
+    "pdf_end_page": 115,
+    "chars": 1034
+  },
+  {
+    "source": "clean_pages/page-0114.txt",
+    "pdf_start_page": 116,
+    "pdf_end_page": 116,
+    "chars": 34
+  },
+  {
+    "source": "clean_pages/page-0115.txt",
+    "pdf_start_page": 117,
+    "pdf_end_page": 117,
+    "chars": 1937
+  },
+  {
+    "source": "clean_pages/page-0116.txt",
+    "pdf_start_page": 118,
+    "pdf_end_page": 118,
+    "chars": 2166
+  },
+  {
+    "source": "clean_pages/page-0117.txt",
+    "pdf_start_page": 119,
+    "pdf_end_page": 119,
+    "chars": 2011
+  },
+  {
+    "source": "clean_pages/page-0118.txt",
+    "pdf_start_page": 120,
+    "pdf_end_page": 120,
+    "chars": 2024
+  },
+  {
+    "source": "clean_pages/page-0119.txt",
+    "pdf_start_page": 121,
+    "pdf_end_page": 121,
+    "chars": 2099
+  },
+  {
+    "source": "clean_pages/page-0120.txt",
+    "pdf_start_page": 122,
+    "pdf_end_page": 122,
+    "chars": 2118
+  },
+  {
+    "source": "clean_pages/page-0121.txt",
+    "pdf_start_page": 123,
+    "pdf_end_page": 123,
+    "chars": 2189
+  },
+  {
+    "source": "clean_pages/page-0122.txt",
+    "pdf_start_page": 124,
+    "pdf_end_page": 124,
+    "chars": 2112
+  },
+  {
+    "source": "clean_pages/page-0123.txt",
+    "pdf_start_page": 125,
+    "pdf_end_page": 125,
+    "chars": 2114
+  },
+  {
+    "source": "clean_pages/page-0124.txt",
+    "pdf_start_page": 126,
+    "pdf_end_page": 126,
+    "chars": 2085
+  },
+  {
+    "source": "clean_pages/page-0125.txt",
+    "pdf_start_page": 127,
+    "pdf_end_page": 127,
+    "chars": 2151
+  },
+  {
+    "source": "clean_pages/page-0126.txt",
+    "pdf_start_page": 128,
+    "pdf_end_page": 128,
+    "chars": 2103
+  },
+  {
+    "source": "clean_pages/page-0127.txt",
+    "pdf_start_page": 129,
+    "pdf_end_page": 129,
+    "chars": 2157
+  },
+  {
+    "source": "clean_pages/page-0128.txt",
+    "pdf_start_page": 130,
+    "pdf_end_page": 130,
+    "chars": 2042
+  },
+  {
+    "source": "clean_pages/page-0129.txt",
+    "pdf_start_page": 131,
+    "pdf_end_page": 131,
+    "chars": 1790
+  },
+  {
+    "source": "clean_pages/page-0130.txt",
+    "pdf_start_page": 132,
+    "pdf_end_page": 132,
+    "chars": 2029
+  },
+  {
+    "source": "clean_pages/page-0131.txt",
+    "pdf_start_page": 133,
+    "pdf_end_page": 133,
+    "chars": 2082
+  },
+  {
+    "source": "clean_pages/page-0132.txt",
+    "pdf_start_page": 134,
+    "pdf_end_page": 134,
+    "chars": 2197
+  },
+  {
+    "source": "clean_pages/page-0133.txt",
+    "pdf_start_page": 135,
+    "pdf_end_page": 135,
+    "chars": 2015
+  },
+  {
+    "source": "clean_pages/page-0134.txt",
+    "pdf_start_page": 136,
+    "pdf_end_page": 136,
+    "chars": 2172
+  },
+  {
+    "source": "clean_pages/page-0135.txt",
+    "pdf_start_page": 137,
+    "pdf_end_page": 137,
+    "chars": 2107
+  },
+  {
+    "source": "clean_pages/page-0136.txt",
+    "pdf_start_page": 138,
+    "pdf_end_page": 138,
+    "chars": 2101
+  },
+  {
+    "source": "clean_pages/page-0137.txt",
+    "pdf_start_page": 139,
+    "pdf_end_page": 139,
+    "chars": 2113
+  },
+  {
+    "source": "clean_pages/page-0138.txt",
+    "pdf_start_page": 140,
+    "pdf_end_page": 140,
+    "chars": 2150
+  },
+  {
+    "source": "clean_pages/page-0139.txt",
+    "pdf_start_page": 141,
+    "pdf_end_page": 141,
+    "chars": 1777
+  },
+  {
+    "source": "clean_pages/page-0140.txt",
+    "pdf_start_page": 142,
+    "pdf_end_page": 142,
+    "chars": 2062
+  },
+  {
+    "source": "clean_pages/page-0141.txt",
+    "pdf_start_page": 143,
+    "pdf_end_page": 143,
+    "chars": 2099
+  },
+  {
+    "source": "clean_pages/page-0142.txt",
+    "pdf_start_page": 144,
+    "pdf_end_page": 144,
+    "chars": 2015
+  },
+  {
+    "source": "clean_pages/page-0143.txt",
+    "pdf_start_page": 145,
+    "pdf_end_page": 145,
+    "chars": 2026
+  },
+  {
+    "source": "clean_pages/page-0144.txt",
+    "pdf_start_page": 146,
+    "pdf_end_page": 146,
+    "chars": 2037
+  },
+  {
+    "source": "clean_pages/page-0145.txt",
+    "pdf_start_page": 147,
+    "pdf_end_page": 147,
+    "chars": 2165
+  },
+  {
+    "source": "clean_pages/page-0146.txt",
+    "pdf_start_page": 148,
+    "pdf_end_page": 148,
+    "chars": 2080
+  },
+  {
+    "source": "clean_pages/page-0147.txt",
+    "pdf_start_page": 149,
+    "pdf_end_page": 149,
+    "chars": 2210
+  },
+  {
+    "source": "clean_pages/page-0148.txt",
+    "pdf_start_page": 150,
+    "pdf_end_page": 150,
+    "chars": 2094
+  },
+  {
+    "source": "clean_pages/page-0149.txt",
+    "pdf_start_page": 151,
+    "pdf_end_page": 151,
+    "chars": 2109
+  },
+  {
+    "source": "clean_pages/page-0150.txt",
+    "pdf_start_page": 152,
+    "pdf_end_page": 152,
+    "chars": 2131
+  },
+  {
+    "source": "clean_pages/page-0151.txt",
+    "pdf_start_page": 153,
+    "pdf_end_page": 153,
+    "chars": 1710
+  },
+  {
+    "source": "clean_pages/page-0152.txt",
+    "pdf_start_page": 154,
+    "pdf_end_page": 154,
+    "chars": 2194
+  },
+  {
+    "source": "clean_pages/page-0153.txt",
+    "pdf_start_page": 155,
+    "pdf_end_page": 155,
+    "chars": 2014
+  },
+  {
+    "source": "clean_pages/page-0154.txt",
+    "pdf_start_page": 156,
+    "pdf_end_page": 156,
+    "chars": 2138
+  },
+  {
+    "source": "clean_pages/page-0155.txt",
+    "pdf_start_page": 157,
+    "pdf_end_page": 157,
+    "chars": 2137
+  },
+  {
+    "source": "clean_pages/page-0156.txt",
+    "pdf_start_page": 158,
+    "pdf_end_page": 158,
+    "chars": 2122
+  },
+  {
+    "source": "clean_pages/page-0157.txt",
+    "pdf_start_page": 159,
+    "pdf_end_page": 159,
+    "chars": 2184
+  },
+  {
+    "source": "clean_pages/page-0158.txt",
+    "pdf_start_page": 160,
+    "pdf_end_page": 160,
+    "chars": 2198
+  },
+  {
+    "source": "clean_pages/page-0159.txt",
+    "pdf_start_page": 161,
+    "pdf_end_page": 161,
+    "chars": 2206
+  },
+  {
+    "source": "clean_pages/page-0160.txt",
+    "pdf_start_page": 162,
+    "pdf_end_page": 162,
+    "chars": 2147
+  },
+  {
+    "source": "clean_pages/page-0161.txt",
+    "pdf_start_page": 163,
+    "pdf_end_page": 163,
+    "chars": 2125
+  },
+  {
+    "source": "clean_pages/page-0162.txt",
+    "pdf_start_page": 164,
+    "pdf_end_page": 164,
+    "chars": 1725
+  },
+  {
+    "source": "clean_pages/page-0163.txt",
+    "pdf_start_page": 165,
+    "pdf_end_page": 165,
+    "chars": 2218
+  },
+  {
+    "source": "clean_pages/page-0164.txt",
+    "pdf_start_page": 166,
+    "pdf_end_page": 166,
+    "chars": 2181
+  },
+  {
+    "source": "clean_pages/page-0165.txt",
+    "pdf_start_page": 167,
+    "pdf_end_page": 167,
+    "chars": 2110
+  },
+  {
+    "source": "clean_pages/page-0166.txt",
+    "pdf_start_page": 168,
+    "pdf_end_page": 168,
+    "chars": 2145
+  },
+  {
+    "source": "clean_pages/page-0167.txt",
+    "pdf_start_page": 169,
+    "pdf_end_page": 169,
+    "chars": 2075
+  },
+  {
+    "source": "clean_pages/page-0168.txt",
+    "pdf_start_page": 170,
+    "pdf_end_page": 170,
+    "chars": 2211
+  },
+  {
+    "source": "clean_pages/page-0169.txt",
+    "pdf_start_page": 171,
+    "pdf_end_page": 171,
+    "chars": 2167
+  },
+  {
+    "source": "clean_pages/page-0170.txt",
+    "pdf_start_page": 172,
+    "pdf_end_page": 172,
+    "chars": 2190
+  },
+  {
+    "source": "clean_pages/page-0171.txt",
+    "pdf_start_page": 173,
+    "pdf_end_page": 173,
+    "chars": 2162
+  },
+  {
+    "source": "clean_pages/page-0172.txt",
+    "pdf_start_page": 174,
+    "pdf_end_page": 174,
+    "chars": 2108
+  },
+  {
+    "source": "clean_pages/page-0173.txt",
+    "pdf_start_page": 175,
+    "pdf_end_page": 175,
+    "chars": 2032
+  },
+  {
+    "source": "clean_pages/page-0174.txt",
+    "pdf_start_page": 176,
+    "pdf_end_page": 176,
+    "chars": 2044
+  },
+  {
+    "source": "clean_pages/page-0175.txt",
+    "pdf_start_page": 177,
+    "pdf_end_page": 177,
+    "chars": 1822
+  },
+  {
+    "source": "clean_pages/page-0176.txt",
+    "pdf_start_page": 178,
+    "pdf_end_page": 178,
+    "chars": 2048
+  },
+  {
+    "source": "clean_pages/page-0177.txt",
+    "pdf_start_page": 179,
+    "pdf_end_page": 179,
+    "chars": 2102
+  },
+  {
+    "source": "clean_pages/page-0178.txt",
+    "pdf_start_page": 180,
+    "pdf_end_page": 180,
+    "chars": 2015
+  },
+  {
+    "source": "clean_pages/page-0179.txt",
+    "pdf_start_page": 181,
+    "pdf_end_page": 181,
+    "chars": 2083
+  },
+  {
+    "source": "clean_pages/page-0180.txt",
+    "pdf_start_page": 182,
+    "pdf_end_page": 182,
+    "chars": 2077
+  },
+  {
+    "source": "clean_pages/page-0181.txt",
+    "pdf_start_page": 183,
+    "pdf_end_page": 183,
+    "chars": 1999
+  },
+  {
+    "source": "clean_pages/page-0182.txt",
+    "pdf_start_page": 184,
+    "pdf_end_page": 184,
+    "chars": 2143
+  },
+  {
+    "source": "clean_pages/page-0183.txt",
+    "pdf_start_page": 185,
+    "pdf_end_page": 185,
+    "chars": 2065
+  },
+  {
+    "source": "clean_pages/page-0184.txt",
+    "pdf_start_page": 186,
+    "pdf_end_page": 186,
+    "chars": 1998
+  },
+  {
+    "source": "clean_pages/page-0185.txt",
+    "pdf_start_page": 187,
+    "pdf_end_page": 187,
+    "chars": 2127
+  },
+  {
+    "source": "clean_pages/page-0186.txt",
+    "pdf_start_page": 188,
+    "pdf_end_page": 188,
+    "chars": 1792
+  },
+  {
+    "source": "clean_pages/page-0187.txt",
+    "pdf_start_page": 189,
+    "pdf_end_page": 189,
+    "chars": 2129
+  },
+  {
+    "source": "clean_pages/page-0188.txt",
+    "pdf_start_page": 190,
+    "pdf_end_page": 190,
+    "chars": 2144
+  },
+  {
+    "source": "clean_pages/page-0189.txt",
+    "pdf_start_page": 191,
+    "pdf_end_page": 191,
+    "chars": 1814
+  },
+  {
+    "source": "clean_pages/page-0190.txt",
+    "pdf_start_page": 192,
+    "pdf_end_page": 192,
+    "chars": 2000
+  },
+  {
+    "source": "clean_pages/page-0191.txt",
+    "pdf_start_page": 193,
+    "pdf_end_page": 193,
+    "chars": 1993
+  },
+  {
+    "source": "clean_pages/page-0192.txt",
+    "pdf_start_page": 194,
+    "pdf_end_page": 194,
+    "chars": 2172
+  },
+  {
+    "source": "clean_pages/page-0193.txt",
+    "pdf_start_page": 195,
+    "pdf_end_page": 195,
+    "chars": 2050
+  },
+  {
+    "source": "clean_pages/page-0194.txt",
+    "pdf_start_page": 196,
+    "pdf_end_page": 196,
+    "chars": 1974
+  },
+  {
+    "source": "clean_pages/page-0195.txt",
+    "pdf_start_page": 197,
+    "pdf_end_page": 197,
+    "chars": 1819
+  },
+  {
+    "source": "clean_pages/page-0196.txt",
+    "pdf_start_page": 198,
+    "pdf_end_page": 198,
+    "chars": 2020
+  },
+  {
+    "source": "clean_pages/page-0197.txt",
+    "pdf_start_page": 199,
+    "pdf_end_page": 199,
+    "chars": 2018
+  },
+  {
+    "source": "clean_pages/page-0198.txt",
+    "pdf_start_page": 200,
+    "pdf_end_page": 200,
+    "chars": 2172
+  },
+  {
+    "source": "clean_pages/page-0199.txt",
+    "pdf_start_page": 201,
+    "pdf_end_page": 201,
+    "chars": 2113
+  },
+  {
+    "source": "clean_pages/page-0200.txt",
+    "pdf_start_page": 202,
+    "pdf_end_page": 202,
+    "chars": 1929
+  },
+  {
+    "source": "clean_pages/page-0201.txt",
+    "pdf_start_page": 203,
+    "pdf_end_page": 203,
+    "chars": 2194
+  },
+  {
+    "source": "clean_pages/page-0202.txt",
+    "pdf_start_page": 204,
+    "pdf_end_page": 204,
+    "chars": 2078
+  },
+  {
+    "source": "clean_pages/page-0203.txt",
+    "pdf_start_page": 205,
+    "pdf_end_page": 205,
+    "chars": 2115
+  },
+  {
+    "source": "clean_pages/page-0204.txt",
+    "pdf_start_page": 206,
+    "pdf_end_page": 206,
+    "chars": 2115
+  },
+  {
+    "source": "clean_pages/page-0205.txt",
+    "pdf_start_page": 207,
+    "pdf_end_page": 207,
+    "chars": 2141
+  },
+  {
+    "source": "clean_pages/page-0206.txt",
+    "pdf_start_page": 208,
+    "pdf_end_page": 208,
+    "chars": 2182
+  },
+  {
+    "source": "clean_pages/page-0207.txt",
+    "pdf_start_page": 209,
+    "pdf_end_page": 209,
+    "chars": 2123
+  },
+  {
+    "source": "clean_pages/page-0208.txt",
+    "pdf_start_page": 210,
+    "pdf_end_page": 210,
+    "chars": 2103
+  },
+  {
+    "source": "clean_pages/page-0209.txt",
+    "pdf_start_page": 211,
+    "pdf_end_page": 211,
+    "chars": 2128
+  },
+  {
+    "source": "clean_pages/page-0210.txt",
+    "pdf_start_page": 212,
+    "pdf_end_page": 212,
+    "chars": 2141
+  },
+  {
+    "source": "clean_pages/page-0211.txt",
+    "pdf_start_page": 213,
+    "pdf_end_page": 213,
+    "chars": 1824
+  },
+  {
+    "source": "clean_pages/page-0212.txt",
+    "pdf_start_page": 214,
+    "pdf_end_page": 214,
+    "chars": 2063
+  },
+  {
+    "source": "clean_pages/page-0213.txt",
+    "pdf_start_page": 215,
+    "pdf_end_page": 215,
+    "chars": 2083
+  },
+  {
+    "source": "clean_pages/page-0214.txt",
+    "pdf_start_page": 216,
+    "pdf_end_page": 216,
+    "chars": 2082
+  },
+  {
+    "source": "clean_pages/page-0215.txt",
+    "pdf_start_page": 217,
+    "pdf_end_page": 217,
+    "chars": 2062
+  },
+  {
+    "source": "clean_pages/page-0216.txt",
+    "pdf_start_page": 218,
+    "pdf_end_page": 218,
+    "chars": 2028
+  },
+  {
+    "source": "clean_pages/page-0217.txt",
+    "pdf_start_page": 219,
+    "pdf_end_page": 219,
+    "chars": 2042
+  },
+  {
+    "source": "clean_pages/page-0218.txt",
+    "pdf_start_page": 220,
+    "pdf_end_page": 220,
+    "chars": 1830
+  },
+  {
+    "source": "clean_pages/page-0219.txt",
+    "pdf_start_page": 221,
+    "pdf_end_page": 221,
+    "chars": 2118
+  },
+  {
+    "source": "clean_pages/page-0220.txt",
+    "pdf_start_page": 222,
+    "pdf_end_page": 222,
+    "chars": 2093
+  },
+  {
+    "source": "clean_pages/page-0221.txt",
+    "pdf_start_page": 223,
+    "pdf_end_page": 223,
+    "chars": 2114
+  },
+  {
+    "source": "clean_pages/page-0222.txt",
+    "pdf_start_page": 224,
+    "pdf_end_page": 224,
+    "chars": 2110
+  },
+  {
+    "source": "clean_pages/page-0223.txt",
+    "pdf_start_page": 225,
+    "pdf_end_page": 225,
+    "chars": 1993
+  },
+  {
+    "source": "clean_pages/page-0224.txt",
+    "pdf_start_page": 226,
+    "pdf_end_page": 226,
+    "chars": 2036
+  },
+  {
+    "source": "clean_pages/page-0225.txt",
+    "pdf_start_page": 227,
+    "pdf_end_page": 227,
+    "chars": 2042
+  },
+  {
+    "source": "clean_pages/page-0226.txt",
+    "pdf_start_page": 228,
+    "pdf_end_page": 228,
+    "chars": 1941
+  },
+  {
+    "source": "clean_pages/page-0227.txt",
+    "pdf_start_page": 229,
+    "pdf_end_page": 229,
+    "chars": 2171
+  },
+  {
+    "source": "clean_pages/page-0228.txt",
+    "pdf_start_page": 230,
+    "pdf_end_page": 230,
+    "chars": 2061
+  },
+  {
+    "source": "clean_pages/page-0229.txt",
+    "pdf_start_page": 231,
+    "pdf_end_page": 231,
+    "chars": 2098
+  },
+  {
+    "source": "clean_pages/page-0230.txt",
+    "pdf_start_page": 232,
+    "pdf_end_page": 232,
+    "chars": 1696
+  },
+  {
+    "source": "clean_pages/page-0231.txt",
+    "pdf_start_page": 233,
+    "pdf_end_page": 233,
+    "chars": 2101
+  },
+  {
+    "source": "clean_pages/page-0232.txt",
+    "pdf_start_page": 234,
+    "pdf_end_page": 234,
+    "chars": 2029
+  },
+  {
+    "source": "clean_pages/page-0233.txt",
+    "pdf_start_page": 235,
+    "pdf_end_page": 235,
+    "chars": 2055
+  },
+  {
+    "source": "clean_pages/page-0234.txt",
+    "pdf_start_page": 236,
+    "pdf_end_page": 236,
+    "chars": 2155
+  },
+  {
+    "source": "clean_pages/page-0235.txt",
+    "pdf_start_page": 237,
+    "pdf_end_page": 237,
+    "chars": 2207
+  },
+  {
+    "source": "clean_pages/page-0236.txt",
+    "pdf_start_page": 238,
+    "pdf_end_page": 238,
+    "chars": 2015
+  },
+  {
+    "source": "clean_pages/page-0237.txt",
+    "pdf_start_page": 239,
+    "pdf_end_page": 239,
+    "chars": 2043
+  },
+  {
+    "source": "clean_pages/page-0238.txt",
+    "pdf_start_page": 240,
+    "pdf_end_page": 240,
+    "chars": 2237
+  },
+  {
+    "source": "clean_pages/page-0239.txt",
+    "pdf_start_page": 241,
+    "pdf_end_page": 241,
+    "chars": 1912
+  },
+  {
+    "source": "clean_pages/page-0240.txt",
+    "pdf_start_page": 242,
+    "pdf_end_page": 242,
+    "chars": 1862
+  }
+]

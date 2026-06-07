@@ -1,0 +1,58 @@
+Translate the following English literary text into fluent modern Simplified Chinese.
+
+Rules:
+- Preserve headings and paragraph breaks.
+- Use natural modern Mandarin, not classical Chinese.
+- Do not summarize, explain, omit, or add commentary.
+- Keep dialogue and quotation marks readable in Chinese.
+- Keep proper names consistent with the glossary.
+- Output only the Chinese translation.
+
+Glossary:
+# Translation Glossary
+
+Use Simplified Chinese and modern literary Mandarin.
+
+- Cyrano de Bergerac: 西拉诺·德·贝热拉克
+- Cyrano: 西拉诺
+- Other Worlds: 异世界
+- The States and Empires of the Moon: 月球诸国与诸帝国
+- The States and Empires of the Sun: 太阳诸国与诸帝国
+- Geoffrey Strachan: 杰弗里·斯特拉坎
+- Campanella: 康帕内拉
+- Descartes: 笛卡尔
+- Gassendi: 伽森狄
+- Kepler: 开普勒
+- Copernicus: 哥白尼
+- Epicurus: 伊壁鸠鲁
+- Pythagoras: 毕达哥拉斯
+- Democritus: 德谟克利特
+- Girolamo Cardano: 吉罗拉莫·卡尔达诺
+- Cardano: 卡尔达诺
+- Prometheus: 普罗米修斯
+- The Moon: 月球
+- The Sun: 太阳
+
+Text:
+‘Finally, when I crossed over from your country to England to study the way of life of its inhabitants, I met aman who was a disgrace to his country—for it is a real disgrace that the great ones of your state can discern in him the virtue of which he is the seat, but do not worship it. To cut his praises short, he is all intellect and all heart, and possesses all those qualities, a single one of which would have sufficed to mark him asa hero in the old days; this was Tristan l’Hermite.’ I should have avoided naming him, for I am sure he will never forgive me for this blunder, but as I do not ever expect to return to your world, I want to offer this testimony of my conscience to the truth. And I must admit, frankly, that when I saw such
+
+7 Tommaso Campanella (1566-1639), philosopher and author of T he City of the Sun. His rejection of Aristotle’s scientific teaching helped to earn him many years of imprisonment, interrogation and, torture.
+
+8 Francois de La Mothe Le Vayer (1588-1672): traveller, libertine, friend of Gassendi (1592-1655), the sceptical philosopher. His son was a friend of Cyrano.
+
+*Francois Tristan l’Hermite (1601-55), poet and tragedian, a
+friend of Cyrano.
+
+lofty virtue, I was afraid that it would go unrecognized. That is why I tried to make him accept three phials: the first one was filled with oil of talc, the next with powder of projection, and the last with potable gold, in other words, the vital essence from which your chemists promise eternal life. But he refused them with a scorn more noble than that with which Diogenes received Alexander’s compliments, when he came to visit him in his barrel. I can add nothing, finally, to my eulogy of this man, save that he is the only poet, the only philosopher, and the only free man among you. These are the people with whom I conversed who are worthy of note. All the rest, at least of those I knew, are so sub-human that I have seen beasts somewhat superior to them.
+
+‘I should add that I am not a native of your earth at all, nor of this one: I was born in the sun. But because our world sometimes becomes over-populated, on account of the longevity of its inhabitants and the almost total lack of wars and diseases, from time to time the magistrates send out colonists into the neighbouring worlds. As for myself, I was ordered to go to yours and proclaimed leader of the population they sent with me. I have since then moved to this one for the reasons I gave you; and what induces me to stay here at the moment is the fact that men here are lovers of truth. There is not a pedant to be seen. Philosophers only permit themselves to be convinced by reason and neither the authority of a scholar, nor that of the majority can outweigh the opinion of a thresher on the farm, when his arguments are as good as theirs. In this country, briefly, only logic-choppers and tubthumpers are reckoned to be mad.’
+
+I asked him how long his kind lived. He told me three or four thousand years and continued in this way: ‘In order to make myself visible, as I am at present, when I feel that the carcass I inhabit is almost worn out or that the organs are no longer performing their functions perfectly enough, I breathe myself into a young body recently dead.
+
+‘Although the inhabitants of the sun are less numerous than those of this world, the sun is often overcrowded with them, since, being of a very fiery temperament, the people are restless and ambitious and have great appetites.
+
+‘What I am telling you should not seem surprising, for although our globe is very vast and yours is small, although we die only after four thousand years and you after half a century, you must know that, all the same, there are not so many stones as there are grains of earth, nor so many plants as stones, nor so many animals as plants, nor so many men as animals. It follows that there should not be so many demons as men, because of the difficulties encountered in the generation of so perfect a composite being.’
+
+I asked him if they had bodies, like us. He replied yes, they had bodies, but not like ours, nor like anything which we considered as such, because we commonly only call a body what we can touch. There was, in any case, nothing in nature which was not material; and although they themselves were, when they wanted to make themselves visible to us, they were forced to assume shapes commensurate with what our senses are capable of perceiving. This was doubtless what had caused many of us to think that the stories which were told about them were no more than the products of feeble-minded people’s dreams, since they only appeared at night. He added that as they were obliged to be hasty in manufacturing themselves the bodies they had to use, they very often lacked the time to make them perceptible to more than one of the senses. Sometimes this would be hearing, as with the voices of oracles; sometimes sight, as with jack o’lanterns and spectres; sometimes touch, as with incubi and nightmares. Since their bodies were nothing but air thickened in one way or another, this was destroyed by the warmth of light, just as one sees light dissipating a fog by dilating it.
+
+He explained so many fine things to me that I was curious to question him about his birth and his death, to know whether individuals in the country of the sun saw the light of day by way of procreation and if he died through the disorder of his constitution or the rupture of his organs.

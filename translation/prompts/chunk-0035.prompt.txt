@@ -1,0 +1,69 @@
+Translate the following English literary text into fluent modern Simplified Chinese.
+
+Rules:
+- Preserve headings and paragraph breaks.
+- Use natural modern Mandarin, not classical Chinese.
+- Do not summarize, explain, omit, or add commentary.
+- Keep dialogue and quotation marks readable in Chinese.
+- Keep proper names consistent with the glossary.
+- Output only the Chinese translation.
+
+Glossary:
+# Translation Glossary
+
+Use Simplified Chinese and modern literary Mandarin.
+
+- Cyrano de Bergerac: 西拉诺·德·贝热拉克
+- Cyrano: 西拉诺
+- Other Worlds: 异世界
+- The States and Empires of the Moon: 月球诸国与诸帝国
+- The States and Empires of the Sun: 太阳诸国与诸帝国
+- Geoffrey Strachan: 杰弗里·斯特拉坎
+- Campanella: 康帕内拉
+- Descartes: 笛卡尔
+- Gassendi: 伽森狄
+- Kepler: 开普勒
+- Copernicus: 哥白尼
+- Epicurus: 伊壁鸠鲁
+- Pythagoras: 毕达哥拉斯
+- Democritus: 德谟克利特
+- Girolamo Cardano: 吉罗拉莫·卡尔达诺
+- Cardano: 卡尔达诺
+- Prometheus: 普罗米修斯
+- The Moon: 月球
+- The Sun: 太阳
+
+Text:
+‘By my faith,’ I retorted, ‘what was the good of them exposing their great noses to the sun for me to find out?’
+
+‘It is a device,’ they told me, ‘which enables them to do without a clock; for with their teeth they make a sundial so precise, that when they want to tell anyone the time they open their lips and the shadow of this nose falling upon their teeth indicates what the questioner is anxious to know, just like a sundial. Now, in case you want to know why everyone in this country has a large nose, learn that as soon as a woman is brought to bed, the midwife takes the child to the Prior of the Seminary and if at the end of the year when the experts are assembled, its nose is found shorter than a certain measure kept by the Syndic, it is declared snub-nosed and handed over to people who castrate it. You will ask me the cause of this barbarousness and how it can be that we, among whom virginity is a crime, should establish continence by force. But learn that we do it after having observed for thirty centuries that a large nose is the mark of a witty, courteous, affable, generous, and liberal man and that a small one is a mark of the opposite. That is why we make eunuchs of our snub-nosed babies, because the Republic would rather have no children, than any more like these.’
+
+He was still speaking when I saw a completely naked man coming in. I sat down at once and put my hat on, for these are the marks of the greatest respect one can show anyone in that country.
+
+“The Realm,’ he said, ‘desires that before returning to your world, you should notify the Magistrates, because a mathematician has just promised the Council that, provided when you return home you are willing to construct a certain machine according to his instructions, he will attract your globe and join it to this one.’
+
+I promised not to fail in this.
+
+‘Now tell me, pray,’ I said to my young host when the other man had gone, ‘why that ambassador carries pudenda made of bronze at his belt.’ Indeed I had observed this a number of times when I was in my cage, without daring to ask about it, since I was always surrounded by the Queen’s ladies-inwaiting, whom I feared to offend if I had turned the conversation to so coarse a topic in their presence.
+
+In reply to me he said: “The females here are not, any more than the males, so ungrateful as to blush at the sight of that which forged them, and virgins are not ashamed to admire upon us in memory of their mother, nature, the only thing which bears her name. Know then that the sash with which this man is honoured and from which the image of a virile phallus hangs as a medal, is the symbol of the gentleman and the mark which distinguishes the nobleman from the commoner.’
+
+This paradox seemed to me so extravagant that I could not keep myself from laughing. ‘It seems a most extraordinary custom to me,’ I retorted, ‘for in our world the mark of nobility is to carry a sword.’
+
+But without losing his composure my host cried out: ‘Oh, indeed, my little man! So the great ones in your world are frantic to parade an instrument which designates the executioner and is only forged to destroy us—in short, the sworn enemy of all living things, and on the contrary to hide an organ without which we should be among the ranks of the non-existent, the Prometheus of every animal and the tireless repairer of the weaknesses of nature! Unhappy country where the symbols of generation are ignominious and those of destruction are honourable! Yet you call that organ your pudenda, as if there could be anything more glorious than giving life and anything more shameful than taking it.’
+
+During all this discourse we continued dining, and as soon as we had risen from the table we went into the garden to take the air.
+
+9
+The fate of an unbeliever
+
+For a while the events of our walk and the beauty of the place occupied all our attention but, as I itched more than anything with a most noble longing to convert to our religion a soul so highly elevated above the common herd, I exhorted him a thousand times over not to sully with material considerations the fine genius which heaven had bestowed on him, and to rescue from the throng of the animals a spirit capable of the vision of God. Lastly I urged him seriously to consider the prospect of one day seeing his immortality spent in a state of bliss rather than one of pain.
+
+‘What!’ he answered with a shout of laughter, ‘do you hold your soul to be immortal to the exclusion of the beasts? ‘To be frank with you, my dear friend, you have a most insolent pride. From whence, pray, do you deduce this immortality at the expense of the beasts? Might it be because we are gifted with reason and they are not? In the first place I deny this and I will prove to you, any time you please, that they can think just like us. But even if it were true and reason had been handed out to us as a prerogative, a privilege reserved solely for our species, would this mean that God must enrich man with immortality because He had already lavished reason upon him? Then, by that reckoning, I must give this pauper a pistole today because I gave him a crown yesterday? You can see for yourself the fallacy in this logic and that, on the contrary, if Iam just, instead of giving this man a pistole, I should give the next man a crown, because he has had nothing from me. And from that one must conclude, O my dear companion, that God, being yet a thousand times more just than us, would not have given everything to some and left nothing for the others. You may cite the example of the elder sons in your world who carry off almost all the goods in the house as their patrimony. This, however, is a weakness on the part of their fathers, who want to perpetuate their name and are afraid of it being ruined or lost through poverty. But God, who is incapable of errors, would certainly take good care not to commit such a great one, and besides, since there is neither a before nor an after in God’s eternity, in His sight juniors are no younger than seniors.’
+
+I will not conceal the fact that these arguments shook me.
+
+‘If you will allow me,’ I said, ‘I will drop this subject, because I do not feel confident enough to answer you. I am
+
+going to our common mentor to seek the solution to the
+difficulty.’
