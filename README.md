@@ -1,5 +1,10 @@
 # Suba Clean OCR Project
 
+This project was driven by my own interest, I am trying to translate a scanned copy of a physical book, like in an archived form. The challenges are successfuly extracting the text from the original PDF, the characters can be altered for example a number '1' can be treated as letter 'i', as well as the layout of different text form like titles, spacing between lines can greatly affect the text.
+
+Then its the noises in blank pages, page numbers, chapter titles on top of every page although not all books have this. These are randomly throughout the book and are unwanted content when translating. After obtaining clean pages, I translated it with help of AI models and edited the layout into reading-friendly.
+
+
 This project was generated from:
 
 - PDF: `/Users/miikka/Downloads/otherworldscomic0000cyra_1.pdf`
